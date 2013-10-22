@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-23 12:05+0200\n"
-"PO-Revision-Date: 2013-05-26 20:57+0000\n"
+"PO-Revision-Date: 2013-06-19 19:05+0000\n"
 "Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1369601860.0\n"
+"X-POOTLE-MTIME: 1371668707.0\n"
 
 #. aTCQD
 #: menuids3_tmpl.src
@@ -4533,7 +4533,7 @@ msgctxt ""
 "STR_TASKPANEL_MASTER_PAGE_MENU_LOCK\n"
 "string.text"
 msgid "~Dock Task Pane"
-msgstr "Za~dokuj ramkę zadań"
+msgstr "~Dokuj ramkę zadań"
 
 #. qRfEE
 #: strings.src
@@ -4771,13 +4771,12 @@ msgstr "Proszę dodać obrazy do albumu."
 
 #. Tou6e
 #: strings.src
-#, fuzzy
 msgctxt ""
 "strings.src\n"
 "STR_PHOTO_ALBUM_TEXTBOX\n"
 "string.text"
 msgid "Text Slide"
-msgstr "Slajd tekstu"
+msgstr "Slajd tekstowy"
 
 #. ywonR
 #: toolbox.src

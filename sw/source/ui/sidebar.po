@@ -5,8 +5,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-23 12:05+0200\n"
-"PO-Revision-Date: 2013-06-03 19:45+0000\n"
-"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"PO-Revision-Date: 2013-06-21 13:39+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1370288704.0\n"
+"X-POOTLE-MTIME: 1371821980.0\n"
 
 #. x5pAh
 #: PagePropertyPanel.src
@@ -189,7 +189,7 @@ msgctxt ""
 "FT_INNER\n"
 "fixedtext.text"
 msgid "I~nner:"
-msgstr "Wewnętrzny:"
+msgstr "Wew~nętrzny:"
 
 #. ZWQJN
 #: PagePropertyPanel.src

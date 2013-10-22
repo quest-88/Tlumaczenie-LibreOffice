@@ -5,8 +5,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-23 12:06+0200\n"
-"PO-Revision-Date: 2013-05-27 21:28+0000\n"
-"Last-Translator: Michał <manveru1986@gmail.com>\n"
+"PO-Revision-Date: 2013-10-13 01:18+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -14,9 +14,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: LibreOffice\n"
+"X-Generator: Pootle 2.5.0\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1369690089.0\n"
+"X-POOTLE-MTIME: 1381627122.0\n"
 
 #. sA97m
 #: autofmt.src
@@ -1143,7 +1143,7 @@ msgctxt ""
 "5\n"
 "stringlist.text"
 msgid "This week"
-msgstr "Ten tydzień"
+msgstr "Bieżący tydzień"
 
 #. 8GwBf
 #: condformatdlg.src
@@ -1153,7 +1153,7 @@ msgctxt ""
 "6\n"
 "stringlist.text"
 msgid "Last week"
-msgstr "Ostatni tydzień"
+msgstr "Zeszły tydzień"
 
 #. 8as7S
 #: condformatdlg.src
@@ -1163,7 +1163,7 @@ msgctxt ""
 "7\n"
 "stringlist.text"
 msgid "Next week"
-msgstr "Następny tydzień"
+msgstr "Przyszły tydzień"
 
 #. oEJjX
 #: condformatdlg.src
@@ -1173,7 +1173,7 @@ msgctxt ""
 "8\n"
 "stringlist.text"
 msgid "This month"
-msgstr "Ten miesiąc"
+msgstr "Bieżący miesiąc"
 
 #. TcGYB
 #: condformatdlg.src
@@ -1183,7 +1183,7 @@ msgctxt ""
 "9\n"
 "stringlist.text"
 msgid "Last month"
-msgstr "Ostatni miesiąc"
+msgstr "Zeszły miesiąc"
 
 #. cL5Yq
 #: condformatdlg.src
@@ -1193,7 +1193,7 @@ msgctxt ""
 "10\n"
 "stringlist.text"
 msgid "Next month"
-msgstr "Następny miesiąc"
+msgstr "Przyszły miesiąc"
 
 #. j6yZ2
 #: condformatdlg.src
@@ -1203,7 +1203,7 @@ msgctxt ""
 "11\n"
 "stringlist.text"
 msgid "This year"
-msgstr "Ten rok"
+msgstr "Bieżący rok"
 
 #. TmCCJ
 #: condformatdlg.src
@@ -1213,7 +1213,7 @@ msgctxt ""
 "12\n"
 "stringlist.text"
 msgid "Last year"
-msgstr "Ostatni rok"
+msgstr "Zeszły rok"
 
 #. TEG6F
 #: condformatdlg.src
@@ -1223,7 +1223,7 @@ msgctxt ""
 "13\n"
 "stringlist.text"
 msgid "Next year"
-msgstr "Następny rok"
+msgstr "Przyszły rok"
 
 #. GbqrR
 #: condformatdlg.src
@@ -8385,7 +8385,7 @@ msgctxt ""
 "FID_INS_ROW\n"
 "menuitem.text"
 msgid "~Insert Rows Above"
-msgstr "Wstaw wiersze powyżej"
+msgstr "Wstaw w~iersze powyżej"
 
 #. f8yDm
 #: hdrcont.src
@@ -12688,7 +12688,7 @@ msgctxt ""
 "2\n"
 "string.text"
 msgid "year"
-msgstr "Rok"
+msgstr "rok"
 
 #. dyD3c
 #: scfuncs.src
@@ -12710,7 +12710,7 @@ msgctxt ""
 "4\n"
 "string.text"
 msgid "month"
-msgstr "Miesiąc"
+msgstr "miesiąc"
 
 #. qrcDY
 #: scfuncs.src
@@ -12730,7 +12730,7 @@ msgctxt ""
 "6\n"
 "string.text"
 msgid "day"
-msgstr "Dzień"
+msgstr "dzień"
 
 #. g3FCL
 #: scfuncs.src
@@ -19417,7 +19417,7 @@ msgctxt ""
 "6\n"
 "string.text"
 msgid "new data_X"
-msgstr "Nowe_dane_X"
+msgstr "nowe dane_X"
 
 #. JG4e4
 #: scfuncs.src
@@ -22498,7 +22498,7 @@ msgctxt ""
 "4\n"
 "string.text"
 msgid "degrees_freedom"
-msgstr "Stopnie swobody"
+msgstr "stopnie_swobody"
 
 #. dDQA9
 #: scfuncs.src
@@ -22571,7 +22571,7 @@ msgctxt ""
 "4\n"
 "string.text"
 msgid "degrees_freedom"
-msgstr "Stopnie swobody"
+msgstr "stopnie_swobody"
 
 #. boocr
 #: scfuncs.src
@@ -22621,7 +22621,7 @@ msgctxt ""
 "4\n"
 "string.text"
 msgid "degrees_freedom_1"
-msgstr "Stopnie swobody_1"
+msgstr "stopnie_swobody_1"
 
 #. kkS6e
 #: scfuncs.src
@@ -22641,7 +22641,7 @@ msgctxt ""
 "6\n"
 "string.text"
 msgid "degrees_freedom_2"
-msgstr "Stopnie swobody_2"
+msgstr "stopnie_swobody_2"
 
 #. Y5TSt
 #: scfuncs.src
@@ -22692,7 +22692,7 @@ msgctxt ""
 "4\n"
 "string.text"
 msgid "degrees_freedom_1"
-msgstr "Stopnie swobody_1"
+msgstr "stopnie_swobody_1"
 
 #. Ffz57
 #: scfuncs.src
@@ -22712,7 +22712,7 @@ msgctxt ""
 "6\n"
 "string.text"
 msgid "degrees_freedom_2"
-msgstr "Stopnie swobody_2"
+msgstr "stopnie_swobody_2"
 
 #. tFezu
 #: scfuncs.src
@@ -22762,7 +22762,7 @@ msgctxt ""
 "4\n"
 "string.text"
 msgid "degrees_freedom"
-msgstr "Stopnie swobody"
+msgstr "stopnie_swobody"
 
 #. eMGz5
 #: scfuncs.src
@@ -22891,7 +22891,7 @@ msgctxt ""
 "4\n"
 "string.text"
 msgid "degrees_freedom"
-msgstr "Stopnie swobody"
+msgstr "stopnie_swobody"
 
 #. PQCDC
 #: scfuncs.src

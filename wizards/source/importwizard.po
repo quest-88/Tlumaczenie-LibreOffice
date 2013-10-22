@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2013-05-23 12:05+0200\n"
-"PO-Revision-Date: 2012-06-18 17:19+0200\n"
+"POT-Creation-Date: 2013-06-10 10:39+0200\n"
+"PO-Revision-Date: 2013-06-10 17:59+0000\n"
 "Last-Translator: quest-88 <quest-88@o2.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -16,6 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1370887154.0\n"
 
 #. MnCU7
 #: importwi.src
@@ -136,14 +137,14 @@ msgctxt ""
 msgid "Excel documents"
 msgstr "Dokumenty programu Excel"
 
-#. C89Q7
+#. 3cPDC
 #: importwi.src
 msgctxt ""
 "importwi.src\n"
 "sMSDocumentCheckbox_3_\n"
 "string.text"
-msgid "PowerPoint documents"
-msgstr "Dokumenty programu PowerPoint"
+msgid "PowerPoint/Publisher documents"
+msgstr "Dokumenty PowerPoint/Publisher"
 
 #. Dx9BA
 #: importwi.src
@@ -517,16 +518,16 @@ msgstr ""
 "Importowane będą wszystkie dokumenty programu Excel z następującego "
 "katalogu:"
 
-#. gqmuV
+#. nBSyM
 #: importwi.src
 msgctxt ""
 "importwi.src\n"
 "sSumMSDrawDocuments\n"
 "string.text"
-msgid "All PowerPoint documents contained in the following directory will be imported:"
+msgid "All PowerPoint/Publisher documents contained in the following directory will be imported:"
 msgstr ""
-"Importowane będą wszystkie dokumenty programu PowerPoint z następującego "
-"katalogu:"
+"Importowane będą wszystkie dokumenty programu PowerPoint/Publisher z "
+"następującego katalogu:"
 
 #. rciHq
 #: importwi.src
@@ -558,6 +559,22 @@ msgid "All PowerPoint templates contained in the following directory will be imp
 msgstr ""
 "Importowane będą wszystkie szablony programu PowerPoint z następującego "
 "katalogu:"
+
+#~ msgctxt ""
+#~ "importwi.src\n"
+#~ "sMSDocumentCheckbox_3_\n"
+#~ "string.text"
+#~ msgid "PowerPoint documents"
+#~ msgstr "Dokumenty programu PowerPoint"
+
+#~ msgctxt ""
+#~ "importwi.src\n"
+#~ "sSumMSDrawDocuments\n"
+#~ "string.text"
+#~ msgid "All PowerPoint documents contained in the following directory will be imported:"
+#~ msgstr ""
+#~ "Importowane będą wszystkie dokumenty programu PowerPoint z następującego "
+#~ "katalogu:"
 
 #~ msgctxt ""
 #~ "importwi.src\n"

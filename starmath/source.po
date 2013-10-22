@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2013-05-23 12:05+0200\n"
-"PO-Revision-Date: 2013-05-27 15:29+0000\n"
-"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"POT-Creation-Date: 2013-06-13 17:25+0200\n"
+"PO-Revision-Date: 2013-08-28 11:29+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,97 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1369668584.0\n"
+"X-POOTLE-MTIME: 1377689340.0\n"
+
+#. mVuxV
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_UNARY_BINARY_OPERATORS\n"
+"string.text"
+msgid "Unary/Binary Operators"
+msgstr "Operatory jedno- lub dwuargumentowe"
+
+#. GrTeC
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_RELATIONS\n"
+"string.text"
+msgid "Relations"
+msgstr "Relacje"
+
+#. EgBpQ
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_SET_OPERATIONS\n"
+"string.text"
+msgid "Set Operations"
+msgstr "Operacje na zbiorach"
+
+#. jgkQ2
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_FUNCTIONS\n"
+"string.text"
+msgid "Functions"
+msgstr "Funkcje"
+
+#. 9oyqC
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_OPERATORS\n"
+"string.text"
+msgid "Operators"
+msgstr "Operatory"
+
+#. hgtto
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_ATTRIBUTES\n"
+"string.text"
+msgid "Attributes"
+msgstr "Atrybuty"
+
+#. cDDMd
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_BRACKETS\n"
+"string.text"
+msgid "Brackets"
+msgstr "Nawiasy"
+
+#. g7TnD
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_FORMATS\n"
+"string.text"
+msgid "Formats"
+msgstr "Formaty"
+
+#. B4P7s
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_OTHERS\n"
+"string.text"
+msgid "Others"
+msgstr "Inne"
+
+#. Wwmsd
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_CATEGORY_EXAMPLES\n"
+"string.text"
+msgid "Examples"
+msgstr "Przykłady"
 
 #. fpRWC
 #: commands.src
@@ -1556,14 +1646,14 @@ msgctxt ""
 msgid "Commands"
 msgstr "Polecenia"
 
-#. 9CmPE
+#. 8HXc4
 #: smres.src
 msgctxt ""
 "smres.src\n"
 "RID_ELEMENTSDOCKINGWINDOW\n"
 "dockingwindow.text"
-msgid "Symbols"
-msgstr "Symbole"
+msgid "Elements Dock"
+msgstr "Dokuj elementy"
 
 #. szrYE
 #: smres.src
@@ -1908,7 +1998,7 @@ msgctxt ""
 "1\n"
 "itemlist.text"
 msgid "alpha"
-msgstr "alfa"
+msgstr "alpha"
 
 #. Z9TL7
 #: symbol.src
@@ -1918,7 +2008,7 @@ msgctxt ""
 "2\n"
 "itemlist.text"
 msgid "ALPHA"
-msgstr "ALFA"
+msgstr "ALPHA"
 
 #. Zuk9T
 #: symbol.src
@@ -2008,7 +2098,7 @@ msgctxt ""
 "11\n"
 "itemlist.text"
 msgid "zeta"
-msgstr "dzeta"
+msgstr "zeta"
 
 #. hBxCu
 #: symbol.src
@@ -2018,7 +2108,7 @@ msgctxt ""
 "12\n"
 "itemlist.text"
 msgid "ZETA"
-msgstr "DZETA"
+msgstr "ZETA"
 
 #. nbVtL
 #: symbol.src
@@ -2048,7 +2138,7 @@ msgctxt ""
 "15\n"
 "itemlist.text"
 msgid "theta"
-msgstr "teta"
+msgstr "theta"
 
 #. E2fsP
 #: symbol.src
@@ -2058,7 +2148,7 @@ msgctxt ""
 "16\n"
 "itemlist.text"
 msgid "THETA"
-msgstr "TETA"
+msgstr "THETA"
 
 #. h7DkR
 #: symbol.src
@@ -2068,7 +2158,7 @@ msgctxt ""
 "17\n"
 "itemlist.text"
 msgid "iota"
-msgstr "jota"
+msgstr "iota"
 
 #. gWydg
 #: symbol.src
@@ -2078,7 +2168,7 @@ msgctxt ""
 "18\n"
 "itemlist.text"
 msgid "IOTA"
-msgstr "JOTA"
+msgstr "IOTA"
 
 #. EFEZP
 #: symbol.src
@@ -2128,7 +2218,7 @@ msgctxt ""
 "23\n"
 "itemlist.text"
 msgid "mu"
-msgstr "mi"
+msgstr "mu"
 
 #. n3Cc7
 #: symbol.src
@@ -2138,7 +2228,7 @@ msgctxt ""
 "24\n"
 "itemlist.text"
 msgid "MU"
-msgstr "MI"
+msgstr "MU"
 
 #. PVcJ3
 #: symbol.src
@@ -2148,7 +2238,7 @@ msgctxt ""
 "25\n"
 "itemlist.text"
 msgid "nu"
-msgstr "ni"
+msgstr "nu"
 
 #. pceLF
 #: symbol.src
@@ -2158,7 +2248,7 @@ msgctxt ""
 "26\n"
 "itemlist.text"
 msgid "NU"
-msgstr "NI"
+msgstr "NU"
 
 #. WUR6k
 #: symbol.src
@@ -2168,7 +2258,7 @@ msgctxt ""
 "27\n"
 "itemlist.text"
 msgid "xi"
-msgstr "ksi"
+msgstr "xi"
 
 #. 9Si2h
 #: symbol.src
@@ -2178,7 +2268,7 @@ msgctxt ""
 "28\n"
 "itemlist.text"
 msgid "XI"
-msgstr "KSI"
+msgstr "XI"
 
 #. WDGWE
 #: symbol.src
@@ -2188,7 +2278,7 @@ msgctxt ""
 "29\n"
 "itemlist.text"
 msgid "omicron"
-msgstr "omikron"
+msgstr "omicron"
 
 #. VwD3a
 #: symbol.src
@@ -2198,7 +2288,7 @@ msgctxt ""
 "30\n"
 "itemlist.text"
 msgid "OMICRON"
-msgstr "OMIKRON"
+msgstr "OMICRON"
 
 #. zkhHb
 #: symbol.src
@@ -2228,7 +2318,7 @@ msgctxt ""
 "33\n"
 "itemlist.text"
 msgid "rho"
-msgstr "ro"
+msgstr "rho"
 
 #. F7QdS
 #: symbol.src
@@ -2238,7 +2328,7 @@ msgctxt ""
 "34\n"
 "itemlist.text"
 msgid "RHO"
-msgstr "RO"
+msgstr "RHO"
 
 #. E3nDD
 #: symbol.src
@@ -2288,7 +2378,7 @@ msgctxt ""
 "39\n"
 "itemlist.text"
 msgid "upsilon"
-msgstr "ypsilon"
+msgstr "upsilon"
 
 #. iVrBZ
 #: symbol.src
@@ -2298,7 +2388,7 @@ msgctxt ""
 "40\n"
 "itemlist.text"
 msgid "UPSILON"
-msgstr "YPSILON"
+msgstr "UPSILON"
 
 #. eDLGK
 #: symbol.src
@@ -2308,7 +2398,7 @@ msgctxt ""
 "41\n"
 "itemlist.text"
 msgid "phi"
-msgstr "fi"
+msgstr "phi"
 
 #. pEV2r
 #: symbol.src
@@ -2318,7 +2408,7 @@ msgctxt ""
 "42\n"
 "itemlist.text"
 msgid "PHI"
-msgstr "FI"
+msgstr "PHI"
 
 #. t33sC
 #: symbol.src
@@ -2398,7 +2488,7 @@ msgctxt ""
 "50\n"
 "itemlist.text"
 msgid "vartheta"
-msgstr "varteta"
+msgstr "vartheta"
 
 #. FXmXj
 #: symbol.src
@@ -2418,7 +2508,7 @@ msgctxt ""
 "52\n"
 "itemlist.text"
 msgid "varrho"
-msgstr "varro"
+msgstr "varrho"
 
 #. JnfE6
 #: symbol.src
@@ -2438,7 +2528,7 @@ msgctxt ""
 "54\n"
 "itemlist.text"
 msgid "varphi"
-msgstr "varfi"
+msgstr "varphi"
 
 #. ATDDP
 #: symbol.src
@@ -2448,7 +2538,7 @@ msgctxt ""
 "55\n"
 "itemlist.text"
 msgid "element"
-msgstr "jest elementem"
+msgstr "element"
 
 #. mdFWg
 #: symbol.src
@@ -2458,7 +2548,7 @@ msgctxt ""
 "56\n"
 "itemlist.text"
 msgid "noelement"
-msgstr "nie jest elementem"
+msgstr "noelement"
 
 #. BLCRT
 #: symbol.src
@@ -2468,7 +2558,7 @@ msgctxt ""
 "57\n"
 "itemlist.text"
 msgid "strictlylessthan"
-msgstr "znacznie mniej niż"
+msgstr "strictlylessthan"
 
 #. pfJzF
 #: symbol.src
@@ -2478,7 +2568,7 @@ msgctxt ""
 "58\n"
 "itemlist.text"
 msgid "strictlygreaterthan"
-msgstr "znacznie więcej niż"
+msgstr "strictlygreaterthan"
 
 #. 36xUb
 #: symbol.src
@@ -2488,7 +2578,7 @@ msgctxt ""
 "59\n"
 "itemlist.text"
 msgid "notequal"
-msgstr "nierówny"
+msgstr "notequal"
 
 #. X5fJF
 #: symbol.src
@@ -2498,7 +2588,7 @@ msgctxt ""
 "60\n"
 "itemlist.text"
 msgid "identical"
-msgstr "identyczny"
+msgstr "identical"
 
 #. nZBHZ
 #: symbol.src
@@ -2508,7 +2598,7 @@ msgctxt ""
 "61\n"
 "itemlist.text"
 msgid "tendto"
-msgstr "dąży do"
+msgstr "tendto"
 
 #. dwUP3
 #: symbol.src
@@ -2518,7 +2608,7 @@ msgctxt ""
 "62\n"
 "itemlist.text"
 msgid "infinite"
-msgstr "nieskończoność"
+msgstr "infinite"
 
 #. DCu3x
 #: symbol.src
@@ -2528,7 +2618,7 @@ msgctxt ""
 "63\n"
 "itemlist.text"
 msgid "angle"
-msgstr "kąt"
+msgstr "angle"
 
 #. CEmuF
 #: symbol.src
@@ -2538,7 +2628,7 @@ msgctxt ""
 "64\n"
 "itemlist.text"
 msgid "perthousand"
-msgstr "promil"
+msgstr "perthousand"
 
 #. WPVth
 #: symbol.src
@@ -2548,7 +2638,7 @@ msgctxt ""
 "65\n"
 "itemlist.text"
 msgid "and"
-msgstr "i"
+msgstr "and"
 
 #. T6oxy
 #: symbol.src
@@ -2558,7 +2648,7 @@ msgctxt ""
 "66\n"
 "itemlist.text"
 msgid "or"
-msgstr "lub"
+msgstr "or"
 
 #. 7vEQY
 #: toolbox.src
@@ -4478,3 +4568,10 @@ msgctxt ""
 "floatingwindow.text"
 msgid "Elements"
 msgstr "Elementy"
+
+#~ msgctxt ""
+#~ "smres.src\n"
+#~ "RID_ELEMENTSDOCKINGWINDOW\n"
+#~ "dockingwindow.text"
+#~ msgid "Symbols"
+#~ msgstr "Symbole"

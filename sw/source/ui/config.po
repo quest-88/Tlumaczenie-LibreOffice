@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2013-05-23 12:05+0200\n"
-"PO-Revision-Date: 2013-01-27 01:07+0000\n"
-"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"POT-Creation-Date: 2013-06-10 10:39+0200\n"
+"PO-Revision-Date: 2013-09-26 18:22+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1359248867.0\n"
+"X-POOTLE-MTIME: 1380219728.0\n"
 
 #. REVaR
 #: mailconfigpage.src
@@ -586,7 +586,7 @@ msgctxt ""
 msgid "Expand word space on lines with manual line breaks in justified paragraphs"
 msgstr ""
 "Rozszerz przestrzeń między wyrazami w wierszach z ręcznym podziałem w "
-"justowanych akapitach"
+"akapitach wyrównanych do lewej i prawej"
 
 #. fsL8F
 #: optdlg.src
@@ -1457,76 +1457,6 @@ msgctxt ""
 "itemlist.text"
 msgid "~Selection"
 msgstr "~Zaznaczenie"
-
-#. PUDDA
-#: optdlg.src
-msgctxt ""
-"optdlg.src\n"
-"TP_COMPARISON_OPT\n"
-"FL_CMP\n"
-"fixedline.text"
-msgid "Compare documents"
-msgstr "Porównaj dokumenty"
-
-#. E5DFD
-#: optdlg.src
-msgctxt ""
-"optdlg.src\n"
-"TP_COMPARISON_OPT\n"
-"RB_AUTO\n"
-"radiobutton.text"
-msgid "~Auto"
-msgstr "~Automatycznie"
-
-#. FQhNP
-#: optdlg.src
-msgctxt ""
-"optdlg.src\n"
-"TP_COMPARISON_OPT\n"
-"RB_WORD\n"
-"radiobutton.text"
-msgid "By ~word"
-msgstr "Po ~słowie"
-
-#. q7yfW
-#: optdlg.src
-msgctxt ""
-"optdlg.src\n"
-"TP_COMPARISON_OPT\n"
-"RB_CHAR\n"
-"radiobutton.text"
-msgid "By ~character"
-msgstr "Po ~znaku"
-
-#. PkHfd
-#: optdlg.src
-msgctxt ""
-"optdlg.src\n"
-"TP_COMPARISON_OPT\n"
-"FL_SET\n"
-"fixedline.text"
-msgid "Settings"
-msgstr "Ustawienia"
-
-#. qqwSw
-#: optdlg.src
-msgctxt ""
-"optdlg.src\n"
-"TP_COMPARISON_OPT\n"
-"CB_RSID\n"
-"checkbox.text"
-msgid "Use ~RSID"
-msgstr "Użyj ~RSID"
-
-#. QVyh4
-#: optdlg.src
-msgctxt ""
-"optdlg.src\n"
-"TP_COMPARISON_OPT\n"
-"CB_IGNORE\n"
-"checkbox.text"
-msgid "Ignore ~pieces of length"
-msgstr "Ignoruj ~kawałek długości"
 
 #. AyGPW
 #: optload.src
@@ -2410,6 +2340,54 @@ msgctxt ""
 "string.text"
 msgid "[None]"
 msgstr "[Brak]"
+
+#~ msgctxt ""
+#~ "optdlg.src\n"
+#~ "TP_COMPARISON_OPT\n"
+#~ "FL_CMP\n"
+#~ "fixedline.text"
+#~ msgid "Compare documents"
+#~ msgstr "Porównaj dokumenty"
+
+#~ msgctxt ""
+#~ "optdlg.src\n"
+#~ "TP_COMPARISON_OPT\n"
+#~ "RB_AUTO\n"
+#~ "radiobutton.text"
+#~ msgid "~Auto"
+#~ msgstr "~Automatycznie"
+
+#~ msgctxt ""
+#~ "optdlg.src\n"
+#~ "TP_COMPARISON_OPT\n"
+#~ "RB_WORD\n"
+#~ "radiobutton.text"
+#~ msgid "By ~word"
+#~ msgstr "Po ~słowie"
+
+#~ msgctxt ""
+#~ "optdlg.src\n"
+#~ "TP_COMPARISON_OPT\n"
+#~ "RB_CHAR\n"
+#~ "radiobutton.text"
+#~ msgid "By ~character"
+#~ msgstr "Po ~znaku"
+
+#~ msgctxt ""
+#~ "optdlg.src\n"
+#~ "TP_COMPARISON_OPT\n"
+#~ "CB_RSID\n"
+#~ "checkbox.text"
+#~ msgid "Use ~RSID"
+#~ msgstr "Użyj ~RSID"
+
+#~ msgctxt ""
+#~ "optdlg.src\n"
+#~ "TP_COMPARISON_OPT\n"
+#~ "CB_IGNORE\n"
+#~ "checkbox.text"
+#~ msgid "Ignore ~pieces of length"
+#~ msgstr "Ignoruj ~kawałek długości"
 
 #~ msgctxt ""
 #~ "optdlg.src\n"

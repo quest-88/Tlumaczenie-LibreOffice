@@ -5,8 +5,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-28 18:08+0200\n"
-"PO-Revision-Date: 2013-06-03 19:30+0000\n"
-"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"PO-Revision-Date: 2013-06-21 13:55+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1370287835.0\n"
+"X-POOTLE-MTIME: 1371822955.0\n"
 
 #. fB8pL
 #: digitalsignaturesdialog.ui
@@ -217,7 +217,7 @@ msgid ""
 "Confirmation required before executing macros from untrusted sources."
 msgstr ""
 "Średni.\n"
-"Wy~magane potwierdzenie przy uruchamianiu makr podpisanych przez wydawców, "
+"Wy_magane potwierdzenie przy uruchamianiu makr podpisanych przez wydawców, "
 "którym nie ufasz."
 
 #. oK9Tr
@@ -261,7 +261,7 @@ msgctxt ""
 "label\n"
 "string.text"
 msgid "_View..."
-msgstr "Zobacz..."
+msgstr "_Widok..."
 
 #. gUX2R
 #: securitytrustpage.ui
@@ -383,7 +383,7 @@ msgctxt ""
 "label\n"
 "string.text"
 msgid "Select the certificate you want to use for signing "
-msgstr "Wybierz certyfikat do podpisywania"
+msgstr "Wybierz certyfikat do podpisywania "
 
 #. BcgW9
 #: selectcertificatedialog.ui

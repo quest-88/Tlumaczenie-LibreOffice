@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2013-05-28 18:08+0200\n"
-"PO-Revision-Date: 2013-06-05 19:06+0000\n"
-"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"POT-Creation-Date: 2013-06-13 17:25+0200\n"
+"PO-Revision-Date: 2013-09-26 18:17+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1370459204.0\n"
+"X-POOTLE-MTIME: 1380219474.0\n"
 
 #. AGLtk
 #: BaseWindowState.xcu
@@ -526,7 +526,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "A~utoRefresh Traces"
-msgstr "Akt~ualizuj automatycznie"
+msgstr "Akt~ualizuj automatycznie strzałki"
 
 #. SrsPm
 #: CalcCommands.xcu
@@ -626,7 +626,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "~Select Sheets..."
-msgstr "~Zaznacz..."
+msgstr "~Zaznacz arkusze..."
 
 #. syoJH
 #: CalcCommands.xcu
@@ -1916,7 +1916,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Insert ~Row Break"
-msgstr "Podział wie~rsza"
+msgstr "Wstaw podział wie~rsza"
 
 #. 2eBEB
 #: CalcCommands.xcu
@@ -1986,7 +1986,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Remove ~Row Break"
-msgstr "Podział wie~rsza"
+msgstr "Usuń podział wie~rsza"
 
 #. 67SCi
 #: CalcCommands.xcu
@@ -2066,7 +2066,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Insert ~Rows"
-msgstr "Wstaw wie~rsz"
+msgstr "Wstaw wie~rsze"
 
 #. hQAai
 #: CalcCommands.xcu
@@ -3016,7 +3016,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Justified"
-msgstr "Wyrównaj do lewej i prawej"
+msgstr "Do lewej i prawej"
 
 #. YztCs
 #: CalcCommands.xcu
@@ -13156,7 +13156,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Modify"
-msgstr "Zmień"
+msgstr "Modyfikuj"
 
 #. zVCfU
 #: GenericCategories.xcu
@@ -15186,7 +15186,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Justified"
-msgstr "Wyrównaj do lewej i prawej"
+msgstr "Do lewej i prawej"
 
 #. xPRFQ
 #: GenericCommands.xcu
@@ -16800,15 +16800,15 @@ msgctxt ""
 msgid "Insert from Image Editor"
 msgstr "Wstaw z edytora obrazów"
 
-#. HuCiU
+#. KFjrT
 #: GenericCommands.xcu
 msgctxt ""
 "GenericCommands.xcu\n"
 "..GenericCommands.UserInterface.Commands..uno:SetBorderStyle\n"
 "Label\n"
 "value.text"
-msgid "Borders"
-msgstr "Krawędzie"
+msgid "Borders, add lines; SHIFT to add and remove"
+msgstr "Krawędzie, dodaj linie; SHIFT aby dodać lub usunąć"
 
 #. 8kYdx
 #: GenericCommands.xcu
@@ -17958,7 +17958,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Sidebar"
-msgstr "Pasek boczny"
+msgstr "Panel boczny"
 
 #. GDsVr
 #: GenericCommands.xcu
@@ -20508,7 +20508,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Justified"
-msgstr "Wyrównaj do lewej i prawej"
+msgstr "Do lewej i prawej"
 
 #. 3DCXp
 #: GenericCommands.xcu
@@ -22008,7 +22008,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "~Add Field"
-msgstr "Dod_aj pole"
+msgstr "Dod~aj pole"
 
 #. FX4aQ
 #: ReportCommands.xcu
@@ -24378,7 +24378,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Rotate 90° ~Left"
-msgstr "Obróć o 90° w lewo"
+msgstr "Obróć o 90° w ~lewo"
 
 #. ysk9i
 #: WriterCommands.xcu
@@ -24388,7 +24388,7 @@ msgctxt ""
 "Label\n"
 "value.text"
 msgid "Rotate 90° ~Right"
-msgstr "Obróć o 90° w prawo"
+msgstr "Ob~róć o 90° w prawo"
 
 #. p6Ygh
 #: WriterCommands.xcu

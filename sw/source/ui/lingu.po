@@ -5,8 +5,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-23 12:05+0200\n"
-"PO-Revision-Date: 2013-05-27 21:28+0000\n"
-"Last-Translator: Michał <manveru1986@gmail.com>\n"
+"PO-Revision-Date: 2013-06-21 13:39+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1369690111.0\n"
+"X-POOTLE-MTIME: 1371821973.0\n"
 
 #. cE3KY
 #: olmenu.src
@@ -36,7 +36,7 @@ msgctxt ""
 "MN_ADD_TO_DIC\n"
 "menuitem.text"
 msgid "~Add to Dictionary"
-msgstr "Dodaj do słownika"
+msgstr "Dod~aj do słownika"
 
 #. F9HaR
 #: olmenu.src
@@ -46,7 +46,7 @@ msgctxt ""
 "MN_ADD_TO_DIC_SINGLE\n"
 "menuitem.text"
 msgid "~Add to Dictionary"
-msgstr "Dodaj do słownika"
+msgstr "Dod~aj do słownika"
 
 #. mBgKj
 #: olmenu.src

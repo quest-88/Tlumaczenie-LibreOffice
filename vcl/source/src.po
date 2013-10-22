@@ -5,8 +5,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-23 12:05+0200\n"
-"PO-Revision-Date: 2013-05-26 19:12+0000\n"
-"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"PO-Revision-Date: 2013-06-17 19:21+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1369595550.0\n"
+"X-POOTLE-MTIME: 1371496878.0\n"
 
 #. This is used on buttons for platforms other than windows, there should be a ~ mnemonic in this string
 #. HafDs
@@ -566,7 +566,7 @@ msgctxt ""
 "SV_SHORTCUT_DOCKUNDOCK\n"
 "string.text"
 msgid "Dock/Undock Windows"
-msgstr "Zadokuj/Oddokuj okna"
+msgstr "Dokuj/Oddokuj okna"
 
 #. NM3NQ
 #: helptext.src

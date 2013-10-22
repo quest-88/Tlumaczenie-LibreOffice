@@ -5,8 +5,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-28 18:08+0200\n"
-"PO-Revision-Date: 2013-05-25 21:34+0000\n"
-"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"PO-Revision-Date: 2013-08-30 13:00+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1369517670.0\n"
+"X-POOTLE-MTIME: 1377867643.0\n"
 
 #. ZHEHP
 #: attrdesc.src
@@ -34,7 +34,7 @@ msgctxt ""
 "STR_DROP_LINES\n"
 "string.text"
 msgid "rows"
-msgstr "Wiersze"
+msgstr "wiersze"
 
 #. fEfaA
 #: attrdesc.src
@@ -2545,7 +2545,7 @@ msgctxt ""
 "STR_POOLCOLL_SIGNATURE\n"
 "string.text"
 msgid "Signature"
-msgstr "Podpis"
+msgstr "Sygnatura"
 
 #. CgiTH
 #: poolfmt.src
@@ -3607,7 +3607,7 @@ msgctxt ""
 "STR_POOLPAGE_LEFT\n"
 "string.text"
 msgid "Left Page"
-msgstr "Lewa strona"
+msgstr "Strona lewa"
 
 #. RGVPH
 #: poolfmt.src
@@ -3616,7 +3616,7 @@ msgctxt ""
 "STR_POOLPAGE_RIGHT\n"
 "string.text"
 msgid "Right Page"
-msgstr "Prawa strona"
+msgstr "Strona prawa"
 
 #. mZt3R
 #: poolfmt.src

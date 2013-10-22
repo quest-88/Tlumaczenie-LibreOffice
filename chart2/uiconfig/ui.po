@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-23 12:05+0200\n"
-"PO-Revision-Date: 2013-06-04 09:45+0000\n"
+"PO-Revision-Date: 2013-06-19 11:01+0000\n"
 "Last-Translator: quest-88 <quest-88@o2.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1370339116.0\n"
+"X-POOTLE-MTIME: 1371639711.0\n"
 
 #. RMTxB
 #: smoothlinesdlg.ui
@@ -120,14 +120,13 @@ msgstr "_Rozpocznij poziomą linią"
 
 #. oiSQE
 #: steppedlinesdlg.ui
-#, fuzzy
 msgctxt ""
 "steppedlinesdlg.ui\n"
 "step_center_x_rb\n"
 "label\n"
 "string.text"
 msgid "Step at the _horizontal mean"
-msgstr "Sc_hodek w środku poziomej"
+msgstr "Schodek w średniej _poziomej"
 
 #. FamFh
 #: steppedlinesdlg.ui
@@ -141,11 +140,10 @@ msgstr "_Zakończ poziomą linią"
 
 #. aFH6e
 #: steppedlinesdlg.ui
-#, fuzzy
 msgctxt ""
 "steppedlinesdlg.ui\n"
 "step_center_y_rb\n"
 "label\n"
 "string.text"
 msgid "Step to the _vertical mean"
-msgstr "Schodek w środku _pionowej"
+msgstr "Schodek w średniej p_ionowej"

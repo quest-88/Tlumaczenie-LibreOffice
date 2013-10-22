@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2013-05-23 12:06+0200\n"
-"PO-Revision-Date: 2013-05-10 15:51+0000\n"
+"PO-Revision-Date: 2013-08-30 13:22+0000\n"
 "Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1368201078.0\n"
+"X-POOTLE-MTIME: 1377868967.0\n"
 
 #. C6ynM
 #: consdlg.src
@@ -1083,7 +1083,7 @@ msgctxt ""
 "7\n"
 "itemlist.text"
 msgid "Count (Numbers only)"
-msgstr "Licznik (Numbers only)"
+msgstr "Liczba (tylko liczby)"
 
 #. VWdLa
 #: pvfundlg.src

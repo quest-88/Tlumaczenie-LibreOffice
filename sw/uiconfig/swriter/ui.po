@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: LibO 40l10n\n"
 "Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
 "reOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2013-05-28 18:08+0200\n"
-"PO-Revision-Date: 2013-06-05 18:23+0000\n"
-"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"POT-Creation-Date: 2013-06-10 10:39+0200\n"
+"PO-Revision-Date: 2013-08-30 13:01+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
 "Language-Team: none\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: LibreOffice\n"
 "X-Accelerator-Marker: ~\n"
-"X-POOTLE-MTIME: 1370456593.0\n"
+"X-POOTLE-MTIME: 1377867661.0\n"
 
 #. VVcLg
 #: abstractdialog.ui
@@ -1868,7 +1868,7 @@ msgctxt ""
 "label\n"
 "string.text"
 msgid "_Available Databases"
-msgstr "Dostępne bazy danych"
+msgstr "Dostępne b_azy danych"
 
 #. x2sop
 #: exchangedatabases.ui
@@ -2444,7 +2444,7 @@ msgctxt ""
 "label\n"
 "string.text"
 msgid "Properties "
-msgstr "Właściwości"
+msgstr "Właściwości "
 
 #. cNJi9
 #: formattablepage.ui
@@ -3124,7 +3124,7 @@ msgctxt ""
 "label\n"
 "string.text"
 msgid "Repeat Heading Rows on new _pages"
-msgstr "Powtarzaj wiersze nagłówkowe na nowych stronach"
+msgstr "_Powtarzaj wiersze nagłówkowe na nowych stronach"
 
 #. jxCBp
 #: inserttable.ui
@@ -3144,7 +3144,7 @@ msgctxt ""
 "label\n"
 "string.text"
 msgid "Don’t _split table over pages"
-msgstr "Nie dziel tabeli na strony"
+msgstr "Nie dziel tabeli na _strony"
 
 #. TwUaz
 #: inserttable.ui
@@ -3354,7 +3354,7 @@ msgctxt ""
 "0\n"
 "stringlist.text"
 msgid "Left"
-msgstr "Od lewej"
+msgstr "Lewo"
 
 #. 6xpf3
 #: linenumbering.ui
@@ -3364,7 +3364,7 @@ msgctxt ""
 "1\n"
 "stringlist.text"
 msgid "Right"
-msgstr "Od prawej"
+msgstr "Prawo"
 
 #. cGcTC
 #: linenumbering.ui
@@ -3785,6 +3785,76 @@ msgctxt ""
 "string.text"
 msgid "Line numbering"
 msgstr "Numeracja wierszy"
+
+#. sYRwd
+#: optcomparison.ui
+msgctxt ""
+"optcomparison.ui\n"
+"auto\n"
+"label\n"
+"string.text"
+msgid "A_uto"
+msgstr "A_utomatycznie"
+
+#. yz86D
+#: optcomparison.ui
+msgctxt ""
+"optcomparison.ui\n"
+"byword\n"
+"label\n"
+"string.text"
+msgid "By w_ord"
+msgstr "Po sł_owie"
+
+#. UTavH
+#: optcomparison.ui
+msgctxt ""
+"optcomparison.ui\n"
+"bycharacter\n"
+"label\n"
+"string.text"
+msgid "By _character"
+msgstr "Po _znaku"
+
+#. cNvDA
+#: optcomparison.ui
+msgctxt ""
+"optcomparison.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Compare documents"
+msgstr "Porównaj dokumenty"
+
+#. bZDkW
+#: optcomparison.ui
+msgctxt ""
+"optcomparison.ui\n"
+"ignore\n"
+"label\n"
+"string.text"
+msgid "Ignore _pieces of length"
+msgstr "Ignoruj _kawałek długości"
+
+#. cbcPL
+#: optcomparison.ui
+msgctxt ""
+"optcomparison.ui\n"
+"useRSID\n"
+"label\n"
+"string.text"
+msgid "Use _RSID"
+msgstr "Użyj _RSID"
+
+#. QoKfH
+#: optcomparison.ui
+msgctxt ""
+"optcomparison.ui\n"
+"setting\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Ustawienia"
 
 #. 2upGe
 #: outlinenumbering.ui
@@ -4644,7 +4714,7 @@ msgctxt ""
 "title\n"
 "string.text"
 msgid "Row Height"
-msgstr "Wysokość wierszy"
+msgstr "Wysokość wiersza"
 
 #. tLjpt
 #: rowheight.ui
