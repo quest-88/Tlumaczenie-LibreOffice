@@ -1,0 +1,10042 @@
+#. extracted from cui/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-06-02 13:55+0200\n"
+"PO-Revision-Date: 2013-06-08 07:51+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0-beta1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1370677918.0\n"
+
+#. xNzdu
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"credits\n"
+"label\n"
+"string.text"
+msgid "Cre_dits"
+msgstr "Po_dziękowania"
+
+#. 59s9K
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"website\n"
+"label\n"
+"string.text"
+msgid "_Website"
+msgstr "_Strona internetowa"
+
+#. zc3Eh
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"logoreplacement\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME"
+msgstr "%PRODUCTNAME"
+
+#. oKnh7
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"buildid\n"
+"label\n"
+"string.text"
+msgid "Build ID: $BUILDID"
+msgstr "Build ID: $BUILDID"
+
+#. pTC5U
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"description\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME is a modern, easy-to-use, open source productivity suite for word processing, spreadsheets, presentations and more."
+msgstr ""
+"%PRODUCTNAME to nowoczesny i łatwy w użyciu zestaw programów biurowych, do "
+"których należą m.in. edytor tekstów, arkusz kalkulacyjny, program do "
+"prezentacji i więcej."
+
+#. ttArr
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"copyright\n"
+"label\n"
+"string.text"
+msgid "Copyright © 2000 - 2013 LibreOffice contributors and/or their affiliates."
+msgstr ""
+"Copyright © 2000 - 2013. Prawa autorskie należą do autorów LibreOffice i/lub "
+"ich filii"
+
+#. VEBjM
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"libreoffice\n"
+"label\n"
+"string.text"
+msgid "LibreOffice was based on OpenOffice.org."
+msgstr "LibreOffice został utworzony w oparciu o OpenOffice.org."
+
+#. ytSzx
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"derived\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME is derived from LibreOffice which was based on OpenOffice.org."
+msgstr ""
+"%PRODUCTNAME należy do pakietu LibreOffice, który powstał w oparciu o "
+"OpenOffice.org"
+
+#. DZDDJ
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"vendor\n"
+"label\n"
+"string.text"
+msgid "This release was supplied by %OOOVENDOR."
+msgstr "To wydanie zostało dostarczone przez %OOOVENDOR."
+
+#. KodEG
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"link\n"
+"label\n"
+"string.text"
+msgid "http://www.libreoffice.org/about-us/credits/"
+msgstr "http://www.libreoffice.org/about-us/credits/"
+
+#. GZAsH
+#: aboutdialog.ui
+msgctxt ""
+"aboutdialog.ui\n"
+"textbuffer1\n"
+"text\n"
+"string.text"
+msgid "Version: %ABOUTBOXPRODUCTVERSION%ABOUTBOXPRODUCTVERSIONSUFFIX"
+msgstr "Wersja: %ABOUTBOXPRODUCTVERSION%ABOUTBOXPRODUCTVERSIONSUFFIX"
+
+#. Q7N53
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"autoabbrev\n"
+"label\n"
+"string.text"
+msgid "_AutoInclude"
+msgstr "_Autodołączanie"
+
+#. 2zrhJ
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"newabbrev-atkobject\n"
+"AtkObject::accessible-description\n"
+"string.text"
+msgid "New abbreviations"
+msgstr "Nowe skróty"
+
+#. CYWaV
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"replace\n"
+"label\n"
+"string.text"
+msgid "_Replace"
+msgstr "_Zamień"
+
+#. ptRzE
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"delabbrev-atkobject\n"
+"AtkObject::accessible-description\n"
+"string.text"
+msgid "Delete abbreviations"
+msgstr "Usuń skróty"
+
+#. 6DyUa
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Abbreviations (no subsequent capital)"
+msgstr "Skróty, po których nie występują wielkie litery"
+
+#. UZ37f
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"autodouble\n"
+"label\n"
+"string.text"
+msgid "A_utoInclude"
+msgstr "A_utodołączanie"
+
+#. JirXE
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"newdouble-atkobject\n"
+"AtkObject::accessible-description\n"
+"string.text"
+msgid "New words with two initial capitals"
+msgstr "Nowe wyrazy rozpoczynające się dwiema wielkimi literami"
+
+#. iPMJG
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"replace1\n"
+"label\n"
+"string.text"
+msgid "_Replace"
+msgstr "_Zamień"
+
+#. gEwsz
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"deldouble-atkobject\n"
+"AtkObject::accessible-description\n"
+"string.text"
+msgid "Delete words with two initial capitals"
+msgstr "Usuń wyrazy rozpoczynające się dwiema wielkimi literami"
+
+#. ArFVy
+#: acorexceptpage.ui
+msgctxt ""
+"acorexceptpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Words with TWo INitial CApitals"
+msgstr "Wyrazy zaczynające się DWiema wielkimi literami"
+
+#. qUF9F
+#: acorreplacepage.ui
+msgctxt ""
+"acorreplacepage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Repla_ce"
+msgstr "Zam_ień"
+
+#. p7P8M
+#: acorreplacepage.ui
+msgctxt ""
+"acorreplacepage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_With:"
+msgstr "Zam_ień na:"
+
+#. 6ceGC
+#: acorreplacepage.ui
+msgctxt ""
+"acorreplacepage.ui\n"
+"textonly\n"
+"label\n"
+"string.text"
+msgid "_Text only"
+msgstr "_Tylko tekst"
+
+#. VB8TJ
+#: acorreplacepage.ui
+msgctxt ""
+"acorreplacepage.ui\n"
+"replace\n"
+"label\n"
+"string.text"
+msgid "_Replace"
+msgstr "_Zamień"
+
+#. GACg7
+#: asiantypography.ui
+msgctxt ""
+"asiantypography.ui\n"
+"checkForbidList\n"
+"label\n"
+"string.text"
+msgid "Apply list of forbidden characters to the beginning and end of lines"
+msgstr "Uwzględnij listę znaków niedozwolonych na początku i na końcu wierszy"
+
+#. cGZG7
+#: asiantypography.ui
+msgctxt ""
+"asiantypography.ui\n"
+"checkHangPunct\n"
+"label\n"
+"string.text"
+msgid "Allow hanging punctuation"
+msgstr "Zezwól na wieszanie interpunkcji"
+
+#. iyAna
+#: asiantypography.ui
+msgctxt ""
+"asiantypography.ui\n"
+"checkApplySpacing\n"
+"label\n"
+"string.text"
+msgid "Apply spacing between Asian, Latin and Complex text"
+msgstr "Zastosuj odstępy między tekstem azjatyckim, łacińskim i złożonym"
+
+#. q4JkT
+#: asiantypography.ui
+msgctxt ""
+"asiantypography.ui\n"
+"labelLineChange\n"
+"label\n"
+"string.text"
+msgid "Line change"
+msgstr "Zmiana wiersza"
+
+#. fRDUP
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"AutoCorrectDialog\n"
+"title\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "Autokorekta"
+
+#. NFti2
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Replacements and exceptions for language:"
+msgstr "Zamiany i wyjątki dla języka:"
+
+#. 9PVZC
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"replace\n"
+"label\n"
+"string.text"
+msgid "Replace"
+msgstr "Zamień"
+
+#. Au7Wj
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"exceptions\n"
+"label\n"
+"string.text"
+msgid "Exceptions"
+msgstr "Wyjątki"
+
+#. ExpSB
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"options\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. HzrNC
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"apply\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. LLBZN
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"localized\n"
+"label\n"
+"string.text"
+msgid "Localized Options"
+msgstr "Opcje zlokalizowane"
+
+#. jAzDG
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"wordcompletion\n"
+"label\n"
+"string.text"
+msgid "Word Completion"
+msgstr "Uzupełnianie wyrazów"
+
+#. EJ2Qi
+#: autocorrectdialog.ui
+msgctxt ""
+"autocorrectdialog.ui\n"
+"smarttags\n"
+"label\n"
+"string.text"
+msgid "Smart Tags"
+msgstr "Tagi inteligentne"
+
+#. YHCE7
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"asft\n"
+"label\n"
+"string.text"
+msgid "A_s"
+msgstr "_Jako"
+
+#. Tqw9B
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"forft\n"
+"label\n"
+"string.text"
+msgid "F_or"
+msgstr "_Dla"
+
+#. BekEW
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"tablelb\n"
+"0\n"
+"stringlist.text"
+msgid "Cell"
+msgstr "Komórka"
+
+#. FsKH3
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"tablelb\n"
+"1\n"
+"stringlist.text"
+msgid "Row"
+msgstr "Wiersz"
+
+#. HjYoJ
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"tablelb\n"
+"2\n"
+"stringlist.text"
+msgid "Table"
+msgstr "Tabela"
+
+#. ji8nU
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"paralb\n"
+"0\n"
+"stringlist.text"
+msgid "Paragraph"
+msgstr "Akapit"
+
+#. 2vYZb
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"paralb\n"
+"1\n"
+"stringlist.text"
+msgid "Character"
+msgstr "Znak"
+
+#. X6mvn
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"transparencyft\n"
+"label\n"
+"string.text"
+msgid "_Transparency"
+msgstr "Przezrocz_ystość"
+
+#. ssC4w
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Background color"
+msgstr "Kolor tła"
+
+#. gnBCW
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"fileft\n"
+"label\n"
+"string.text"
+msgid "<FILENAME>"
+msgstr "<FILENAME>"
+
+#. w3yo9
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"unlinkedft\n"
+"label\n"
+"string.text"
+msgid "Unlinked graphic"
+msgstr "Bez połączenia"
+
+#. 6dFrq
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"findgraphicsft\n"
+"label\n"
+"string.text"
+msgid "Find graphics"
+msgstr "Znajdź grafiki"
+
+#. SjzDi
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "_Przeglądaj..."
+
+#. 76Vjs
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"link\n"
+"label\n"
+"string.text"
+msgid "_Link"
+msgstr "_Połącz"
+
+#. FHBZr
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "File"
+msgstr "Plik"
+
+#. FrGTZ
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"positionrb\n"
+"label\n"
+"string.text"
+msgid "_Position"
+msgstr "_Pozycja"
+
+#. rLmCY
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"arearb\n"
+"label\n"
+"string.text"
+msgid "Ar_ea"
+msgstr "_Obszar"
+
+#. 6nNce
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"tilerb\n"
+"label\n"
+"string.text"
+msgid "_Tile"
+msgstr "_Sąsiadująco"
+
+#. uuvue
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Typ"
+
+#. 5WiZT
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Transparency"
+msgstr "Przezroczystość"
+
+#. pfcum
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"showpreview\n"
+"label\n"
+"string.text"
+msgid "Pre_view"
+msgstr "Po_dgląd"
+
+#. ojxPB
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Background gradient"
+msgstr "Gradient tła"
+
+#. XCDDb
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Color"
+msgstr "Kolor"
+
+#. 3LLos
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Gradient"
+msgstr "Gradient"
+
+#. H9jQn
+#: backgroundpage.ui
+msgctxt ""
+"backgroundpage.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Graphic"
+msgstr "Grafika"
+
+#. 97FCq
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"userdefft\n"
+"label\n"
+"string.text"
+msgid "_User-defined"
+msgstr "_Użytkownika"
+
+#. DRyVL
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "_Domyślnie"
+
+#. D7TNq
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Line arrangement"
+msgstr "Rozmieszczenie linii"
+
+#. ENv53
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "St_yle"
+msgstr "St_yl"
+
+#. 4jG9W
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "_Width"
+msgstr "_Szerokość"
+
+#. WPWGT
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label17\n"
+"label\n"
+"string.text"
+msgid "_Color"
+msgstr "_Kolor"
+
+#. WFZ3F
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Line"
+msgstr "Linia"
+
+#. TFFPC
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"leftft\n"
+"label\n"
+"string.text"
+msgid "_Left"
+msgstr "Do _lewej"
+
+#. z5CTT
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"rightft\n"
+"label\n"
+"string.text"
+msgid "Right"
+msgstr "Do prawej"
+
+#. 3rhqy
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"topft\n"
+"label\n"
+"string.text"
+msgid "_Top"
+msgstr "Do _góry"
+
+#. tdnLB
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"bottomft\n"
+"label\n"
+"string.text"
+msgid "_Bottom"
+msgstr "Do _dołu"
+
+#. GM73C
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"sync\n"
+"label\n"
+"string.text"
+msgid "Synchronize"
+msgstr "Synchronizuj"
+
+#. 4CE8X
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "Spacing to contents"
+msgstr "Odstęp od zawartości"
+
+#. RDSAf
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label22\n"
+"label\n"
+"string.text"
+msgid "_Position"
+msgstr "_Pozycja"
+
+#. eDVP7
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"distanceft\n"
+"label\n"
+"string.text"
+msgid "Distan_ce"
+msgstr "_Odległość"
+
+#. PCHmG
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"shadowcolorft\n"
+"label\n"
+"string.text"
+msgid "C_olor"
+msgstr "K_olor"
+
+#. skdYW
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Shadow style"
+msgstr "Styl cienia"
+
+#. G8MRh
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"mergewithnext\n"
+"label\n"
+"string.text"
+msgid "_Merge with next paragraph"
+msgstr "_Scal z następnym akapitem"
+
+#. gVno4
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"mergeadjacent\n"
+"label\n"
+"string.text"
+msgid "_Merge adjacent line styles"
+msgstr "_Scal style przyległych linii"
+
+#. C4fz8
+#: borderpage.ui
+msgctxt ""
+"borderpage.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Properties"
+msgstr "Właściwości"
+
+#. ZorCA
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelDegrees\n"
+"label\n"
+"string.text"
+msgid "_Degrees"
+msgstr "_Stopnie"
+
+#. R6QM6
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelRefEdge\n"
+"label\n"
+"string.text"
+msgid "_Reference edge"
+msgstr "Krawędź odniesienia"
+
+#. uJG2Q
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"checkVertStack\n"
+"label\n"
+"string.text"
+msgid "Vertically s_tacked"
+msgstr "Ułożenie pionowe"
+
+#. ycHnJ
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"checkAsianMode\n"
+"label\n"
+"string.text"
+msgid "Asian layout _mode"
+msgstr "Użyj _azjatyckiego trybu pionowego"
+
+#. CUESs
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelTextOrient\n"
+"label\n"
+"string.text"
+msgid "Text orientation"
+msgstr "Orientacja tekstu"
+
+#. EBTTB
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"checkWrapTextAuto\n"
+"label\n"
+"string.text"
+msgid "_Wrap text automatically"
+msgstr "Za_wijaj tekst automatycznie"
+
+#. j6sDG
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"checkShrinkFitCellSize\n"
+"label\n"
+"string.text"
+msgid "_Shrink to fit cell size"
+msgstr "Zmniejsz, aby dopa_sować do rozmiaru komórki"
+
+#. xh3GK
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"checkHyphActive\n"
+"label\n"
+"string.text"
+msgid "Hyphenation _active"
+msgstr "Dzielenie wyrazów _aktywne"
+
+#. DXC22
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"LabelTxtDir\n"
+"label\n"
+"string.text"
+msgid "Te_xt direction"
+msgstr "Kierunek _tekstu"
+
+#. 4sXCm
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelPropeties\n"
+"label\n"
+"string.text"
+msgid "Properties"
+msgstr "Właściwości"
+
+#. qrZDH
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelHorzAlign\n"
+"label\n"
+"string.text"
+msgid "Hori_zontal"
+msgstr "Po_ziomo"
+
+#. uRqoB
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelVertAlign\n"
+"label\n"
+"string.text"
+msgid "_Vertical"
+msgstr "_Pionowo"
+
+#. MnDGE
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelIndent\n"
+"label\n"
+"string.text"
+msgid "I_ndent"
+msgstr "W_cięcie"
+
+#. UHPFP
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"LabelTextAlig\n"
+"label\n"
+"string.text"
+msgid "Text alignment"
+msgstr "Wyrównanie tekstu"
+
+#. 6dAvc
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelSTR_BOTTOMLOCK\n"
+"label\n"
+"string.text"
+msgid "Text Extension From Lower Cell Border"
+msgstr "Tekst rozciąga się od dolnej krawędzi komórki"
+
+#. z9at4
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelSTR_TOPLOCK\n"
+"label\n"
+"string.text"
+msgid "Text Extension From Upper Cell Border"
+msgstr "Tekst rozciąga się od górnej krawędzi komórki"
+
+#. dqEHt
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelSTR_CELLLOCK\n"
+"label\n"
+"string.text"
+msgid "Text Extension Inside Cell"
+msgstr "Tekst rozciąga się wewnątrz komórki"
+
+#. 3vB9p
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"labelABCD\n"
+"label\n"
+"string.text"
+msgid "ABCD"
+msgstr "ABCD"
+
+#. 8cs5F
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreHorzAlign\n"
+"0\n"
+"stringlist.text"
+msgid "Default"
+msgstr "Domyślny"
+
+#. ZgHB6
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreHorzAlign\n"
+"1\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Do lewej"
+
+#. bETSz
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreHorzAlign\n"
+"2\n"
+"stringlist.text"
+msgid "Center"
+msgstr "Do środka"
+
+#. tB4sg
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreHorzAlign\n"
+"3\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Do prawej"
+
+#. oRjZm
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreHorzAlign\n"
+"4\n"
+"stringlist.text"
+msgid "Justified"
+msgstr "Do lewej i prawej"
+
+#. 3CsBK
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreHorzAlign\n"
+"5\n"
+"stringlist.text"
+msgid "Filled"
+msgstr "Wypełnienie"
+
+#. LGCCc
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreHorzAlign\n"
+"6\n"
+"stringlist.text"
+msgid "Distributed"
+msgstr "Rozstawiony"
+
+#. UBuMD
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreVertAlign\n"
+"0\n"
+"stringlist.text"
+msgid "Default"
+msgstr "Domyślny"
+
+#. MrpPK
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreVertAlign\n"
+"1\n"
+"stringlist.text"
+msgid "Top"
+msgstr "Do góry"
+
+#. 2DvkG
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreVertAlign\n"
+"2\n"
+"stringlist.text"
+msgid "Middle"
+msgstr "Do środka"
+
+#. bz7Dy
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreVertAlign\n"
+"3\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "Do dołu"
+
+#. EnGGF
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreVertAlign\n"
+"4\n"
+"stringlist.text"
+msgid "Justified"
+msgstr "Do lewej i prawej"
+
+#. DvsJW
+#: cellalignment.ui
+msgctxt ""
+"cellalignment.ui\n"
+"liststoreVertAlign\n"
+"5\n"
+"stringlist.text"
+msgid "Distributed"
+msgstr "Rozstawiony"
+
+#. dbHWa
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"westfontnameft-nocjk\n"
+"label\n"
+"string.text"
+msgid "Family "
+msgstr "Rodzina "
+
+#. ybnrX
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"weststyleft-nocjk\n"
+"label\n"
+"string.text"
+msgid "Style"
+msgstr "Styl"
+
+#. ELybm
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"westsizeft-nocjk\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Rozmiar"
+
+#. X8pUs
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"westlangft-nocjk\n"
+"label\n"
+"string.text"
+msgid "Language"
+msgstr "Język"
+
+#. i7pDG
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"label21\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Czcionka"
+
+#. YSYuV
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"westfontnameft-cjk\n"
+"label\n"
+"string.text"
+msgid "Family "
+msgstr "Rodzina "
+
+#. xaABf
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"weststyleft-cjk\n"
+"label\n"
+"string.text"
+msgid "Style"
+msgstr "Styl"
+
+#. ZY68j
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"westsizeft-cjk\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Rozmiar"
+
+#. BXGFH
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"westlangft-cjk\n"
+"label\n"
+"string.text"
+msgid "Language"
+msgstr "Język"
+
+#. ZXGxr
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Western text font"
+msgstr "Czcionka tekstu zachodniego"
+
+#. WzZwq
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"eastfontnameft\n"
+"label\n"
+"string.text"
+msgid "Family "
+msgstr "Rodzina "
+
+#. k7qLi
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"eaststyleft\n"
+"label\n"
+"string.text"
+msgid "Style"
+msgstr "Styl"
+
+#. HGssF
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"eastsizeft\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Rozmiar"
+
+#. PYkK4
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"eastlangft\n"
+"label\n"
+"string.text"
+msgid "Language"
+msgstr "Język"
+
+#. BphF2
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Asian text font"
+msgstr "Czcionka tekstu azjatyckiego"
+
+#. G8BAC
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"ctlfontnameft\n"
+"label\n"
+"string.text"
+msgid "Family "
+msgstr "Rodzina "
+
+#. rgPkC
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"ctlstyleft\n"
+"label\n"
+"string.text"
+msgid "Style"
+msgstr "Styl"
+
+#. Mkqha
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"ctlsizeft\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Rozmiar"
+
+#. VXx3G
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"ctllangft\n"
+"label\n"
+"string.text"
+msgid "Language"
+msgstr "Język"
+
+#. iC4MC
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "CTL font"
+msgstr "Czcionka dla złożonego systemu pisania"
+
+#. YaCtA
+#: charnamepage.ui
+msgctxt ""
+"charnamepage.ui\n"
+"label19\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Podgląd"
+
+#. ujSst
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"docboundaries\n"
+"label\n"
+"string.text"
+msgid "Text boundaries"
+msgstr "Granice tekstu"
+
+#. 9deiG
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"doccolor\n"
+"label\n"
+"string.text"
+msgid "Document background"
+msgstr "Kolor tła dokumentu"
+
+#. RLTrx
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"general\n"
+"label\n"
+"string.text"
+msgid "General"
+msgstr "Ogólne"
+
+#. WdDGE
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"appback\n"
+"label\n"
+"string.text"
+msgid "Application background"
+msgstr "Tło aplikacji"
+
+#. EjYJH
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"objboundaries\n"
+"label\n"
+"string.text"
+msgid "Object boundaries"
+msgstr "Krawędzie obiektów"
+
+#. fWxJ9
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"tblboundaries\n"
+"label\n"
+"string.text"
+msgid "Table boundaries"
+msgstr "Krawędzie tabel"
+
+#. RoAbk
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font color"
+msgstr "Kolor czcionki"
+
+#. HPTwA
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"unvisitedlinks\n"
+"label\n"
+"string.text"
+msgid "Unvisited links"
+msgstr "Nieodwiedzone hiperłącze"
+
+#. 823Ao
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"visitedlinks\n"
+"label\n"
+"string.text"
+msgid "Visited links"
+msgstr "Odwiedzone hiperłącze"
+
+#. 3pBkg
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"autospellcheck\n"
+"label\n"
+"string.text"
+msgid "AutoSpellcheck"
+msgstr "Automatyczne sprawdzanie pisowni"
+
+#. YqCor
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"smarttags\n"
+"label\n"
+"string.text"
+msgid "Smart Tags"
+msgstr "Tagi inteligentne"
+
+#. sQfmT
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"shadows\n"
+"label\n"
+"string.text"
+msgid "Shadows"
+msgstr "Cienie"
+
+#. LTFMm
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"writer\n"
+"label\n"
+"string.text"
+msgid "Text Document"
+msgstr "Dokument tekstowy"
+
+#. SEnTG
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"writergrid\n"
+"label\n"
+"string.text"
+msgid "Grid"
+msgstr "Siatka"
+
+#. kzY9f
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"script\n"
+"label\n"
+"string.text"
+msgid "Script Indicator"
+msgstr "Wskaźnik skryptu"
+
+#. XzDWS
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"field\n"
+"label\n"
+"string.text"
+msgid "Field shadings"
+msgstr "Cieniowanie pól"
+
+#. dvRWM
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"index\n"
+"label\n"
+"string.text"
+msgid "Index and table shadings"
+msgstr "Cieniowanie indeksów i tabel"
+
+#. 6M9HK
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"section\n"
+"label\n"
+"string.text"
+msgid "Section boundaries"
+msgstr "Granice sekcji"
+
+#. mMBTN
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"hdft\n"
+"label\n"
+"string.text"
+msgid "Headers and Footer delimiter"
+msgstr "Ogranicznik główek i stopek"
+
+#. VrpGL
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"pagebreak\n"
+"label\n"
+"string.text"
+msgid "Page and column breaks"
+msgstr "Podział strony lub kolumny"
+
+#. rmEEG
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"direct\n"
+"label\n"
+"string.text"
+msgid "Direct Cursor"
+msgstr "Kursor bezpośredni"
+
+#. K2uaH
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"html\n"
+"label\n"
+"string.text"
+msgid "HTML Document"
+msgstr "Dokument HTML"
+
+#. LkibU
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sgml\n"
+"label\n"
+"string.text"
+msgid "SGML syntax highlighting"
+msgstr "Kolorowanie składni SGML"
+
+#. zLmKz
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"htmlcomment\n"
+"label\n"
+"string.text"
+msgid "Comment highlighting"
+msgstr "Podkreślanie komentarzy"
+
+#. 8p9by
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"htmlkeyword\n"
+"label\n"
+"string.text"
+msgid "Keyword highlighting"
+msgstr "Podkreślanie słów kluczowych"
+
+#. VRAPF
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"unknown\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. JGQhs
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"calc\n"
+"label\n"
+"string.text"
+msgid "Spreadsheet"
+msgstr "Arkusz kalkulacyjny"
+
+#. XPRfD
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"calcgrid\n"
+"label\n"
+"string.text"
+msgid "Grid lines"
+msgstr "Linie siatki"
+
+#. EeKKV
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"brk\n"
+"label\n"
+"string.text"
+msgid "Page breaks"
+msgstr "Podział stron"
+
+#. 9aVaw
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"brkmanual\n"
+"label\n"
+"string.text"
+msgid "Manual page breaks"
+msgstr "Ręczny podział stron"
+
+#. hYpXP
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"brkauto\n"
+"label\n"
+"string.text"
+msgid "Automatic page breaks"
+msgstr "Automatyczny podział stron"
+
+#. YKhQY
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"det\n"
+"label\n"
+"string.text"
+msgid "Detective"
+msgstr "Detektyw"
+
+#. EzoWu
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"deterror\n"
+"label\n"
+"string.text"
+msgid "Detective error"
+msgstr "Błąd detektywa"
+
+#. D66GZ
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"ref\n"
+"label\n"
+"string.text"
+msgid "References"
+msgstr "Odwołania"
+
+#. EKopX
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Notes background"
+msgstr "Tło notatek"
+
+#. gQm5c
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"draw\n"
+"label\n"
+"string.text"
+msgid "Drawing / Presentation"
+msgstr "Rysunek / Prezentacja"
+
+#. 7irhq
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"drawgrid\n"
+"label\n"
+"string.text"
+msgid "Grid"
+msgstr "Siatka"
+
+#. fu5E7
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"basic\n"
+"label\n"
+"string.text"
+msgid "Basic Syntax Highlighting"
+msgstr "Kolorowanie składni BASIC"
+
+#. EFuE7
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"basicid\n"
+"label\n"
+"string.text"
+msgid "Identifier"
+msgstr "Identyfikator"
+
+#. LFKFv
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"basiccomment\n"
+"label\n"
+"string.text"
+msgid "Comment"
+msgstr "Komentarz"
+
+#. cBEWF
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"basicnumber\n"
+"label\n"
+"string.text"
+msgid "Number"
+msgstr "Ilość"
+
+#. meDqX
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"basicstring\n"
+"label\n"
+"string.text"
+msgid "String"
+msgstr "Łańcuch"
+
+#. b7JGT
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"basicop\n"
+"label\n"
+"string.text"
+msgid "Operator"
+msgstr "Operator"
+
+#. tGCgB
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"basickeyword\n"
+"label\n"
+"string.text"
+msgid "Reserved expression"
+msgstr "Wyrażenie zarezerwowane"
+
+#. 56eEL
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"error\n"
+"label\n"
+"string.text"
+msgid "Error"
+msgstr "Błąd"
+
+#. BHkUB
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sql\n"
+"label\n"
+"string.text"
+msgid "SQL Syntax Highlighting"
+msgstr "Wyróżnianie składni SQL"
+
+#. wVCf2
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sqlid\n"
+"label\n"
+"string.text"
+msgid "Identifier"
+msgstr "Identyfikator"
+
+#. 4vwPC
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sqlnumber\n"
+"label\n"
+"string.text"
+msgid "Number"
+msgstr "Ilość"
+
+#. L2VFU
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sqlstring\n"
+"label\n"
+"string.text"
+msgid "String"
+msgstr "Łańcuch"
+
+#. NgGrn
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sqlop\n"
+"label\n"
+"string.text"
+msgid "Operator"
+msgstr "Operator"
+
+#. KmZd9
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sqlkeyword\n"
+"label\n"
+"string.text"
+msgid "Keyword"
+msgstr "Słowo kluczowe"
+
+#. 2iqzc
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sqlparam\n"
+"label\n"
+"string.text"
+msgid "Parameter"
+msgstr "Parametr"
+
+#. KETFR
+#: colorconfigwin.ui
+msgctxt ""
+"colorconfigwin.ui\n"
+"sqlcomment\n"
+"label\n"
+"string.text"
+msgid "Comment"
+msgstr "Komentarz"
+
+#. D6WnE
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Name"
+msgstr "_Nazwa"
+
+#. EuCQd
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "C_olor"
+msgstr "K_olor"
+
+#. Rhejx
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"colortableft\n"
+"label\n"
+"string.text"
+msgid "Color table"
+msgstr "Tabela kolorów"
+
+#. AUka4
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"modellb\n"
+"0\n"
+"stringlist.text"
+msgid "RGB"
+msgstr "RGB"
+
+#. RRDxu
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"modellb\n"
+"1\n"
+"stringlist.text"
+msgid "CMYK"
+msgstr "CMYK"
+
+#. a5PD5
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"modellb-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Color Mode"
+msgstr "Tryb koloru"
+
+#. FtEfz
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_B"
+msgstr "_B"
+
+#. 2V25o
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_G"
+msgstr "_G"
+
+#. vFTAX
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_R"
+msgstr "_R"
+
+#. bUboF
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "_C"
+msgstr "_C"
+
+#. F2KVo
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "_M"
+msgstr "_M"
+
+#. GiPJT
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label13\n"
+"label\n"
+"string.text"
+msgid "_K"
+msgstr "_K"
+
+#. QQAXH
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "_Y"
+msgstr "_Y"
+
+#. cfBWY
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "_Modify"
+msgstr "_Modyfikuj"
+
+#. z3RsK
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"load\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Load Color List"
+msgstr "Wczytaj listę kolorów"
+
+#. 6UVYG
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"load\n"
+"tooltip_text\n"
+"string.text"
+msgid "Load Color List"
+msgstr "Wczytaj listę kolorów"
+
+#. m9Nc8
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"save\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Save Color List"
+msgstr "Zapisz listę kolorów"
+
+#. CeHAw
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"save\n"
+"tooltip_text\n"
+"string.text"
+msgid "Save Color List"
+msgstr "Zapisz listę kolorów"
+
+#. V6gCf
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"embed\n"
+"label\n"
+"string.text"
+msgid "Embed"
+msgstr "Zagnieźdź"
+
+#. G6bWy
+#: colorpage.ui
+msgctxt ""
+"colorpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Properties"
+msgstr "Właściwości"
+
+#. NWah6
+#: comment.ui
+msgctxt ""
+"comment.ui\n"
+"CommentDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Comment"
+msgstr "Wstaw komentarz"
+
+#. CsBaC
+#: comment.ui
+msgctxt ""
+"comment.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Author"
+msgstr "Autor"
+
+#. BsUFG
+#: comment.ui
+msgctxt ""
+"comment.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Text"
+msgstr "_Tekst"
+
+#. mPxGv
+#: comment.ui
+msgctxt ""
+"comment.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Insert"
+msgstr "W_staw"
+
+#. Xz3DH
+#: comment.ui
+msgctxt ""
+"comment.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "Author"
+msgstr "Autor"
+
+#. wprzY
+#: comment.ui
+msgctxt ""
+"comment.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Comment"
+msgstr "Edycja komentarza"
+
+#. XUW5j
+#: comment.ui
+msgctxt ""
+"comment.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "Zawartość"
+
+#. 6Fqsf
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"button6\n"
+"label\n"
+"string.text"
+msgid "_Reset"
+msgstr "_Resetuj"
+
+#. Xvfai
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "_Menu"
+msgstr "_Menu"
+
+#. DrPip
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"new\n"
+"label\n"
+"string.text"
+msgid "_New..."
+msgstr "_Nowy..."
+
+#. DgxMu
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label13\n"
+"label\n"
+"string.text"
+msgid "_Move..."
+msgstr "_Przesuń..."
+
+#. yoGnC
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "_Rename..."
+msgstr "_Zmień nazwę..."
+
+#. 6drUC
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "_Delete"
+msgstr "_Usuń"
+
+#. QsE72
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Menu"
+msgstr "Menu"
+
+#. BKDtg
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Writer Menus"
+msgstr "%PRODUCTNAME Writer - Menu"
+
+#. qQebA
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "_Entries"
+msgstr "Wpi_sy"
+
+#. mDMh2
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "Dod_aj..."
+
+#. skLS4
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label17\n"
+"label\n"
+"string.text"
+msgid "_Add Submenu..."
+msgstr "_Dodaj podmenu..."
+
+#. 5QsaA
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label18\n"
+"label\n"
+"string.text"
+msgid "_Begin a Group"
+msgstr "_Rozpocznij grupę"
+
+#. ykuYK
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label19\n"
+"label\n"
+"string.text"
+msgid "_Rename..."
+msgstr "_Zmień nazwę..."
+
+#. FcWct
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label20\n"
+"label\n"
+"string.text"
+msgid "_Delete"
+msgstr "_Usuń"
+
+#. Mrizr
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "Modify"
+msgstr "Modyfikuj"
+
+#. FBGLC
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "_Save In"
+msgstr "_Zapisz w"
+
+#. 3KnyA
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Menu Content"
+msgstr "Zawartość menu"
+
+#. crEjA
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "_Description"
+msgstr "_Opis"
+
+#. iABD5
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Menus"
+msgstr "Menu"
+
+#. iD3AD
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label21\n"
+"label\n"
+"string.text"
+msgid "Shortcut keys"
+msgstr "Skróty klawiaturowe"
+
+#. toWts
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"radiobutton1\n"
+"label\n"
+"string.text"
+msgid "Li_breOffice"
+msgstr "Li_breOffice"
+
+#. pgDs5
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"radiobutton2\n"
+"label\n"
+"string.text"
+msgid "_Writer"
+msgstr "_Writer"
+
+#. eKzrQ
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"button1\n"
+"label\n"
+"string.text"
+msgid "_Modify"
+msgstr "_Modyfikuj"
+
+#. jH7T2
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"button3\n"
+"label\n"
+"string.text"
+msgid "_Load..."
+msgstr "_Załaduj..."
+
+#. 9YqM4
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"button5\n"
+"label\n"
+"string.text"
+msgid "R_eset"
+msgstr "R_esetuj"
+
+#. sBHcK
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label23\n"
+"label\n"
+"string.text"
+msgid "_Category"
+msgstr "_Kategoria"
+
+#. Pqhdv
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label24\n"
+"label\n"
+"string.text"
+msgid "_Function"
+msgstr "_Funkcja"
+
+#. wXpaB
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label25\n"
+"label\n"
+"string.text"
+msgid "_Keys"
+msgstr "_Klawisze"
+
+#. yLYFG
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label22\n"
+"label\n"
+"string.text"
+msgid "Functions"
+msgstr "Funkcje"
+
+#. FsFhC
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Keyboard"
+msgstr "Klawiatura"
+
+#. CDAkZ
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label29\n"
+"label\n"
+"string.text"
+msgid "_Toolbars"
+msgstr "_Paski narzędziowe"
+
+#. zkECU
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label35\n"
+"label\n"
+"string.text"
+msgid "_Rename"
+msgstr "_Zmień nazwę"
+
+#. Sdq5U
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label36\n"
+"label\n"
+"string.text"
+msgid "_Delete"
+msgstr "_Usuń"
+
+#. 9fzCz
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label37\n"
+"label\n"
+"string.text"
+msgid "Restore Default Settings"
+msgstr "Przywróć ustawienia domyślne"
+
+#. gNT22
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label38\n"
+"label\n"
+"string.text"
+msgid "_Icons Only"
+msgstr "Tylko _ikony"
+
+#. eC42J
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label39\n"
+"label\n"
+"string.text"
+msgid "_Text only"
+msgstr "_Tylko tekst"
+
+#. LCDRL
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label40\n"
+"label\n"
+"string.text"
+msgid "I_cons & Text"
+msgstr "I_kony i tekst"
+
+#. CECFd
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label30\n"
+"label\n"
+"string.text"
+msgid "Toolbar"
+msgstr "Pasek narzędzi"
+
+#. YrqAH
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label26\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Writer Toolbars"
+msgstr "%PRODUCTNAME Writer - Paski narzędziowe"
+
+#. ZzHxt
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label31\n"
+"label\n"
+"string.text"
+msgid "Co_mmands"
+msgstr "Polece_nia"
+
+#. rZwPu
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label41\n"
+"label\n"
+"string.text"
+msgid "_Rename..."
+msgstr "_Zmień nazwę..."
+
+#. j7wGc
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label42\n"
+"label\n"
+"string.text"
+msgid "_Delete"
+msgstr "_Usuń"
+
+#. YceiX
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label43\n"
+"label\n"
+"string.text"
+msgid "Restore Default _Command"
+msgstr "Przywróć po_lecenie domyślne"
+
+#. UmoEK
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label44\n"
+"label\n"
+"string.text"
+msgid "_Begin a Group"
+msgstr "Rozpocznij _grupę"
+
+#. AaD2Z
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label45\n"
+"label\n"
+"string.text"
+msgid "Change _Icon..."
+msgstr "Zmień _ikonę..."
+
+#. HJfBL
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label46\n"
+"label\n"
+"string.text"
+msgid "Re_set Icon"
+msgstr "Zre_setuj ikonę"
+
+#. Dyw8Z
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label32\n"
+"label\n"
+"string.text"
+msgid "Modify"
+msgstr "Modyfikuj"
+
+#. aHGGW
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label33\n"
+"label\n"
+"string.text"
+msgid "_Save In"
+msgstr "_Zapisz w"
+
+#. MSkBn
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label27\n"
+"label\n"
+"string.text"
+msgid "Toolbar Content"
+msgstr "Zawartość paska narzędzi"
+
+#. a8Qr9
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label28\n"
+"label\n"
+"string.text"
+msgid "_Description"
+msgstr "_Opis"
+
+#. NDcEE
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Toolbars"
+msgstr "Paski narzędzi"
+
+#. MdGoQ
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label49\n"
+"label\n"
+"string.text"
+msgid "Assign:"
+msgstr "Przypisz:"
+
+#. AE3Vq
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"button2\n"
+"label\n"
+"string.text"
+msgid "M_acro..."
+msgstr "M_akro..."
+
+#. FfR6V
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label47\n"
+"label\n"
+"string.text"
+msgid "Event"
+msgstr "Wydarzenie"
+
+#. P6JeM
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label48\n"
+"label\n"
+"string.text"
+msgid "Assigned Action"
+msgstr "Przypisane działanie"
+
+#. WqCcP
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label50\n"
+"label\n"
+"string.text"
+msgid "_Save In"
+msgstr "_Zapisz w"
+
+#. eGbqw
+#: customize.ui
+msgctxt ""
+"customize.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Events"
+msgstr "Wydarzenia"
+
+#. DtRNL
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"fontcolorft\n"
+"label\n"
+"string.text"
+msgid "Font color"
+msgstr "Kolor czcionki"
+
+#. u7BB6
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"effectsft\n"
+"label\n"
+"string.text"
+msgid "Effects"
+msgstr "Efekty"
+
+#. ZF8B8
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"reliefft\n"
+"label\n"
+"string.text"
+msgid "Relief"
+msgstr "Uwypuklenie"
+
+#. YnC9A
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"label46\n"
+"label\n"
+"string.text"
+msgid "Overlining"
+msgstr "Nadkreślenie"
+
+#. cZ5Ze
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"label47\n"
+"label\n"
+"string.text"
+msgid "Strikethrough"
+msgstr "Przekreślenie"
+
+#. 6EDAf
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"label48\n"
+"label\n"
+"string.text"
+msgid "Underlining"
+msgstr "Podkreślenie"
+
+#. FWKDS
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"overlinecolorft\n"
+"label\n"
+"string.text"
+msgid "Overline color"
+msgstr "Kolor nadkreślenia"
+
+#. xLUkN
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"underlinecolorft\n"
+"label\n"
+"string.text"
+msgid "Underline Color"
+msgstr "Kolor podkreślenia"
+
+#. nGzvw
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"outlinecb\n"
+"label\n"
+"string.text"
+msgid "Outline"
+msgstr "Konspekt"
+
+#. Yh7Ap
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"blinkingcb\n"
+"label\n"
+"string.text"
+msgid "Blinking"
+msgstr "Miganie"
+
+#. 4qbiE
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"hiddencb\n"
+"label\n"
+"string.text"
+msgid "Hidden"
+msgstr "Ukryty"
+
+#. aMJmq
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"individualwordscb\n"
+"label\n"
+"string.text"
+msgid "Individual words"
+msgstr "Poszczególne słowa"
+
+#. EF3Av
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"positionft\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. BUj4n
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"emphasisft\n"
+"label\n"
+"string.text"
+msgid "Emphasis mark"
+msgstr "Znak wyróżnienia"
+
+#. VBbHC
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"shadowcb\n"
+"label\n"
+"string.text"
+msgid "Shadow"
+msgstr "Cień"
+
+#. aXAkT
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"label42\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. a6FBs
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"label50\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Podgląd"
+
+#. CUDrG
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "(Without)"
+msgstr "(Bez)"
+
+#. ZECiE
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Capitals"
+msgstr "Wielkie litery"
+
+#. J3CJY
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Lowercase"
+msgstr "Małe litery"
+
+#. mubRG
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Title"
+msgstr "Tytuł"
+
+#. BEB9r
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "Small capitals"
+msgstr "Małe kapitaliki"
+
+#. jbWyE
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "(Without)"
+msgstr "(Bez)"
+
+#. 8iC8C
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "Embossed"
+msgstr "Wypukłe"
+
+#. DwCBf
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "Engraved"
+msgstr "Grawerowane"
+
+#. GZDbd
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore3\n"
+"0\n"
+"stringlist.text"
+msgid "(Without)"
+msgstr "(Bez)"
+
+#. EFjpb
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore3\n"
+"1\n"
+"stringlist.text"
+msgid "Dot"
+msgstr "Kropka"
+
+#. KXvD6
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore3\n"
+"2\n"
+"stringlist.text"
+msgid "Circle"
+msgstr "Okrąg"
+
+#. oGwxS
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore3\n"
+"3\n"
+"stringlist.text"
+msgid "Disc"
+msgstr "Dysk"
+
+#. VZNEj
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore3\n"
+"4\n"
+"stringlist.text"
+msgid "Accent"
+msgstr "Akcent"
+
+#. aB5k6
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore4\n"
+"0\n"
+"stringlist.text"
+msgid "Above text"
+msgstr "Powyżej tekstu"
+
+#. kjG5Z
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore4\n"
+"1\n"
+"stringlist.text"
+msgid "Below text"
+msgstr "Pod tekstem"
+
+#. AAvYw
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore5\n"
+"0\n"
+"stringlist.text"
+msgid "(Without)"
+msgstr "(Bez)"
+
+#. rAGB7
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore5\n"
+"1\n"
+"stringlist.text"
+msgid "Single"
+msgstr "Pojedyncze"
+
+#. cAx86
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore5\n"
+"2\n"
+"stringlist.text"
+msgid "Double"
+msgstr "Podwójne"
+
+#. UAzD2
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore5\n"
+"3\n"
+"stringlist.text"
+msgid "Bold"
+msgstr "Pogrubienie"
+
+#. 4dsBq
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore5\n"
+"4\n"
+"stringlist.text"
+msgid "With /"
+msgstr "Znakami /"
+
+#. yndzx
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore5\n"
+"5\n"
+"stringlist.text"
+msgid "With X"
+msgstr "Znakami X"
+
+#. cMETY
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"0\n"
+"stringlist.text"
+msgid "(Without)"
+msgstr "(Bez)"
+
+#. L6uie
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"1\n"
+"stringlist.text"
+msgid "Single"
+msgstr "Pojedyncze"
+
+#. 9NDYh
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"2\n"
+"stringlist.text"
+msgid "Double"
+msgstr "Podwójne"
+
+#. iVCQa
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"3\n"
+"stringlist.text"
+msgid "Bold"
+msgstr "Pogrubienie"
+
+#. JfuyF
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"4\n"
+"stringlist.text"
+msgid "Dotted"
+msgstr "Kropki"
+
+#. dPkEC
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"5\n"
+"stringlist.text"
+msgid "Dotted (Bold)"
+msgstr "Kropki (pogrubione)"
+
+#. JrVsA
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"6\n"
+"stringlist.text"
+msgid "Dash"
+msgstr "Kreski"
+
+#. GHkDx
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"7\n"
+"stringlist.text"
+msgid "Dash (Bold)"
+msgstr "Kreski (pogrubione)"
+
+#. sXK7Y
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"8\n"
+"stringlist.text"
+msgid "Long Dash"
+msgstr "Długie kreski"
+
+#. UACUM
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"9\n"
+"stringlist.text"
+msgid "Long Dash (Bold)"
+msgstr "Długie kreski (pogrubione)"
+
+#. HMGsN
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"10\n"
+"stringlist.text"
+msgid "Dot Dash"
+msgstr "Kropka-kreska"
+
+#. mbLZg
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"11\n"
+"stringlist.text"
+msgid "Dot Dash (Bold)"
+msgstr "Kropka kreska (pogrubione)"
+
+#. PYzbS
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"12\n"
+"stringlist.text"
+msgid "Dot Dot Dash"
+msgstr "Kropka-kropka-kreska"
+
+#. FrDks
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"13\n"
+"stringlist.text"
+msgid "Dot Dot Dash (Bold)"
+msgstr "Kropka kropka kreska (pogrubione)"
+
+#. f6xnM
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"14\n"
+"stringlist.text"
+msgid "Wave"
+msgstr "Fala"
+
+#. ymC7W
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"15\n"
+"stringlist.text"
+msgid "Wave (Bold)"
+msgstr "Linia falista (pogrubione)"
+
+#. wC4eg
+#: effectspage.ui
+msgctxt ""
+"effectspage.ui\n"
+"liststore6\n"
+"16\n"
+"stringlist.text"
+msgid "Double Wave"
+msgstr "Podwójna linia falista"
+
+#. AdXPg
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"typeft\n"
+"label\n"
+"string.text"
+msgid "_Type"
+msgstr "_Typ"
+
+#. XkpC6
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"gradienttypelb\n"
+"0\n"
+"stringlist.text"
+msgid "Linear"
+msgstr "Liniowe"
+
+#. zPudQ
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"gradienttypelb\n"
+"1\n"
+"stringlist.text"
+msgid "Axial"
+msgstr "Osiowe"
+
+#. dSyN5
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"gradienttypelb\n"
+"2\n"
+"stringlist.text"
+msgid "Radial"
+msgstr "Radialne"
+
+#. RFLkB
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"gradienttypelb\n"
+"3\n"
+"stringlist.text"
+msgid "Ellipsoid"
+msgstr "Eliptyczne"
+
+#. Aeopc
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"gradienttypelb\n"
+"4\n"
+"stringlist.text"
+msgid "Quadratic"
+msgstr "Tetragonalne"
+
+#. DSXpB
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"gradienttypelb\n"
+"5\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Kwadratowe"
+
+#. iwej4
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"centerxft\n"
+"label\n"
+"string.text"
+msgid "Center _X"
+msgstr "Środek na osi _X"
+
+#. kETDh
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"centeryft\n"
+"label\n"
+"string.text"
+msgid "Center _Y"
+msgstr "Środek na osi _Y"
+
+#. PXF8M
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"angleft\n"
+"label\n"
+"string.text"
+msgid "A_ngle"
+msgstr "_Kąt"
+
+#. BSEMW
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"borderft\n"
+"label\n"
+"string.text"
+msgid "_Border"
+msgstr "_Krawędź"
+
+#. oBcMw
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"colorfromft\n"
+"label\n"
+"string.text"
+msgid "_From"
+msgstr "O_d"
+
+#. 7yLzW
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"colortoft\n"
+"label\n"
+"string.text"
+msgid "_To"
+msgstr "_Do"
+
+#. m9Hbf
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"anglemtrdegrees\n"
+"label\n"
+"string.text"
+msgid " degrees"
+msgstr " st."
+
+#. ASHzB
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "_Modify"
+msgstr "_Modyfikuj"
+
+#. w46QX
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"load\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Load Gradient List"
+msgstr "Wczytaj listę gradientów"
+
+#. rBbVj
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"load\n"
+"tooltip_text\n"
+"string.text"
+msgid "Load Gradient List"
+msgstr "Wczytaj listę gradientów"
+
+#. SDJ4X
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"save\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Save Gradient List"
+msgstr "Zapisz listę gradientów"
+
+#. A79yr
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"save\n"
+"tooltip_text\n"
+"string.text"
+msgid "Save Gradient List"
+msgstr "Zapisz listę gradientów"
+
+#. BkwRN
+#: gradientpage.ui
+msgctxt ""
+"gradientpage.ui\n"
+"propfl\n"
+"label\n"
+"string.text"
+msgid "Properties"
+msgstr "Właściwości"
+
+#. F7Mzt
+#: hyphenate.ui
+msgctxt ""
+"hyphenate.ui\n"
+"HyphenateDialog\n"
+"title\n"
+"string.text"
+msgid "Hyphenation"
+msgstr "Dzielenie wyrazów"
+
+#. 3qEfV
+#: hyphenate.ui
+msgctxt ""
+"hyphenate.ui\n"
+"hyphall\n"
+"label\n"
+"string.text"
+msgid "Hyphenate All"
+msgstr "Podziel wszystko"
+
+#. Du22F
+#: hyphenate.ui
+msgctxt ""
+"hyphenate.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Word"
+msgstr "Słowo"
+
+#. fnCXR
+#: hyphenate.ui
+msgctxt ""
+"hyphenate.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "Hyphenate"
+msgstr "Podziel"
+
+#. oGWBj
+#: hyphenate.ui
+msgctxt ""
+"hyphenate.ui\n"
+"continue\n"
+"label\n"
+"string.text"
+msgid "Skip"
+msgstr "Pomiń"
+
+#. r5frC
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"InsertFloatingFrameDialog\n"
+"title\n"
+"string.text"
+msgid "Floating Frame Properties"
+msgstr "Właściwości ramki przestawnej"
+
+#. 2LXbH
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "Nazwa"
+
+#. FKFFW
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "Zawartość"
+
+#. Z4j9c
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"buttonbrowse\n"
+"label\n"
+"string.text"
+msgid "Browse..."
+msgstr "Przeglądaj..."
+
+#. ZjFPV
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"scrollbaron\n"
+"label\n"
+"string.text"
+msgid "On"
+msgstr "Włącz"
+
+#. MA9EB
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"scrollbaroff\n"
+"label\n"
+"string.text"
+msgid "Off"
+msgstr "Wyłącz"
+
+#. 5JDEF
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"scrollbarauto\n"
+"label\n"
+"string.text"
+msgid "Automatic"
+msgstr "Automatycznie"
+
+#. SRC8A
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Scroll bar"
+msgstr "Pasek przewijania"
+
+#. akMPx
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"borderon\n"
+"label\n"
+"string.text"
+msgid "On"
+msgstr "Włącz"
+
+#. EnpGp
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"borderoff\n"
+"label\n"
+"string.text"
+msgid "Off"
+msgstr "Wyłącz"
+
+#. uGdAX
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Border"
+msgstr "Krawędź"
+
+#. YE5UT
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "Width"
+msgstr "Szerokość"
+
+#. x4ccA
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"heightlabel\n"
+"label\n"
+"string.text"
+msgid "Height"
+msgstr "Wysokość"
+
+#. zyGTF
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"defaultwidth\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Domyślny"
+
+#. ssKDU
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"defaultheight\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Domyślny"
+
+#. TCd2F
+#: insertfloatingframe.ui
+msgctxt ""
+"insertfloatingframe.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Spacing to contents"
+msgstr "Odstęp od zawartości"
+
+#. FF6v4
+#: insertoleobject.ui
+msgctxt ""
+"insertoleobject.ui\n"
+"InsertOLEObjectDialog\n"
+"title\n"
+"string.text"
+msgid "Insert OLE Object"
+msgstr "Wstaw obiekt OLE"
+
+#. T3YGG
+#: insertoleobject.ui
+msgctxt ""
+"insertoleobject.ui\n"
+"createnew\n"
+"label\n"
+"string.text"
+msgid "Create new"
+msgstr "Utwórz nowy"
+
+#. szrKi
+#: insertoleobject.ui
+msgctxt ""
+"insertoleobject.ui\n"
+"createfromfile\n"
+"label\n"
+"string.text"
+msgid "Create from file"
+msgstr "Utwórz z pliku"
+
+#. AZ6NR
+#: insertoleobject.ui
+msgctxt ""
+"insertoleobject.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Object type"
+msgstr "Typ obiektu"
+
+#. 8AADi
+#: insertoleobject.ui
+msgctxt ""
+"insertoleobject.ui\n"
+"urlbtn\n"
+"label\n"
+"string.text"
+msgid "Search ..."
+msgstr "Szukaj ..."
+
+#. xuxuv
+#: insertoleobject.ui
+msgctxt ""
+"insertoleobject.ui\n"
+"linktofile\n"
+"label\n"
+"string.text"
+msgid "Link to file"
+msgstr "Łącze do pliku"
+
+#. 5J4xi
+#: insertoleobject.ui
+msgctxt ""
+"insertoleobject.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "File"
+msgstr "Plik"
+
+#. sBpcW
+#: insertplugin.ui
+msgctxt ""
+"insertplugin.ui\n"
+"InsertPluginDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Plug-in"
+msgstr "Wstaw wtyczkę"
+
+#. 9hbBH
+#: insertplugin.ui
+msgctxt ""
+"insertplugin.ui\n"
+"urlbtn\n"
+"label\n"
+"string.text"
+msgid "Browse..."
+msgstr "Przeglądaj..."
+
+#. eG2bL
+#: insertplugin.ui
+msgctxt ""
+"insertplugin.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "File/URL"
+msgstr "Plik/adres URL"
+
+#. yhBsc
+#: insertplugin.ui
+msgctxt ""
+"insertplugin.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. froTa
+#: insertrowcolumn.ui
+msgctxt ""
+"insertrowcolumn.ui\n"
+"InsertRowColumnDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Row"
+msgstr "Wstaw wiersz"
+
+#. XhCd3
+#: insertrowcolumn.ui
+msgctxt ""
+"insertrowcolumn.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Number:"
+msgstr "_Liczba:"
+
+#. MQyeW
+#: insertrowcolumn.ui
+msgctxt ""
+"insertrowcolumn.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Insert"
+msgstr "Wstaw"
+
+#. 98NoB
+#: insertrowcolumn.ui
+msgctxt ""
+"insertrowcolumn.ui\n"
+"insert_before\n"
+"label\n"
+"string.text"
+msgid "_Before"
+msgstr "_Przed"
+
+#. TVU85
+#: insertrowcolumn.ui
+msgctxt ""
+"insertrowcolumn.ui\n"
+"insert_after\n"
+"label\n"
+"string.text"
+msgid "A_fter"
+msgstr "Po"
+
+#. eEqQu
+#: insertrowcolumn.ui
+msgctxt ""
+"insertrowcolumn.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. oXbra
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"MacroSelectorDialog\n"
+"title\n"
+"string.text"
+msgid "Macro Selector"
+msgstr "Wybór makra"
+
+#. frfsJ
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "Add"
+msgstr "Dodaj"
+
+#. EDDWx
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"helpmacro\n"
+"label\n"
+"string.text"
+msgid "Select the library that contains the macro you want. Then select the macro under 'Macro name'."
+msgstr ""
+"Wskaż bibliotekę, która zawiera potrzebne makro. Następnie w części 'Nazwa "
+"makra' wybierz to makro."
+
+#. 5ebp8
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"helptoolbar\n"
+"label\n"
+"string.text"
+msgid "To add a command to a toolbar, select the category and then the command. Then drag the command to the Commands list of the Toolbars tab page in the Customize dialog."
+msgstr ""
+"Aby dodać polecenie do paska narzędzi, wybierz kategorię i polecenie. "
+"Następnie przeciągnij polecenie do okna dialogowego Dostosuj, karty Menu, "
+"listy Polecenia."
+
+#. NRDjK
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"libraryft\n"
+"label\n"
+"string.text"
+msgid "Library"
+msgstr "Biblioteka"
+
+#. Xdah7
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"categoryft\n"
+"label\n"
+"string.text"
+msgid "Category"
+msgstr "Kategoria"
+
+#. QwzLG
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"macronameft\n"
+"label\n"
+"string.text"
+msgid "Macro name"
+msgstr "Nazwa makra"
+
+#. MQmGW
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"commandsft\n"
+"label\n"
+"string.text"
+msgid "Commands"
+msgstr "Polecenia"
+
+#. kaMMS
+#: macroselectordialog.ui
+msgctxt ""
+"macroselectordialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Description"
+msgstr "Opis"
+
+#. BDoqf
+#: movemenu.ui
+msgctxt ""
+"movemenu.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Menu _position"
+msgstr "Pozy_cja menu"
+
+#. 6xmt3
+#: namedialog.ui
+msgctxt ""
+"namedialog.ui\n"
+"NameDialog\n"
+"title\n"
+"string.text"
+msgid "Name"
+msgstr "Nazwa"
+
+#. VC3wp
+#: newmenu.ui
+msgctxt ""
+"newmenu.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Menu name"
+msgstr "_Nazwa menu"
+
+#. GEXrY
+#: newmenu.ui
+msgctxt ""
+"newmenu.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Menu _position"
+msgstr "Pozy_cja menu"
+
+#. Mi4hS
+#: newtabledialog.ui
+msgctxt ""
+"newtabledialog.ui\n"
+"NewTableDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Table"
+msgstr "Wstaw tabelę"
+
+#. fCCBW
+#: newtabledialog.ui
+msgctxt ""
+"newtabledialog.ui\n"
+"columns_label\n"
+"label\n"
+"string.text"
+msgid "_Number of columns:"
+msgstr "Liczba _kolumn:"
+
+#. CJZWQ
+#: newtabledialog.ui
+msgctxt ""
+"newtabledialog.ui\n"
+"rows_label\n"
+"label\n"
+"string.text"
+msgid "_Number of rows:"
+msgstr "Liczba _wierszy"
+
+#. UvXbA
+#: newtoolbardialog.ui
+msgctxt ""
+"newtoolbardialog.ui\n"
+"NewToolbarDialog\n"
+"title\n"
+"string.text"
+msgid "Name"
+msgstr "Nazwa"
+
+#. toAG6
+#: newtoolbardialog.ui
+msgctxt ""
+"newtoolbardialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Toolbar Name"
+msgstr "Nazwa _paska narzędzi"
+
+#. nyPaZ
+#: newtoolbardialog.ui
+msgctxt ""
+"newtoolbardialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Save In"
+msgstr "_Zapisz w"
+
+#. wfHCC
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"add\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Add"
+msgstr "Dodaj"
+
+#. Cnw5p
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"add\n"
+"tooltip_text\n"
+"string.text"
+msgid "Add"
+msgstr "Dodaj"
+
+#. dpF5d
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"edit\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Edit Comment"
+msgstr "Edycja komentarza"
+
+#. nddDp
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"edit\n"
+"tooltip_text\n"
+"string.text"
+msgid "Edit Comment"
+msgstr "Edycja komentarza"
+
+#. edwGY
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"delete\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Remove"
+msgstr "Usuń"
+
+#. Gv8m5
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"delete\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove"
+msgstr "Usuń"
+
+#. AC3BK
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"formatf\n"
+"label\n"
+"string.text"
+msgid "_Format code"
+msgstr "Kod _formatu"
+
+#. HAFvh
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"decimalsft\n"
+"label\n"
+"string.text"
+msgid "_Decimal places"
+msgstr "Miejsca _po przecinku"
+
+#. uGGrN
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"leadzerosft\n"
+"label\n"
+"string.text"
+msgid "Leading _zeroes"
+msgstr "_Zera wiodące"
+
+#. 8FAG5
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"negnumred\n"
+"label\n"
+"string.text"
+msgid "_Negative numbers red"
+msgstr "Liczby ujem_ne na czerwono"
+
+#. jBNzX
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"thousands\n"
+"label\n"
+"string.text"
+msgid "_Thousands separator"
+msgstr "Separator _tysięcy"
+
+#. 3ZyvH
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"optionsft\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. WDwwP
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"categoryft\n"
+"label\n"
+"string.text"
+msgid "C_ategory"
+msgstr "Ka_tegoria"
+
+#. j9YB6
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"formatft\n"
+"label\n"
+"string.text"
+msgid "Fo_rmat"
+msgstr "Fo_rmat"
+
+#. SfLZr
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"sourceformat\n"
+"label\n"
+"string.text"
+msgid "So_urce Format"
+msgstr "Fo_rmat źródłowy"
+
+#. kCYAX
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"languageft\n"
+"label\n"
+"string.text"
+msgid "_Language"
+msgstr "_Język"
+
+#. RBXde
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "All"
+msgstr "Dla wszystkich"
+
+#. dVHwA
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "User-defined"
+msgstr "Użytkownika"
+
+#. 5mDAh
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Number"
+msgstr "Ilość"
+
+#. qMFxa
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Percent"
+msgstr "Procent"
+
+#. FHyQC
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "Currency"
+msgstr "Waluta"
+
+#. GzDGe
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"5\n"
+"stringlist.text"
+msgid "Date"
+msgstr "Data"
+
+#. AoAdJ
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"6\n"
+"stringlist.text"
+msgid "Time"
+msgstr "Godzina"
+
+#. N6KFo
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"7\n"
+"stringlist.text"
+msgid "Scientific"
+msgstr "Naukowy"
+
+#. CRyF6
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"8\n"
+"stringlist.text"
+msgid "Fraction"
+msgstr "Ułamek"
+
+#. CYk4p
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"9\n"
+"stringlist.text"
+msgid "Boolean Value"
+msgstr "Wartość logiczna"
+
+#. C7Ndg
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore1\n"
+"10\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. LNBCM
+#: numberingformatpage.ui
+msgctxt ""
+"numberingformatpage.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "Automatically"
+msgstr "Automatycznie"
+
+#. 7wQme
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"fromfile\n"
+"label\n"
+"string.text"
+msgid "From file..."
+msgstr "Z pliku..."
+
+#. DN2CG
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"gallery\n"
+"label\n"
+"string.text"
+msgid "Gallery"
+msgstr "Galeria"
+
+#. FJ6CV
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Level"
+msgstr "Poziom"
+
+#. aPNR8
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Number"
+msgstr "Ilość"
+
+#. NCzDC
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"charstyleft\n"
+"label\n"
+"string.text"
+msgid "Character Style"
+msgstr "Styl znaku"
+
+#. BrWdE
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"sublevelsft\n"
+"label\n"
+"string.text"
+msgid "Show sublevels"
+msgstr "Pokaż podpoziomy"
+
+#. QYJQ2
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"startatft\n"
+"label\n"
+"string.text"
+msgid "Start at"
+msgstr "Zacznij od"
+
+#. XrCq3
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"bitmapft\n"
+"label\n"
+"string.text"
+msgid "Graphics"
+msgstr "Grafika"
+
+#. kbiAv
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"widthft\n"
+"label\n"
+"string.text"
+msgid "Width"
+msgstr "Szerokość"
+
+#. hjHtx
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"heightft\n"
+"label\n"
+"string.text"
+msgid "Height"
+msgstr "Wysokość"
+
+#. TDkcR
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"keepratio\n"
+"label\n"
+"string.text"
+msgid "Keep ratio"
+msgstr "Zachowaj proporcje"
+
+#. HkmDW
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientft\n"
+"label\n"
+"string.text"
+msgid "Alignment "
+msgstr "Wyrównanie "
+
+#. 6FtHZ
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"0\n"
+"stringlist.text"
+msgid "Top of baseline"
+msgstr "Góra linii odniesienia"
+
+#. nNGwB
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"1\n"
+"stringlist.text"
+msgid "Center of baseline"
+msgstr "Środek linii odniesienia"
+
+#. 7zfFT
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"2\n"
+"stringlist.text"
+msgid "Bottom of baseline"
+msgstr "Dół linii odniesienia"
+
+#. VxGHh
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"3\n"
+"stringlist.text"
+msgid "Top of character"
+msgstr "Góra znaku"
+
+#. JFZBE
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"4\n"
+"stringlist.text"
+msgid "Center of character"
+msgstr "Środek znaku"
+
+#. GSpx7
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"5\n"
+"stringlist.text"
+msgid "Bottom of character"
+msgstr "Dół znaku"
+
+#. Rzq3K
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"6\n"
+"stringlist.text"
+msgid "Top of line"
+msgstr "Góra wiersza"
+
+#. EJPGA
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"7\n"
+"stringlist.text"
+msgid "Center of line"
+msgstr "Środek wiersza"
+
+#. GL3bH
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"orientlb\n"
+"8\n"
+"stringlist.text"
+msgid "Bottom of line"
+msgstr "Dół wiersza"
+
+#. rELFc
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"bitmap\n"
+"label\n"
+"string.text"
+msgid "Select..."
+msgstr "Wybierz..."
+
+#. xFGbv
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"colorft\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "Kolor"
+
+#. AHund
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"relsizeft\n"
+"label\n"
+"string.text"
+msgid "_Relative size"
+msgstr "_Rozmiar względny"
+
+#. FPwGy
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"numalignft\n"
+"label\n"
+"string.text"
+msgid "_Alignment"
+msgstr "Wyrówn_anie"
+
+#. p2HDn
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"numalign\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Do lewej"
+
+#. R7bzy
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"numalign\n"
+"1\n"
+"stringlist.text"
+msgid "Centered"
+msgstr "Do środka"
+
+#. udB4W
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"numalign\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Do prawej"
+
+#. VeBxX
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"bulletft\n"
+"label\n"
+"string.text"
+msgid "Character"
+msgstr "Znak"
+
+#. nrc9z
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"bullet\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#. 4TBEo
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"suffixft\n"
+"label\n"
+"string.text"
+msgid "After"
+msgstr "Po"
+
+#. wTAnk
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"prefixft\n"
+"label\n"
+"string.text"
+msgid "Before"
+msgstr "Przed"
+
+#. FCELN
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"separator\n"
+"label\n"
+"string.text"
+msgid "Separator"
+msgstr "Separator"
+
+#. epT2M
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Numbering"
+msgstr "Numeracja"
+
+#. zSnpk
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"allsame\n"
+"label\n"
+"string.text"
+msgid "_Consecutive numbering"
+msgstr "Numeracja _ciągła"
+
+#. dTjxQ
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "All Levels"
+msgstr "Wszystkie poziomy"
+
+#. pkG9Q
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "1, 2, 3, ..."
+msgstr "1, 2, 3, ..."
+
+#. U76YL
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "A, B, C, ..."
+msgstr "A, B, C, ..."
+
+#. Cmm5j
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "a, b, c, ..."
+msgstr "a, b, c, ..."
+
+#. Bq9vu
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "I, II, III, ..."
+msgstr "I, II, III, ..."
+
+#. tcDhW
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "i, ii, iii, ..."
+msgstr "i, ii, iii, ..."
+
+#. eaytz
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"5\n"
+"stringlist.text"
+msgid "A, .., AA, .., AAA, ..."
+msgstr "A, .., AA, .., AAA, ..."
+
+#. BMBX2
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"6\n"
+"stringlist.text"
+msgid "a, .., aa, .., aaa, ..."
+msgstr "a, .., aa, .., aaa, ..."
+
+#. WDFGA
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"7\n"
+"stringlist.text"
+msgid "Bullet"
+msgstr "Znak wypunktowania"
+
+#. YEayk
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"8\n"
+"stringlist.text"
+msgid "Graphics"
+msgstr "Grafika"
+
+#. 7qAQE
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"9\n"
+"stringlist.text"
+msgid "Linked graphics"
+msgstr "Dołączone grafiki"
+
+#. uEFQ9
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"10\n"
+"stringlist.text"
+msgid "None"
+msgstr "Brak"
+
+#. G3WFy
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"11\n"
+"stringlist.text"
+msgid "Native Numbering"
+msgstr "Numeracja macierzysta"
+
+#. FAUiW
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"12\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Bulgarian)"
+msgstr "А, Б, .., Аа, Аб, ... (bułgarski)"
+
+#. VtS9F
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"13\n"
+"stringlist.text"
+msgid "а, б, .., аа, аб, ... (Bulgarian)"
+msgstr "а, б, .., аа, аб, ... (bułgarski)"
+
+#. qRnrh
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"14\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Bulgarian)"
+msgstr "А, Б, .., Аа, Бб, ... (bułgarski)"
+
+#. 2opz6
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"15\n"
+"stringlist.text"
+msgid "а, б, .., аа, бб, ... (Bulgarian)"
+msgstr "а, б, .., аа, бб, ... (bułgarski)"
+
+#. N4fUY
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"16\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Russian)"
+msgstr "А, Б, .., Аа, Аб, ... (rosyjski)"
+
+#. 2oYLu
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"17\n"
+"stringlist.text"
+msgid "а, б, .., аа, аб, ... (Russian)"
+msgstr "а, б, .., аа, аб, ... (rosyjski)"
+
+#. EBYSC
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"18\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Russian)"
+msgstr "А, Б, .., Аа, Бб, ... (rosyjski)"
+
+#. AZfJG
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"19\n"
+"stringlist.text"
+msgid "а, б, .., аа, бб, ... (Russian)"
+msgstr "а, б, .., аа, бб, ... (rosyjski)"
+
+#. 8CD8v
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"20\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Serbian)"
+msgstr "А, Б, .., Аа, Аб, ... (serbski)"
+
+#. LWJyT
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"21\n"
+"stringlist.text"
+msgid "а, б, .., аа, аб, ... (Serbian)"
+msgstr "а, б, .., аа, аб, ... (serbski)"
+
+#. xGXC9
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"22\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Serbian)"
+msgstr "А, Б, .., Аа, Бб, ... (serbski)"
+
+#. VsgmF
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"23\n"
+"stringlist.text"
+msgid "а, б, .., аа, бб, ... (Serbian)"
+msgstr "а, б, .., аа, бб, ... (serbski)"
+
+#. BS3BF
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"24\n"
+"stringlist.text"
+msgid "Α, Β, Γ, ... (Greek Upper Letter)"
+msgstr "Α, Β, Γ, ... (Duże greckie litery)"
+
+#. Fak3v
+#: numberingoptionspage.ui
+msgctxt ""
+"numberingoptionspage.ui\n"
+"liststore1\n"
+"25\n"
+"stringlist.text"
+msgid "α, β, γ, ... (Greek Lower Letter)"
+msgstr "α, β, γ, ... (Małe greckie litery)"
+
+#. RQp8R
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"1\n"
+"label\n"
+"string.text"
+msgid "Level"
+msgstr "Poziom"
+
+#. CL7XJ
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"numfollowedby\n"
+"label\n"
+"string.text"
+msgid "Numbering followed by"
+msgstr "Po numeracji"
+
+#. EMvaW
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"num2align\n"
+"label\n"
+"string.text"
+msgid "N_umbering Alignment"
+msgstr "Wyrównanie n_umeracji"
+
+#. G7BHj
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"alignedat\n"
+"label\n"
+"string.text"
+msgid "Aligned at"
+msgstr "Wyrównanie"
+
+#. 2dLeD
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"indentat\n"
+"label\n"
+"string.text"
+msgid "Indent at"
+msgstr "Wcięcie"
+
+#. 9bWFy
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"at\n"
+"label\n"
+"string.text"
+msgid "at"
+msgstr "do"
+
+#. 2EeVN
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"standard\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Domyślny"
+
+#. oz23Y
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"indent\n"
+"label\n"
+"string.text"
+msgid "Indent"
+msgstr "Wcięcie"
+
+#. ThcUf
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"relative\n"
+"label\n"
+"string.text"
+msgid "Relati_ve"
+msgstr "Wz_ględny"
+
+#. xFWqF
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"numberingwidth\n"
+"label\n"
+"string.text"
+msgid "Width of numbering"
+msgstr "Odstęp od tekstu"
+
+#. jywGt
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"numdist\n"
+"label\n"
+"string.text"
+msgid "Minimum space numbering <-> textlabel"
+msgstr "Minimalny odstęp numeracja <-> etykieta tekstu"
+
+#. JuCTB
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"numalign\n"
+"label\n"
+"string.text"
+msgid "N_umbering alignment"
+msgstr "Wyrównanie n_umeracji"
+
+#. FjEE5
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "Position and spacing"
+msgstr "Pozycja i odstęp"
+
+#. 5J8vv
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Do lewej"
+
+#. A2SAh
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Centered"
+msgstr "Do środka"
+
+#. Enb9T
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Do prawej"
+
+#. D3D9Q
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "Tab stop"
+msgstr "Tabulator"
+
+#. oKDC7
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "Space"
+msgstr "Spacja"
+
+#. w4fjv
+#: numberingpositionpage.ui
+msgctxt ""
+"numberingpositionpage.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "Nothing"
+msgstr "Brak"
+
+#. PD3HL
+#: objectnamedialog.ui
+msgctxt ""
+"objectnamedialog.ui\n"
+"ObjectNameDialog\n"
+"title\n"
+"string.text"
+msgid "Name"
+msgstr "Nazwa"
+
+#. JdSdJ
+#: objectnamedialog.ui
+msgctxt ""
+"objectnamedialog.ui\n"
+"object_name_label\n"
+"label\n"
+"string.text"
+msgid "_Name"
+msgstr "_Nazwa"
+
+#. xovrB
+#: objecttitledescdialog.ui
+msgctxt ""
+"objecttitledescdialog.ui\n"
+"ObjectTitleDescDialog\n"
+"title\n"
+"string.text"
+msgid "Description"
+msgstr "Opis"
+
+#. j4ciG
+#: objecttitledescdialog.ui
+msgctxt ""
+"objecttitledescdialog.ui\n"
+"object_title_label\n"
+"label\n"
+"string.text"
+msgid "_Title"
+msgstr "_Tytuł"
+
+#. 2REjU
+#: objecttitledescdialog.ui
+msgctxt ""
+"objecttitledescdialog.ui\n"
+"desc_label\n"
+"label\n"
+"string.text"
+msgid "_Description"
+msgstr "_Opis"
+
+#. VBErb
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"acctool\n"
+"label\n"
+"string.text"
+msgid "Support _assistive technology tools (program restart required)"
+msgstr ""
+"Obsługuj urządzenia dla osób niepełnospr_awnych (wymagane ponowne "
+"uruchomienie)"
+
+#. TABiZ
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"textselinreadonly\n"
+"label\n"
+"string.text"
+msgid "Use te_xt selection cursor in read-only text documents"
+msgstr "Używaj kursora do zaznaczania te_kstu w dokumentach tylko do odczytu"
+
+#. ZatZE
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"animatedgraphics\n"
+"label\n"
+"string.text"
+msgid "Allow animated _graphics"
+msgstr "Pozwól na animowaną _grafikę"
+
+#. TdGbh
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"animatedtext\n"
+"label\n"
+"string.text"
+msgid "Allow animated _text"
+msgstr "Pozwól na animowany _tekst"
+
+#. sxAxH
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"tiphelptimeout\n"
+"label\n"
+"string.text"
+msgid "_Help tips disappear after"
+msgstr "_Wskazówki znikają po"
+
+#. uqyuL
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "seconds"
+msgstr "sek."
+
+#. kve4v
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Miscellaneous options"
+msgstr "Pozostałe opcje"
+
+#. A8Efm
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"autodetecthc\n"
+"label\n"
+"string.text"
+msgid "Automatically _detect high contrast mode of operating system"
+msgstr ""
+"Automatycznie rozpoznaj ustawienia _wysokiego kontrastu w systemie "
+"operacyjnym"
+
+#. VhuRZ
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"autofontcolor\n"
+"label\n"
+"string.text"
+msgid "Use automatic font _color for screen display"
+msgstr "Użyj automatycznego koloru _czcionki ekranowej"
+
+#. t86sM
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"systempagepreviewcolor\n"
+"label\n"
+"string.text"
+msgid "_Use system colors for page previews"
+msgstr "_Użyj kolorów systemowych przy podglądzie strony"
+
+#. qkE4t
+#: optaccessibilitypage.ui
+msgctxt ""
+"optaccessibilitypage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Options for high contrast appearance"
+msgstr "Opcje ustawień wysokiego kontrastu"
+
+#. S4cHv
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"javaenabled\n"
+"label\n"
+"string.text"
+msgid "_Use a Java runtime environment"
+msgstr "_Używaj środowiska Java"
+
+#. 5jz2F
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Java runtime environments (JRE) already installed:"
+msgstr "Zainstalowane środowiska _Java (JRE):"
+
+#. hc46T
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "Dod_aj..."
+
+#. FHLHb
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"parameters\n"
+"label\n"
+"string.text"
+msgid "_Parameters..."
+msgstr "_Parametry..."
+
+#. CMgJ5
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"classpath\n"
+"label\n"
+"string.text"
+msgid "_Class Path..."
+msgstr "Ś_cieżka do klas..."
+
+#. QRc5o
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"vendor\n"
+"label\n"
+"string.text"
+msgid "Vendor"
+msgstr "Dostawca"
+
+#. PAwFh
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"version\n"
+"label\n"
+"string.text"
+msgid "Version"
+msgstr "Wersja"
+
+#. aGMfm
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"features\n"
+"label\n"
+"string.text"
+msgid "Features"
+msgstr "Właściwości"
+
+#. Q9BnA
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"a11y\n"
+"label\n"
+"string.text"
+msgid "with accessibility support"
+msgstr "z obsługą ułatwień dostępu"
+
+#. 8MC93
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"selectruntime\n"
+"label\n"
+"string.text"
+msgid "Select a Java Runtime Environment"
+msgstr "Wybierz środowisko Java"
+
+#. eQZnY
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"javapath\n"
+"label\n"
+"string.text"
+msgid "Location: "
+msgstr "Lokalizacja: "
+
+#. PMyzu
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Java options"
+msgstr "Opcje środowiska Java"
+
+#. J3GKH
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"experimental\n"
+"label\n"
+"string.text"
+msgid "Enable experimental features"
+msgstr "Włącz eksperymentalne funkcje"
+
+#. v9VNE
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"exp_sidebar\n"
+"label\n"
+"string.text"
+msgid "Enable experimental sidebar (on restart)"
+msgstr "Włącz eksperymentalny pasek boczny (po restarcie)"
+
+#. 5A8ZF
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"macrorecording\n"
+"label\n"
+"string.text"
+msgid "Enable macro recording (limited)"
+msgstr "Włącz nagrywanie makr (ograniczone)"
+
+#. T7YaE
+#: optadvancedpage.ui
+msgctxt ""
+"optadvancedpage.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Optional (unstable) options"
+msgstr "Opcjonalne (niestabilne) opcje"
+
+#. 75mdw
+#: optappearancepage.ui
+msgctxt ""
+"optappearancepage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Scheme"
+msgstr "Sc_hemat"
+
+#. oRDBt
+#: optappearancepage.ui
+msgctxt ""
+"optappearancepage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Color scheme"
+msgstr "Schemat kolorów"
+
+#. kycWg
+#: optappearancepage.ui
+msgctxt ""
+"optappearancepage.ui\n"
+"uielements\n"
+"label\n"
+"string.text"
+msgid "User interface elements"
+msgstr "Elementy interfejsu użytkownika"
+
+#. DdBTE
+#: optappearancepage.ui
+msgctxt ""
+"optappearancepage.ui\n"
+"colorsetting\n"
+"label\n"
+"string.text"
+msgid "Color setting"
+msgstr "Kolor"
+
+#. GEMpi
+#: optappearancepage.ui
+msgctxt ""
+"optappearancepage.ui\n"
+"preview\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Podgląd"
+
+#. hZ8Et
+#: optappearancepage.ui
+msgctxt ""
+"optappearancepage.ui\n"
+"on\n"
+"label\n"
+"string.text"
+msgid "On"
+msgstr "Włącz"
+
+#. Bs9AQ
+#: optappearancepage.ui
+msgctxt ""
+"optappearancepage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Custom colors"
+msgstr "Schemat użytkownika"
+
+#. dhtMk
+#: optbrowserpage.ui
+msgctxt ""
+"optbrowserpage.ui\n"
+"display\n"
+"label\n"
+"string.text"
+msgid "_Display documents in browser"
+msgstr "Wyświetl _dokumenty w przeglądarce"
+
+#. ZVBKB
+#: optbrowserpage.ui
+msgctxt ""
+"optbrowserpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Browser Plug-in"
+msgstr "Wtyczka przeglądarki"
+
+#. BxCLp
+#: optemailpage.ui
+msgctxt ""
+"optemailpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_E-mail program"
+msgstr "Program obsługujący wiadomości _e-mail"
+
+#. ab8SB
+#: optemailpage.ui
+msgctxt ""
+"optemailpage.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#. mtQoA
+#: optemailpage.ui
+msgctxt ""
+"optemailpage.ui\n"
+"browsetitle\n"
+"label\n"
+"string.text"
+msgid "All files"
+msgstr "Wszystkie pliki"
+
+#. bXgs9
+#: optemailpage.ui
+msgctxt ""
+"optemailpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Sending documents as e-mail attachments"
+msgstr "Wysyłanie dokumentów jako załączniku wiadomości e-mail"
+
+#. DEnex
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"wo_basic\n"
+"label\n"
+"string.text"
+msgid "Load Basic _code"
+msgstr "Załaduj kod Basi_c"
+
+#. nGCpP
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"wo_exec\n"
+"label\n"
+"string.text"
+msgid "E_xecutable code"
+msgstr "Kod wyk_onywalny"
+
+#. whUds
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"wo_saveorig\n"
+"label\n"
+"string.text"
+msgid "Save _original Basic code"
+msgstr "Zapisz _oryginalny kod Basic"
+
+#. 5BZBg
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Microsoft Word 97/2000/XP"
+msgstr "Microsoft Word 97/2000/XP"
+
+#. D3kYn
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"ex_basic\n"
+"label\n"
+"string.text"
+msgid "Lo_ad Basic code"
+msgstr "Zał_aduj kod Basic"
+
+#. AvGR9
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"ex_exec\n"
+"label\n"
+"string.text"
+msgid "E_xecutable code"
+msgstr "Kod wyk_onywalny"
+
+#. aDX6v
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"ex_saveorig\n"
+"label\n"
+"string.text"
+msgid "Sa_ve original Basic code"
+msgstr "Za_pisz oryginalny kod Basic"
+
+#. gfET4
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Microsoft Excel 97/2000/XP"
+msgstr "Microsoft Excel 97/2000/XP"
+
+#. TGS9Z
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"pp_basic\n"
+"label\n"
+"string.text"
+msgid "Load Ba_sic code"
+msgstr "Załaduj kod Ba_sic"
+
+#. QRZcw
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"pp_saveorig\n"
+"label\n"
+"string.text"
+msgid "Sav_e original Basic code"
+msgstr "Zap_isz oryginalny kod Basic"
+
+#. 5CETf
+#: optfltrpage.ui
+msgctxt ""
+"optfltrpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Microsoft PowerPoint 97/2000/XP"
+msgstr "Microsoft PowerPoint 97/2000/XP"
+
+#. jpybG
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Font"
+msgstr "_Czcionka"
+
+#. QXR2u
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Re_place with"
+msgstr "Z_amień na"
+
+#. CGGvB
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"always\n"
+"label\n"
+"string.text"
+msgid "Always"
+msgstr "Zawsze"
+
+#. 2QABC
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"screenonly\n"
+"label\n"
+"string.text"
+msgid "Screen only"
+msgstr "Ekran"
+
+#. As9ci
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Czcionka"
+
+#. wBRcz
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"replacewith\n"
+"label\n"
+"string.text"
+msgid "Replace with"
+msgstr "Zamień na"
+
+#. tiLCp
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"usetable\n"
+"label\n"
+"string.text"
+msgid "_Apply replacement table"
+msgstr "Z_astosuj tabelę zamian"
+
+#. LsfgD
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Replacement table"
+msgstr "Tabela zamian"
+
+#. qqAxf
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Fon_ts"
+msgstr "Czcionki"
+
+#. DENxw
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "_Size"
+msgstr "Rozmi_ar"
+
+#. cuPUB
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"fontname\n"
+"0\n"
+"stringlist.text"
+msgid "Automatic"
+msgstr "Automatycznie"
+
+#. B4p4a
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"nonpropfontonly\n"
+"label\n"
+"string.text"
+msgid "_Non-proportional fonts only"
+msgstr "Tylko czcionki nieproporcjonalne"
+
+#. aahnB
+#: optfontspage.ui
+msgctxt ""
+"optfontspage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Font settings for HTML, Basic and SQL sources"
+msgstr "Ustawienia czcionek w przypadku źródeł HTML, języka Basic oraz SQL"
+
+#. 3qcbV
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"tooltips\n"
+"label\n"
+"string.text"
+msgid "_Tips"
+msgstr "_Wskazówki"
+
+#. pvArS
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"exthelp\n"
+"label\n"
+"string.text"
+msgid "_Extended tips"
+msgstr "Wskazówki rozsz_erzone"
+
+#. GnCKE
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"helpagent\n"
+"label\n"
+"string.text"
+msgid "_Help Agent"
+msgstr "_Agent pomocy"
+
+#. m2z5X
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"resethelpagent\n"
+"label\n"
+"string.text"
+msgid "_Reset Help Agent"
+msgstr "_Resetuj agenta pomocy"
+
+#. bFZQQ
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Help"
+msgstr "Pomoc"
+
+#. 56FCp
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"filedlg\n"
+"label\n"
+"string.text"
+msgid "_Use %PRODUCTNAME dialogs"
+msgstr "_Użyj okien dialogowych programu %PRODUCTNAME"
+
+#. dPGGB
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Open/Save dialogs"
+msgstr "Okna dialogowe do otwierania/zapisywania"
+
+#. ECsKA
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"printdlg\n"
+"label\n"
+"string.text"
+msgid "Use %PRODUCTNAME _dialogs"
+msgstr "Użyj okien _dialogowych programu %PRODUCTNAME"
+
+#. Sqk4P
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Print dialogs"
+msgstr "Okna dialogowe drukowania"
+
+#. Tz2Cc
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"docstatus\n"
+"label\n"
+"string.text"
+msgid "_Printing sets \"document modified\" status"
+msgstr "Drukowanie _powoduje ustawienie stanu \"Dokument zmodyfikowany\""
+
+#. iN8j7
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"savealways\n"
+"label\n"
+"string.text"
+msgid "_Allow to save document even when the document is not modified "
+msgstr "_Pozwól zapisywać dokument, nawet jeśli nie został zmodyfikowany "
+
+#. ApWEu
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Document status"
+msgstr "Stan dokumentu"
+
+#. FEfvM
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "_Interpret as years between "
+msgstr "_Interpretuj jako lata między "
+
+#. 2uCwq
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"toyear\n"
+"label\n"
+"string.text"
+msgid "and "
+msgstr "i "
+
+#. mBmr9
+#: optgeneralpage.ui
+msgctxt ""
+"optgeneralpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Year (two digits)"
+msgstr "Rok (dwie cyfry)"
+
+#. 75yzB
+#: optionsdialog.ui
+msgctxt ""
+"optionsdialog.ui\n"
+"OptionsDialog\n"
+"title\n"
+"string.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. E8TkC
+#: optionsdialog.ui
+msgctxt ""
+"optionsdialog.ui\n"
+"notloaded\n"
+"label\n"
+"string.text"
+msgid "The selected module could not be loaded."
+msgstr "Nie można załadować wybranego modułu."
+
+#. 7aetw
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Number of steps"
+msgstr "_Liczba kroków"
+
+#. TJvEE
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Undo"
+msgstr "Cofnij"
+
+#. 72gnq
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "_Use for %PRODUCTNAME"
+msgstr "_Używaj dla programu %PRODUCTNAME"
+
+#. BTqN8
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "_Memory per object"
+msgstr "Ilość pamięci na obiekt"
+
+#. Jjqwm
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Remove _from memory after"
+msgstr "Usuń z pamięci po"
+
+#. vUCVb
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "MB"
+msgstr "MB"
+
+#. QrZoD
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "MB"
+msgstr "MB"
+
+#. 4YBX9
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "hh:mm"
+msgstr "gg:mm"
+
+#. FxsXz
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Graphics cache"
+msgstr "Pamięć podręczna na grafikę"
+
+#. 2rDHd
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Number of objects "
+msgstr "Liczba obiektów "
+
+#. KQn5L
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Cache for inserted objects"
+msgstr "Pamięć podręczna na wstawione obiekty"
+
+#. EN9aX
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"quicklaunch\n"
+"label\n"
+"string.text"
+msgid "Load %PRODUCTNAME during system start-up"
+msgstr "Ładuj program %PRODUCTNAME podczas uruchamiania systemu"
+
+#. JDyeM
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"systray\n"
+"label\n"
+"string.text"
+msgid "Enable systray Quickstarter"
+msgstr "Włącz szybkie uruchamianie na pasku systemowym"
+
+#. FCgxF
+#: optmemorypage.ui
+msgctxt ""
+"optmemorypage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Quickstarter"
+msgstr "Moduł szybkiego uruchamiania %PRODUCTNAME"
+
+#. GNKEq
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"autocheck\n"
+"label\n"
+"string.text"
+msgid "_Check for updates automatically"
+msgstr "Automaty_cznie sprawdzaj aktualizacje"
+
+#. e9fj8
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"everyday\n"
+"label\n"
+"string.text"
+msgid "Every Da_y"
+msgstr "Co_dziennie"
+
+#. yGZCH
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"everyweek\n"
+"label\n"
+"string.text"
+msgid "Every _Week"
+msgstr "Co _tydzień"
+
+#. FGTB2
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"everymonth\n"
+"label\n"
+"string.text"
+msgid "Every _Month"
+msgstr "Co _miesiąc"
+
+#. rsxVr
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"lastchecked\n"
+"label\n"
+"string.text"
+msgid "Last checked: %DATE%, %TIME%"
+msgstr "Ostatnie sprawdzenie: %DATE%, %TIME%"
+
+#. doCeR
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"checknow\n"
+"label\n"
+"string.text"
+msgid "Check _now"
+msgstr "Sprawdź _teraz"
+
+#. RLKm7
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"autodownload\n"
+"label\n"
+"string.text"
+msgid "_Download updates automatically"
+msgstr "Automatyczne _pobieranie aktualizacji"
+
+#. TH3RS
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"destpathlabel\n"
+"label\n"
+"string.text"
+msgid "Download destination:"
+msgstr "Miejsce docelowe pobierania:"
+
+#. kAGYQ
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"changepath\n"
+"label\n"
+"string.text"
+msgid "Ch_ange..."
+msgstr "Z_mień..."
+
+#. wZUFw
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"neverchecked\n"
+"label\n"
+"string.text"
+msgid "Last checked: Not yet"
+msgstr "Ostatnie sprawdzenie: Jeszcze nie"
+
+#. DV5yg
+#: optonlineupdatepage.ui
+msgctxt ""
+"optonlineupdatepage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Online Update Options"
+msgstr "Opcje aktualizacji online"
+
+#. nsFFk
+#: optpathspage.ui
+msgctxt ""
+"optpathspage.ui\n"
+"type\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Typ"
+
+#. kzjTR
+#: optpathspage.ui
+msgctxt ""
+"optpathspage.ui\n"
+"path\n"
+"label\n"
+"string.text"
+msgid "Path"
+msgstr "Ścieżka"
+
+#. NPxcB
+#: optpathspage.ui
+msgctxt ""
+"optpathspage.ui\n"
+"editpaths\n"
+"label\n"
+"string.text"
+msgid "Edit Paths: %1"
+msgstr "Edytuj ścieżki: %1"
+
+#. RbZWw
+#: optpathspage.ui
+msgctxt ""
+"optpathspage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Paths used by %PRODUCTNAME"
+msgstr "Ścieżki używane przez %PRODUCTNAME"
+
+#. 6WrFV
+#: optpathspage.ui
+msgctxt ""
+"optpathspage.ui\n"
+"default\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "_Domyślnie"
+
+#. RsTLk
+#: optpathspage.ui
+msgctxt ""
+"optpathspage.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Edycja..."
+
+#. 6VX69
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Proxy s_erver"
+msgstr "S_erwer proxy"
+
+#. nvZ29
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"proxymode\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Brak"
+
+#. QDow5
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"proxymode\n"
+"1\n"
+"stringlist.text"
+msgid "System"
+msgstr "Systemowe"
+
+#. FytxF
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"proxymode\n"
+"2\n"
+"stringlist.text"
+msgid "Manual"
+msgstr "Ręcznie"
+
+#. DuJSv
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"httpft\n"
+"label\n"
+"string.text"
+msgid "HT_TP proxy"
+msgstr "Serwer proxy HT_TP"
+
+#. FWMxx
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"httpportft\n"
+"label\n"
+"string.text"
+msgid "_Port"
+msgstr "_Port"
+
+#. BfZvw
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"httpsft\n"
+"label\n"
+"string.text"
+msgid "HTTP_S proxy"
+msgstr "Serwer proxy HTTP_S"
+
+#. 7edES
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"ftpft\n"
+"label\n"
+"string.text"
+msgid "_FTP proxy"
+msgstr "Serwer proxy _FTP"
+
+#. M4J5k
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"noproxyft\n"
+"label\n"
+"string.text"
+msgid "_No proxy for:"
+msgstr "_Bez serwera proxy:"
+
+#. A3B5Y
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"httpsportft\n"
+"label\n"
+"string.text"
+msgid "P_ort"
+msgstr "P_ort"
+
+#. PH5ES
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"ftpportft\n"
+"label\n"
+"string.text"
+msgid "P_ort"
+msgstr "P_ort"
+
+#. aVB9p
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"noproxydesc\n"
+"label\n"
+"string.text"
+msgid "Separator ;"
+msgstr "Separator ;"
+
+#. BQDBK
+#: optproxypage.ui
+msgctxt ""
+"optproxypage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Ustawienia"
+
+#. DBmWq
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"load_docprinter\n"
+"label\n"
+"string.text"
+msgid "Load printer settings with the document"
+msgstr "Załaduj ustawienia drukarki z dokumentem"
+
+#. vVNxk
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"load_settings\n"
+"label\n"
+"string.text"
+msgid "Load user-specific settings with the document"
+msgstr "Ładuj dokument łącznie z ustawieniami indywidualnymi"
+
+#. E79BF
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Load"
+msgstr "Ładuj"
+
+#. G3EyY
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"autosave\n"
+"label\n"
+"string.text"
+msgid "Save _AutoRecovery information every"
+msgstr "Z_apisuj informacje automatycznego przywracania co"
+
+#. 36wHE
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"autosave_mins\n"
+"label\n"
+"string.text"
+msgid "Minutes"
+msgstr "min"
+
+#. EAbBn
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"userautosave\n"
+"label\n"
+"string.text"
+msgid "Automatically save the document too"
+msgstr "Automatycznie zapisuje dokument"
+
+#. VqGoW
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"relative_fsys\n"
+"label\n"
+"string.text"
+msgid "Save URLs relative to file system"
+msgstr "Zapisz adresy URL w formacie względnym dla systemu plików"
+
+#. AFFdp
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"relative_inet\n"
+"label\n"
+"string.text"
+msgid "Save URLs relative to internet"
+msgstr "Zapisz adresy URL w formacie względnym dla internetu"
+
+#. YS72Z
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"docinfo\n"
+"label\n"
+"string.text"
+msgid "_Edit document properties before saving"
+msgstr "_Edycja właściwości dokumentu przed zapisaniem"
+
+#. dqqLD
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"backup\n"
+"label\n"
+"string.text"
+msgid "Al_ways create backup copy"
+msgstr "Za_wsze wykonuj kopię zapasową"
+
+#. 6gFSq
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Save"
+msgstr "Zapisz"
+
+#. XqNFD
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"sizeoptimization\n"
+"label\n"
+"string.text"
+msgid "Size optimization for ODF format"
+msgstr "Optymalizacja rozmiaru dla formatu ODF"
+
+#. h4hEq
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"warnalienformat\n"
+"label\n"
+"string.text"
+msgid "Warn when not saving in ODF or default format"
+msgstr ""
+"Ostrzegaj przy zapisywaniu w formacie innym niż domyślny lub format "
+"OpenDocument"
+
+#. 2NNkH
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"odfwarning_label\n"
+"label\n"
+"string.text"
+msgid "Not using ODF 1.2 Extended may cause information to be lost."
+msgstr ""
+"Użycie formatu innego niż ODF 1.2 Extended, może skutkować utratą części "
+"informacji."
+
+#. ptjzC
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"odfversion\n"
+"0\n"
+"stringlist.text"
+msgid "1.0/1.1"
+msgstr "1.0/1.1"
+
+#. uhBKX
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"odfversion\n"
+"1\n"
+"stringlist.text"
+msgid "1.2"
+msgstr "1.2"
+
+#. cToCN
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"odfversion\n"
+"2\n"
+"stringlist.text"
+msgid "1.2 Extended (compat mode)"
+msgstr "1.2 Rozszerzony (tryb kompaktowy)"
+
+#. ubRZp
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"odfversion\n"
+"3\n"
+"stringlist.text"
+msgid "1.2 Extended (recommended)"
+msgstr "1.2 Rozszerzony (zalecany)"
+
+#. aDD9Y
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "ODF format version:"
+msgstr "Wersja formatu ODF"
+
+#. 5JMM4
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"saveas_label\n"
+"label\n"
+"string.text"
+msgid "Always sa_ve as:"
+msgstr "Zawsze zapisuj jako"
+
+#. q3xyY
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"doctype\n"
+"0\n"
+"stringlist.text"
+msgid "Text document"
+msgstr "Dokument tekstowy"
+
+#. aoDvW
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"doctype\n"
+"1\n"
+"stringlist.text"
+msgid "HTML document"
+msgstr "Dokument HTML"
+
+#. TMjZv
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"doctype\n"
+"2\n"
+"stringlist.text"
+msgid "Master document"
+msgstr "Dokument główny"
+
+#. L9P6B
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"doctype\n"
+"3\n"
+"stringlist.text"
+msgid "Spreadsheet"
+msgstr "Arkusz kalkulacyjny"
+
+#. g7vam
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"doctype\n"
+"4\n"
+"stringlist.text"
+msgid "Presentation"
+msgstr "Prezentacja"
+
+#. AJZda
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"doctype\n"
+"5\n"
+"stringlist.text"
+msgid "Drawing"
+msgstr "Rysunek"
+
+#. EiYvN
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"doctype\n"
+"6\n"
+"stringlist.text"
+msgid "Formula"
+msgstr "Formuła"
+
+#. 8GHEa
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "D_ocument type:"
+msgstr "Typ d_okumentu"
+
+#. DVWVD
+#: optsavepage.ui
+msgctxt ""
+"optsavepage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Default file format and ODF settings"
+msgstr "Domyślny format pliku i ustawienia ODF"
+
+#. juJm2
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Adjust security related options and define warnings for hidden information in documents.  "
+msgstr ""
+"Określ opcje związane z bezpieczeństwem i zdefiniuj ostrzeżenia dotyczące "
+"ukrytych informacji w dokumentach.  "
+
+#. 8PRS7
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"options\n"
+"label\n"
+"string.text"
+msgid "O_ptions..."
+msgstr "O_pcje..."
+
+#. srMC6
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Security options and warnings"
+msgstr "Opcje i ostrzeżenia dotyczące bezpieczeństwa"
+
+#. y9FZy
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"savepassword\n"
+"label\n"
+"string.text"
+msgid "Persistently _save passwords for web connections"
+msgstr "Zapamiętuje hasła do połączeń internetowych"
+
+#. yWATq
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"usemasterpassword\n"
+"label\n"
+"string.text"
+msgid "Protected _by a master password (recommended)"
+msgstr "Chronione za pomocą hasła głównego (zalecane)"
+
+#. wxhJE
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"masterpasswordtext\n"
+"label\n"
+"string.text"
+msgid "Passwords are protected by a master password. You will be asked to enter it once per session, if %PRODUCTNAME retrieves a password from the protected password list."
+msgstr ""
+"Hasła są zabezpieczone hasłem głównym. Jeśli program %PRODUCTNAME pobierze "
+"hasło z zabezpieczonej listy haseł, zostaniesz poproszony o wprowadzenie "
+"hasła tylko raz podczas sesji."
+
+#. 4Ep82
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"nopasswordsave\n"
+"label\n"
+"string.text"
+msgid ""
+"Disabling the function to persistently store passwords deletes the list of passwords stored and resets the master password.\n"
+"\n"
+"Do you want to delete password list and reset master password?"
+msgstr ""
+"Wyłączenie funkcji trwałego przechowywania haseł usuwa listę zapisanych "
+"haseł i kasuje hasło główne.\n"
+"\n"
+"Czy chcesz usunąć listę haseł i skasować hasło główne?"
+
+#. SrmJ3
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"connections\n"
+"label\n"
+"string.text"
+msgid "Connect_ions..."
+msgstr "Połączenia..."
+
+#. D5nAV
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"masterpassword\n"
+"label\n"
+"string.text"
+msgid "_Master Password..."
+msgstr "_Hasło główne..."
+
+#. 9U5JE
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Passwords for web connections"
+msgstr "Hasła połączeń z siecią Web"
+
+#. MAwme
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Adjust the security level for executing macros and specify trusted macro developers."
+msgstr ""
+"Dostosuj poziom bezpieczeństwa wykonywania makr i określ zaufanych twórców "
+"makr."
+
+#. Fy7EU
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"macro\n"
+"label\n"
+"string.text"
+msgid "Macro Securit_y..."
+msgstr "Ochro_na makr..."
+
+#. CXyqc
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Macro security"
+msgstr "Bezpieczeństwo makr"
+
+#. zeBGE
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Select the Network Security Services certificate directory to use for digital signatures."
+msgstr ""
+"Wskaż katalog, w którym zapisano cyfrowe podpisy certyfikatu Usług "
+"Bezpieczeństwa Sieciowego."
+
+#. b8hG4
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"cert\n"
+"label\n"
+"string.text"
+msgid "_Certificate..."
+msgstr "_Certyfikat..."
+
+#. AkXG9
+#: optsecuritypage.ui
+msgctxt ""
+"optsecuritypage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Certificate Path"
+msgstr "Ścieżka do certyfikatu"
+
+#. m4DeH
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"companyft\n"
+"label\n"
+"string.text"
+msgid "_Company"
+msgstr "_Firma"
+
+#. VZJnU
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "First/Last _name/Initials"
+msgstr "Imię/_Nazwisko/Inicjały"
+
+#. 4F8Cx
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"streetft\n"
+"label\n"
+"string.text"
+msgid "_Street"
+msgstr "_Ulica"
+
+#. gX4ig
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"cityft\n"
+"label\n"
+"string.text"
+msgid "City/State/_Zip"
+msgstr "Miasto/Region/_Kod pocztowy"
+
+#. nXYAi
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"countryft\n"
+"label\n"
+"string.text"
+msgid "Country/Re_gion"
+msgstr "Kraj/_Region"
+
+#. qBBMt
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"titleft\n"
+"label\n"
+"string.text"
+msgid "_Title/Position"
+msgstr "_Tytuł/stanowisko"
+
+#. uxc85
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"phoneft\n"
+"label\n"
+"string.text"
+msgid "Tel. (Home/_Work)"
+msgstr "Tel. (Dom/_Praca)"
+
+#. bQapG
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"phoneft-atkobject\n"
+"AtkObject::accessible-description\n"
+"string.text"
+msgid "Home telephone number"
+msgstr "Numer telefonu domowego"
+
+#. CKKMb
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"faxft\n"
+"label\n"
+"string.text"
+msgid "Fa_x/E-mail"
+msgstr "_Faks/E-mail"
+
+#. ERbnW
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"firstname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "First name"
+msgstr "Imię"
+
+#. sCNsU
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"lastname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Last name"
+msgstr "Nazwisko"
+
+#. ErCVq
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"shortname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Initials"
+msgstr "Inicjały"
+
+#. yXFmt
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"city-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "City"
+msgstr "Miejscowość"
+
+#. owGx4
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"state-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "State"
+msgstr "Województwo"
+
+#. c53dC
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"zip-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Zip code"
+msgstr "Kod pocztowy"
+
+#. nepk6
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"title-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Title"
+msgstr "Tytuł"
+
+#. QiK7G
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"position-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. Wgods
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"home-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Home telephone number"
+msgstr "Telefon domowy"
+
+#. mMDCG
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"work-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Work telephone number"
+msgstr "Numer telefonu w pracy"
+
+#. 9fE3T
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"fax-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "FAX number"
+msgstr "Numer faksu"
+
+#. XP7Fo
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"email-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "email address"
+msgstr "adres email"
+
+#. MZBdH
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"usefordocprop\n"
+"label\n"
+"string.text"
+msgid "Use data for document properties"
+msgstr "Użyj danych dla właściwości dokumentów"
+
+#. GxG6H
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"rusnameft\n"
+"label\n"
+"string.text"
+msgid "Last Name/First _name/Father's name/Initials"
+msgstr "Nazwisko/Imię/Imię ojca/Inicjały"
+
+#. yPDBu
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"ruslastname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Last name"
+msgstr "Nazwisko"
+
+#. Z6DjH
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"rusfathersname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Father's name"
+msgstr "Imię ojca"
+
+#. CgMAg
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"russhortname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Initials"
+msgstr "Inicjały"
+
+#. CqUFH
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"rusfirstname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "First name"
+msgstr "Imię"
+
+#. cxVoV
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"eastnameft\n"
+"label\n"
+"string.text"
+msgid "Last/First _name/Initials"
+msgstr "Nazwisko/_Imię/Inicjały"
+
+#. BrdMi
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"eastlastname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Last name"
+msgstr "Nazwisko"
+
+#. N7xZX
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"eastfirstname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "First name"
+msgstr "Imię"
+
+#. vCv2X
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"eastshortname-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Initials"
+msgstr "Inicjały"
+
+#. usTB2
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"russtreetft\n"
+"label\n"
+"string.text"
+msgid "_Street/Apartment number"
+msgstr "Ulica/Numer mieszkania"
+
+#. 6GQ2z
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"russtreet-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Street"
+msgstr "Ulica"
+
+#. 9sWPz
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"apartnum-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Apartment number"
+msgstr "Numer mieszkania"
+
+#. uCWq2
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"icityft\n"
+"label\n"
+"string.text"
+msgid "_Zip/City"
+msgstr "Kod pocztowy/Miejscowość"
+
+#. AjaqB
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"icity-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "City"
+msgstr "Miejscowość"
+
+#. tcsMA
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"izip-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Zip code"
+msgstr "Kod pocztowy"
+
+#. s7chU
+#: optuserpage.ui
+msgctxt ""
+"optuserpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Address"
+msgstr "Adres"
+
+#. JRK6D
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Sc_aling"
+msgstr "Sk_alowanie"
+
+#. 3B6At
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Icon _size and style"
+msgstr "Rozmiar i _styl ikon"
+
+#. wMbuV
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconsize\n"
+"0\n"
+"stringlist.text"
+msgid "Automatic"
+msgstr "Automatycznie"
+
+#. gCXUH
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconsize\n"
+"1\n"
+"stringlist.text"
+msgid "Small"
+msgstr "Mały"
+
+#. Bp3uC
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconsize\n"
+"2\n"
+"stringlist.text"
+msgid "Large"
+msgstr "Duży"
+
+#. RUyAJ
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"0\n"
+"stringlist.text"
+msgid "Automatic"
+msgstr "Automatycznie"
+
+#. orxBN
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"1\n"
+"stringlist.text"
+msgid "Galaxy (default)"
+msgstr "Galaxy (domyślny)"
+
+#. sV9M2
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"2\n"
+"stringlist.text"
+msgid "High Contrast"
+msgstr "Wysoki kontrast"
+
+#. vDTiW
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"3\n"
+"stringlist.text"
+msgid "Industrial"
+msgstr "Przemysłowy"
+
+#. aXojc
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"4\n"
+"stringlist.text"
+msgid "Crystal"
+msgstr "Kryształ"
+
+#. MgsCW
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"5\n"
+"stringlist.text"
+msgid "Tango"
+msgstr "Tango"
+
+#. xjCCk
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"6\n"
+"stringlist.text"
+msgid "Oxygen"
+msgstr "Tlen"
+
+#. QcdbE
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"7\n"
+"stringlist.text"
+msgid "Classic"
+msgstr "Klasyczny"
+
+#. SdENE
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"8\n"
+"stringlist.text"
+msgid "Human"
+msgstr "Human"
+
+#. Cmaun
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"iconstyle\n"
+"9\n"
+"stringlist.text"
+msgid "Tango Testing"
+msgstr "Tango Testing"
+
+#. 4iRsE
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"systemfont\n"
+"label\n"
+"string.text"
+msgid "Use system _font for user interface"
+msgstr "Użyj czcionki systemowej w inter_fejsie użytkownika"
+
+#. xEE4B
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"aafont\n"
+"label\n"
+"string.text"
+msgid "Screen font antialiasin_g"
+msgstr "Wy_gładzanie czcionek ekranowych"
+
+#. 2AWSG
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"aafrom\n"
+"label\n"
+"string.text"
+msgid "fro_m"
+msgstr "_z"
+
+#. oUTWs
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"aaunits\n"
+"label\n"
+"string.text"
+msgid "pixels"
+msgstr "piksel"
+
+#. DwoHW
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "User Interface"
+msgstr "Interfejs użytkownika"
+
+#. roiXc
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label13\n"
+"label\n"
+"string.text"
+msgid "Icons in men_us"
+msgstr "I_kony w menu"
+
+#. GiQuv
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"menuicons\n"
+"0\n"
+"stringlist.text"
+msgid "Automatic"
+msgstr "Automatycznie"
+
+#. YGvpf
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"menuicons\n"
+"1\n"
+"stringlist.text"
+msgid "Hide"
+msgstr "Ukryj"
+
+#. FqMec
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"menuicons\n"
+"2\n"
+"stringlist.text"
+msgid "Show"
+msgstr "Pokaż"
+
+#. 7nSuk
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Menu"
+msgstr "Menu"
+
+#. PvtAY
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"showfontpreview\n"
+"label\n"
+"string.text"
+msgid "Show p_review of fonts"
+msgstr "Podgląd w_ykazu czcionek"
+
+#. fbewP
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"showfonthistory\n"
+"label\n"
+"string.text"
+msgid "Show font h_istory"
+msgstr "H_istoria czcionek"
+
+#. mvsiu
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Font Lists"
+msgstr "Listy czcionek"
+
+#. Zd9Dy
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"useaccel\n"
+"label\n"
+"string.text"
+msgid "Use hard_ware acceleration"
+msgstr "Użyj przys_pieszenia sprzętowego"
+
+#. vLmyf
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"useaa\n"
+"label\n"
+"string.text"
+msgid "Use Anti-A_liasing"
+msgstr "Włącz _antyaliasing"
+
+#. xUqNZ
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Graphics output"
+msgstr "Wyjście obrazu"
+
+#. zLtRX
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Mouse _positioning"
+msgstr "Ustawienie myszy"
+
+#. P4q6j
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Middle Mouse _button"
+msgstr "Środkowy _przycisk myszy"
+
+#. r6JEo
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"mousepos\n"
+"0\n"
+"stringlist.text"
+msgid "Default button"
+msgstr "Przycisk domyślny"
+
+#. frW9J
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"mousepos\n"
+"1\n"
+"stringlist.text"
+msgid "Dialog center"
+msgstr "Na środku okna dialogowego"
+
+#. TGuAH
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"mousepos\n"
+"2\n"
+"stringlist.text"
+msgid "No automatic positioning"
+msgstr "Bez automatycznego pozycjonowania"
+
+#. xWtDE
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"mousemiddle\n"
+"0\n"
+"stringlist.text"
+msgid "No function"
+msgstr "Brak funkcji"
+
+#. EAGQJ
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"mousemiddle\n"
+"1\n"
+"stringlist.text"
+msgid "Automatic scrolling"
+msgstr "Automatyczne przewijanie"
+
+#. kZ8rp
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"mousemiddle\n"
+"2\n"
+"stringlist.text"
+msgid "Paste clipboard"
+msgstr "Wklej schowek"
+
+#. 3ZDBs
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Mouse"
+msgstr "Mysz"
+
+#. RAgDR
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"trans\n"
+"label\n"
+"string.text"
+msgid "_Transparency"
+msgstr "Przezrocz_ystość"
+
+#. 5yVcu
+#: optviewpage.ui
+msgctxt ""
+"optviewpage.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+#. nAf7V
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelFormat\n"
+"label\n"
+"string.text"
+msgid "_Format:"
+msgstr "_Format:"
+
+#. D6ua2
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelWidth\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "_Szerokość:"
+
+#. 97p5D
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelHeight\n"
+"label\n"
+"string.text"
+msgid "_Height:"
+msgstr "_Wysokość:"
+
+#. 3DFPZ
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelOrientation\n"
+"label\n"
+"string.text"
+msgid "_Orientation:"
+msgstr "_Orientacja:"
+
+#. GRjHg
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"radiobuttonPortrait\n"
+"label\n"
+"string.text"
+msgid "_Portrait"
+msgstr "_Pionowa"
+
+#. vnGxG
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"radiobuttonLandscape\n"
+"label\n"
+"string.text"
+msgid "L_andscape"
+msgstr "Poziom_a"
+
+#. BqvbL
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelTextFlow\n"
+"label\n"
+"string.text"
+msgid "_Text direction:"
+msgstr "Kierunek _tekstu:"
+
+#. FYhnf
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelPaperTray\n"
+"label\n"
+"string.text"
+msgid "Paper _tray:"
+msgstr "Zaso_bnik papieru:"
+
+#. AAG4L
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelPaperFormat\n"
+"label\n"
+"string.text"
+msgid "Paper format"
+msgstr "Format papieru"
+
+#. km2o2
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelTopMargin\n"
+"label\n"
+"string.text"
+msgid "Top:"
+msgstr "Od góry:"
+
+#. bGo48
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelBottomMargin\n"
+"label\n"
+"string.text"
+msgid "Bottom:"
+msgstr "Od dołu:"
+
+#. ACMbZ
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelRightMargin\n"
+"label\n"
+"string.text"
+msgid "Right:"
+msgstr "Prawy:"
+
+#. BY39R
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelOuter\n"
+"label\n"
+"string.text"
+msgid "O_uter:"
+msgstr "Na zewnątrz:"
+
+#. G56FH
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelLeftMargin\n"
+"label\n"
+"string.text"
+msgid "Left:"
+msgstr "Lewy:"
+
+#. 5jBeL
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelInner\n"
+"label\n"
+"string.text"
+msgid "I_nner:"
+msgstr "Wew_nątrz:"
+
+#. NVLRH
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelMargins\n"
+"label\n"
+"string.text"
+msgid "Margins"
+msgstr "Marginesy"
+
+#. QLfL7
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelPageLayout\n"
+"label\n"
+"string.text"
+msgid "_Page layout:"
+msgstr "_Układ strony:"
+
+#. YA7ED
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Format:"
+msgstr "_Format:"
+
+#. xDpVA
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"checkRegisterTrue\n"
+"label\n"
+"string.text"
+msgid "Register-tr_ue"
+msgstr "Uzgadniaj miejsca wierszy"
+
+#. HFG2c
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelTblAlign\n"
+"label\n"
+"string.text"
+msgid "Table alignment:"
+msgstr "Wyrównanie tabeli:"
+
+#. pcrDm
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"checkbuttonHorz\n"
+"label\n"
+"string.text"
+msgid "Hori_zontal"
+msgstr "Po_ziomo"
+
+#. DCDph
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"checkbuttonVert\n"
+"label\n"
+"string.text"
+msgid "_Vertical"
+msgstr "_Pionowo"
+
+#. cLXHE
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"checkAdaptBox\n"
+"label\n"
+"string.text"
+msgid "_Fit object to paper format"
+msgstr "Dopasuj obiekt do _formatu papieru"
+
+#. 3MMhE
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelRegisterStyle\n"
+"label\n"
+"string.text"
+msgid "Reference _Style:"
+msgstr "_Styl uzgodnienia:"
+
+#. f7pPv
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Layout settings"
+msgstr "Ustawienia układu"
+
+#. N8gLA
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"labelMsg\n"
+"label\n"
+"string.text"
+msgid ""
+"The margin settings are out of print range.\n"
+"\n"
+"Do you still want to apply these settings?"
+msgstr ""
+"Ustawienia marginesów znajdują się poza obszarem wydruku.\n"
+"\n"
+"Czy mimo to zastosować te ustawienia?"
+
+#. n9Say
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"0\n"
+"stringlist.text"
+msgid "1, 2, 3, ..."
+msgstr "1, 2, 3, ..."
+
+#. Svc7u
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"1\n"
+"stringlist.text"
+msgid "A, B, C, ..."
+msgstr "A, B, C, ..."
+
+#. AANWA
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"2\n"
+"stringlist.text"
+msgid "a, b, c, ..."
+msgstr "a, b, c, ..."
+
+#. AKxWJ
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"3\n"
+"stringlist.text"
+msgid "I, II, III, ..."
+msgstr "I, II, III, ..."
+
+#. U5tq8
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"4\n"
+"stringlist.text"
+msgid "i, ii, iii, ..."
+msgstr "i, ii, iii, ..."
+
+#. c9ycB
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"5\n"
+"stringlist.text"
+msgid "None"
+msgstr "Brak"
+
+#. t5hEC
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"6\n"
+"stringlist.text"
+msgid "A, .., AA, .., AAA, ..."
+msgstr "A, .., AA, .., AAA, ..."
+
+#. dxCB4
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"7\n"
+"stringlist.text"
+msgid "a, .., aa, .., aaa, ..."
+msgstr "a, .., aa, .., aaa, ..."
+
+#. pWgF9
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"8\n"
+"stringlist.text"
+msgid "Native Numbering"
+msgstr "Numeracja macierzysta"
+
+#. F2Gwa
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"9\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Bulgarian)"
+msgstr "А, Б, .., Аа, Аб, ... (bułgarski)"
+
+#. FENAC
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"10\n"
+"stringlist.text"
+msgid "а, б, .., аа, аб, ... (Bulgarian)"
+msgstr "а, б, .., аа, аб, ... (bułgarski)"
+
+#. xBEB5
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"11\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Bulgarian)"
+msgstr "А, Б, .., Аа, Бб, ... (bułgarski)"
+
+#. dGNfP
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"12\n"
+"stringlist.text"
+msgid "а, б, .., аа, бб, ... (Bulgarian)"
+msgstr "а, б, .., аа, бб, ... (bułgarski)"
+
+#. Ro7kH
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"13\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Russian)"
+msgstr "А, Б, .., Аа, Аб, ... (rosyjski)"
+
+#. BaCV8
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"14\n"
+"stringlist.text"
+msgid "а, б, .., аа, аб, ... (Russian)"
+msgstr "а, б, .., аа, аб, ... (rosyjski)"
+
+#. pXdho
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"15\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Russian)"
+msgstr "А, Б, .., Аа, Бб, ... (rosyjski)"
+
+#. mowhm
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"16\n"
+"stringlist.text"
+msgid "а, б, .., аа, бб, ... (Russian)"
+msgstr "а, б, .., аа, бб, ... (rosyjski)"
+
+#. 9yCAN
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"17\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Аб, ... (Serbian)"
+msgstr "А, Б, .., Аа, Аб, ... (serbski)"
+
+#. vSs8L
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"18\n"
+"stringlist.text"
+msgid "а, б, .., аа, аб, ... (Serbian)"
+msgstr "а, б, .., аа, аб, ... (serbski)"
+
+#. zfKCa
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"19\n"
+"stringlist.text"
+msgid "А, Б, .., Аа, Бб, ... (Serbian)"
+msgstr "А, Б, .., Аа, Бб, ... (serbski)"
+
+#. aW4Bb
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"20\n"
+"stringlist.text"
+msgid "а, б, .., аа, бб, ... (Serbian)"
+msgstr "а, б, .., аа, бб, ... (serbski)"
+
+#. cyhxG
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"21\n"
+"stringlist.text"
+msgid "Α, Β, Γ, ... (Greek Upper Letter)"
+msgstr "Α, Β, Γ, ... (Duże greckie litery)"
+
+#. WDxjE
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststoreNumberFormat\n"
+"22\n"
+"stringlist.text"
+msgid "α, β, γ, ... (Greek Lower Letter)"
+msgstr "α, β, γ, ... (Małe greckie litery)"
+
+#. wCAhb
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststorePageLayout\n"
+"0\n"
+"stringlist.text"
+msgid "Right and left"
+msgstr "Z prawej i z lewej"
+
+#. dCD2v
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststorePageLayout\n"
+"1\n"
+"stringlist.text"
+msgid "Mirrored"
+msgstr "Odbicie lustrzane"
+
+#. ksjGg
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststorePageLayout\n"
+"2\n"
+"stringlist.text"
+msgid "Only right"
+msgstr "Tylko z prawej"
+
+#. Gi6VG
+#: pageformatpage.ui
+msgctxt ""
+"pageformatpage.ui\n"
+"liststorePageLayout\n"
+"3\n"
+"stringlist.text"
+msgid "Only left"
+msgstr "Tylko z lewej"
+
+#. CnT3i
+#: pastespecial.ui
+msgctxt ""
+"pastespecial.ui\n"
+"PasteSpecialDialog\n"
+"title\n"
+"string.text"
+msgid "Paste Special"
+msgstr "Wklej specjalnie"
+
+#. BiMhV
+#: pastespecial.ui
+msgctxt ""
+"pastespecial.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Source:"
+msgstr "Źródło:"
+
+#. 6sSvs
+#: pastespecial.ui
+msgctxt ""
+"pastespecial.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+#. GS3PG
+#: personalization_tab.ui
+msgctxt ""
+"personalization_tab.ui\n"
+"no_persona\n"
+"label\n"
+"string.text"
+msgid "Plain look, do not use Themes"
+msgstr "Zwykły wygląd, nie używaj motywów"
+
+#. 2u9y8
+#: personalization_tab.ui
+msgctxt ""
+"personalization_tab.ui\n"
+"default_persona\n"
+"label\n"
+"string.text"
+msgid "Pre-installed Theme (if available)"
+msgstr "Preinstalowane motywy (jeśli dostępne)"
+
+#. UZzGc
+#: personalization_tab.ui
+msgctxt ""
+"personalization_tab.ui\n"
+"own_persona\n"
+"label\n"
+"string.text"
+msgid "Own Theme"
+msgstr "Własny motyw"
+
+#. 3R6Jh
+#: personalization_tab.ui
+msgctxt ""
+"personalization_tab.ui\n"
+"select_persona\n"
+"label\n"
+"string.text"
+msgid "Select Theme"
+msgstr "Wybór motywu"
+
+#. AsgNv
+#: personalization_tab.ui
+msgctxt ""
+"personalization_tab.ui\n"
+"personas_label\n"
+"label\n"
+"string.text"
+msgid "Firefox Themes"
+msgstr "Motywy Firefoksa"
+
+#. xf2Vn
+#: pickbulletpage.ui
+msgctxt ""
+"pickbulletpage.ui\n"
+"label25\n"
+"label\n"
+"string.text"
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+#. xZDRP
+#: pickgraphicpage.ui
+msgctxt ""
+"pickgraphicpage.ui\n"
+"linkgraphics\n"
+"label\n"
+"string.text"
+msgid "_Link graphics"
+msgstr "_Dołącz grafikę"
+
+#. 6aP7D
+#: pickgraphicpage.ui
+msgctxt ""
+"pickgraphicpage.ui\n"
+"errorft\n"
+"label\n"
+"string.text"
+msgid "The Gallery theme 'Bullets' is empty (no graphics)."
+msgstr ""
+"Temat Galerii 'Znaki wypunktowania' jest pusty (nie ma w nim żadnych "
+"grafik)."
+
+#. 8GBjh
+#: pickgraphicpage.ui
+msgctxt ""
+"pickgraphicpage.ui\n"
+"label25\n"
+"label\n"
+"string.text"
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+#. YHDC8
+#: picknumberingpage.ui
+msgctxt ""
+"picknumberingpage.ui\n"
+"label25\n"
+"label\n"
+"string.text"
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+#. DbRZf
+#: pickoutlinepage.ui
+msgctxt ""
+"pickoutlinepage.ui\n"
+"label25\n"
+"label\n"
+"string.text"
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+#. ohnhd
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"superscript\n"
+"label\n"
+"string.text"
+msgid "Superscript"
+msgstr "Indeks górny"
+
+#. GDqxK
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"normal\n"
+"label\n"
+"string.text"
+msgid "Normal"
+msgstr "Normalne"
+
+#. VrKoB
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"subscript\n"
+"label\n"
+"string.text"
+msgid "Subscript"
+msgstr "Indeks dolny"
+
+#. GcF5V
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"raiselower\n"
+"label\n"
+"string.text"
+msgid "Raise/lower by"
+msgstr "Podnieś/obniż o"
+
+#. FRw5T
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"automatic\n"
+"label\n"
+"string.text"
+msgid "Automatic"
+msgstr "Automatycznie"
+
+#. KqdAn
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"relativefontsize\n"
+"label\n"
+"string.text"
+msgid "Relative font size"
+msgstr "Względny rozmiar czcionki"
+
+#. MREa8
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"label20\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. Ntiac
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"0deg\n"
+"label\n"
+"string.text"
+msgid "0 degrees"
+msgstr "0 stopni"
+
+#. EFfJZ
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"90deg\n"
+"label\n"
+"string.text"
+msgid "90 degrees"
+msgstr "90 stopni"
+
+#. 6vXjM
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"270deg\n"
+"label\n"
+"string.text"
+msgid "270 degrees"
+msgstr "270 stopni"
+
+#. PuucD
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"fittoline\n"
+"label\n"
+"string.text"
+msgid "Fit to line"
+msgstr "Dopasuj do wiersza"
+
+#. 6vFH7
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"label24\n"
+"label\n"
+"string.text"
+msgid "Scale width"
+msgstr "Skaluj szerokość"
+
+#. SmTeY
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"rotateandscale\n"
+"label\n"
+"string.text"
+msgid "Rotation / Scaling"
+msgstr "Obrót/skalowanie"
+
+#. CWcFG
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"rotate\n"
+"label\n"
+"string.text"
+msgid "Rotation"
+msgstr "Obrót"
+
+#. 9Bn7M
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"kerningft\n"
+"label\n"
+"string.text"
+msgid "by"
+msgstr "o"
+
+#. KG6Bc
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"pairkerning\n"
+"label\n"
+"string.text"
+msgid "Pair kerning"
+msgstr "Kerning"
+
+#. CvJuD
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"label22\n"
+"label\n"
+"string.text"
+msgid "Spacing"
+msgstr "Odstęp"
+
+#. Xjwpx
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"label51\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Podgląd"
+
+#. szYTx
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "Default"
+msgstr "Domyślny"
+
+#. 5pcZJ
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "Expanded"
+msgstr "Rozszerzone"
+
+#. WXUKA
+#: positionpage.ui
+msgctxt ""
+"positionpage.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "Condensed"
+msgstr "Ścieśnione"
+
+#. AEtWN
+#: scriptorganizer.ui
+msgctxt ""
+"scriptorganizer.ui\n"
+"ScriptOrganizerDialog\n"
+"title\n"
+"string.text"
+msgid "%MACROLANG Macros"
+msgstr "Makra %MACROLANG"
+
+#. V9kDq
+#: scriptorganizer.ui
+msgctxt ""
+"scriptorganizer.ui\n"
+"run\n"
+"label\n"
+"string.text"
+msgid "Run"
+msgstr "Uruchom"
+
+#. sPpeB
+#: scriptorganizer.ui
+msgctxt ""
+"scriptorganizer.ui\n"
+"create\n"
+"label\n"
+"string.text"
+msgid "Create..."
+msgstr "Utwórz..."
+
+#. gf22Q
+#: scriptorganizer.ui
+msgctxt ""
+"scriptorganizer.ui\n"
+"rename\n"
+"label\n"
+"string.text"
+msgid "Rename..."
+msgstr "Zmień nazwę..."
+
+#. EpGoC
+#: scriptorganizer.ui
+msgctxt ""
+"scriptorganizer.ui\n"
+"delete\n"
+"label\n"
+"string.text"
+msgid "Delete..."
+msgstr "Usuń..."
+
+#. gTXjF
+#: scriptorganizer.ui
+msgctxt ""
+"scriptorganizer.ui\n"
+"macrosft\n"
+"label\n"
+"string.text"
+msgid "Macros"
+msgstr "Makra"
+
+#. WHdjC
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"SecurityOptionsDialog\n"
+"title\n"
+"string.text"
+msgid "Security options and warnings"
+msgstr "Opcje i ostrzeżenia dotyczące bezpieczeństwa"
+
+#. GHSuB
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"savesenddocs\n"
+"label\n"
+"string.text"
+msgid "_When saving or sending"
+msgstr "_Podczas zapisywania lub wysyłania"
+
+#. bD7AT
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"whensigning\n"
+"label\n"
+"string.text"
+msgid "When _signing"
+msgstr "Podczas podpisywania"
+
+#. tVaGT
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"whenprinting\n"
+"label\n"
+"string.text"
+msgid "When _printing"
+msgstr "Podczas drukowania"
+
+#. GeFBH
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"whenpdf\n"
+"label\n"
+"string.text"
+msgid "When creating PDF _files"
+msgstr "Podczas tworzenia plików PDF"
+
+#. GfWCC
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Warn if document contains recorded changes, versions, hidden information or notes:"
+msgstr ""
+"Ostrzegaj, gdy dokument zawiera zarejestrowane zmiany, wersje, ukryte "
+"informacje lub notatki:"
+
+#. RuND5
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Security warnings"
+msgstr "Ostrzeżenia dotyczące bezpieczeństwa"
+
+#. bGoVT
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"removepersonal\n"
+"label\n"
+"string.text"
+msgid "_Remove personal information on saving"
+msgstr "Usuń informacje osobiste przy zapisywaniu"
+
+#. RVAmE
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"password\n"
+"label\n"
+"string.text"
+msgid "Recommend password protection on sa_ving"
+msgstr "Zalecaj ochronę hasłem podczas zapisywania"
+
+#. BU9Yc
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"ctrlclick\n"
+"label\n"
+"string.text"
+msgid "Ctrl-click required _to follow hyperlinks"
+msgstr "Śledzenie hiperłączy wymaga kliknięcia z przytrzymaniem klawisza CTRL"
+
+#. zU56e
+#: securityoptionsdialog.ui
+msgctxt ""
+"securityoptionsdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Security options"
+msgstr "Opcje bezpieczeństwa"
+
+#. B5FJH
+#: select_persona_dialog.ui
+msgctxt ""
+"select_persona_dialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "First visit Firefox Themes (https://addons.mozilla.org/firefox/themes). Find the Theme you like, and want to choose for %PRODUCTNAME."
+msgstr ""
+"Najpierw odwiedź Firefox Themes "
+"(https://addons.mozilla.org/pl/firefox/themes/). Znajdź motyw, który lubisz "
+"i chciałbyś wybrać dla %PRODUCTNAME."
+
+#. FNVEi
+#: select_persona_dialog.ui
+msgctxt ""
+"select_persona_dialog.ui\n"
+"visit_personas\n"
+"label\n"
+"string.text"
+msgid "Visit Firefox Themes"
+msgstr "Odwiedź Firefox Themes"
+
+#. VgFD2
+#: select_persona_dialog.ui
+msgctxt ""
+"select_persona_dialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Then, in your web browser's location bar, copy the address of the page that contains the Theme to clipboard, and paste it to the input field below."
+msgstr ""
+"Następnie z paska adresu przeglądarki internetowej, skopiuj do schowka adres "
+"strony zawierający motyw i wklej go do poniższego pola."
+
+#. i7Jgb
+#: select_persona_dialog.ui
+msgctxt ""
+"select_persona_dialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Theme address:"
+msgstr "Adres motywu:"
+
+#. tWtjj
+#: specialcharacters.ui
+msgctxt ""
+"specialcharacters.ui\n"
+"SpecialCharactersDialog\n"
+"title\n"
+"string.text"
+msgid "Special Characters"
+msgstr "Znaki specjalne"
+
+#. EWwxe
+#: specialcharacters.ui
+msgctxt ""
+"specialcharacters.ui\n"
+"deletelast\n"
+"label\n"
+"string.text"
+msgid "Delete _Last"
+msgstr "Ostatnio usunięte"
+
+#. 4nw8L
+#: specialcharacters.ui
+msgctxt ""
+"specialcharacters.ui\n"
+"fontft\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Czcionka"
+
+#. 7YbF3
+#: specialcharacters.ui
+msgctxt ""
+"specialcharacters.ui\n"
+"subsetft\n"
+"label\n"
+"string.text"
+msgid "Subset"
+msgstr "Podzbiór"
+
+#. FgAHy
+#: specialcharacters.ui
+msgctxt ""
+"specialcharacters.ui\n"
+"symboltext\n"
+"label\n"
+"string.text"
+msgid "Characters:"
+msgstr "Znaki:"
+
+#. WRTCn
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"SpellingDialog\n"
+"title\n"
+"string.text"
+msgid "Spelling and Grammar: $LANGUAGE ($LOCATION)"
+msgstr "Pisownia i gramatyka: $LANGUAGE ($LOCATION)"
+
+#. iFCeU
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"options\n"
+"label\n"
+"string.text"
+msgid "O_ptions..."
+msgstr "O_pcje..."
+
+#. BxCkk
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"notindictft\n"
+"label\n"
+"string.text"
+msgid "_Not in dictionary"
+msgstr "_Nie ma w słowniku"
+
+#. d8psb
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"ignore\n"
+"label\n"
+"string.text"
+msgid "_Ignore Once"
+msgstr "_Ignoruj"
+
+#. KpLzY
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"suggestionsft\n"
+"label\n"
+"string.text"
+msgid "_Suggestions"
+msgstr "_Sugestie"
+
+#. YCwkg
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"change\n"
+"label\n"
+"string.text"
+msgid "_Correct"
+msgstr "_Zamień"
+
+#. GhaMN
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"changeall\n"
+"label\n"
+"string.text"
+msgid "Correct A_ll"
+msgstr "Zamień w_szystkie"
+
+#. MUikE
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"autocorrect\n"
+"label\n"
+"string.text"
+msgid "Alwa_ys correct"
+msgstr "Zawsze poprawnie"
+
+#. 2vpSE
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"checkgrammar\n"
+"label\n"
+"string.text"
+msgid "Check _Grammar"
+msgstr "Sprawdź _gramatykę"
+
+#. GBa9k
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"ignoreall\n"
+"label\n"
+"string.text"
+msgid "I_gnore All"
+msgstr "I_gnoruj wszystkie"
+
+#. QfpG9
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"ignorerule\n"
+"label\n"
+"string.text"
+msgid "I_gnore Rule"
+msgstr "I_gnoruj regułę"
+
+#. CVFJB
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"languageft\n"
+"label\n"
+"string.text"
+msgid "Text languag_e"
+msgstr "Język t_ekstu"
+
+#. F2xWM
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"explainlink\n"
+"label\n"
+"string.text"
+msgid "More..."
+msgstr "Więcej..."
+
+#. kYqLE
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"resumeft\n"
+"label\n"
+"string.text"
+msgid "Res_ume"
+msgstr "Ponów"
+
+#. XEdQg
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"nosuggestionsft\n"
+"label\n"
+"string.text"
+msgid "(no suggestions)"
+msgstr "(brak sugestii)"
+
+#. WSz4t
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"alttitleft\n"
+"label\n"
+"string.text"
+msgid "Spelling: $LANGUAGE ($LOCATION)"
+msgstr "Pisownia: $LANGUAGE ($LOCATION)"
+
+#. LbRkF
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "_Add to Dictionary"
+msgstr "Dodaj do słownika"
+
+#. KoxUA
+#: spellingdialog.ui
+msgctxt ""
+"spellingdialog.ui\n"
+"addmb\n"
+"label\n"
+"string.text"
+msgid "_Add to Dictionary"
+msgstr "Dodaj do słownika"
+
+#. SaGJu
+#: splitcellsdialog.ui
+msgctxt ""
+"splitcellsdialog.ui\n"
+"SplitCellsDialog\n"
+"title\n"
+"string.text"
+msgid "Split Cells"
+msgstr "Podziel komórki"
+
+#. ia8wW
+#: splitcellsdialog.ui
+msgctxt ""
+"splitcellsdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Split cell into:"
+msgstr "Podziel komórkę na:"
+
+#. rbrGS
+#: splitcellsdialog.ui
+msgctxt ""
+"splitcellsdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Split"
+msgstr "Podziel"
+
+#. FCYsV
+#: splitcellsdialog.ui
+msgctxt ""
+"splitcellsdialog.ui\n"
+"hori\n"
+"label\n"
+"string.text"
+msgid "H_orizontally"
+msgstr "P_oziomo"
+
+#. zToAp
+#: splitcellsdialog.ui
+msgctxt ""
+"splitcellsdialog.ui\n"
+"vert\n"
+"label\n"
+"string.text"
+msgid "_Vertically"
+msgstr "Pio_nowo"
+
+#. unmoq
+#: splitcellsdialog.ui
+msgctxt ""
+"splitcellsdialog.ui\n"
+"prop\n"
+"label\n"
+"string.text"
+msgid "_Into equal proportions"
+msgstr "_Równe proporcje"
+
+#. 86xs3
+#: splitcellsdialog.ui
+msgctxt ""
+"splitcellsdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Direction"
+msgstr "Kierunek"
+
+#. KRzv8
+#: storedwebconnectiondialog.ui
+msgctxt ""
+"storedwebconnectiondialog.ui\n"
+"StoredWebConnectionDialog\n"
+"title\n"
+"string.text"
+msgid "Stored Web Connection Information"
+msgstr "Zapisane informacje dotyczące połączenia z siecią Web"
+
+#. K9gCf
+#: storedwebconnectiondialog.ui
+msgctxt ""
+"storedwebconnectiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Web login information (passwords are never shown)"
+msgstr "Informacje logowania sieciowego (hasła nigdy nie są wyświetlane)"
+
+#. FFG74
+#: storedwebconnectiondialog.ui
+msgctxt ""
+"storedwebconnectiondialog.ui\n"
+"website\n"
+"label\n"
+"string.text"
+msgid "Website"
+msgstr "Strona sieci Web"
+
+#. c4v9x
+#: storedwebconnectiondialog.ui
+msgctxt ""
+"storedwebconnectiondialog.ui\n"
+"username\n"
+"label\n"
+"string.text"
+msgid "User name"
+msgstr "Nazwa użytkownika"
+
+#. FPEFh
+#: storedwebconnectiondialog.ui
+msgctxt ""
+"storedwebconnectiondialog.ui\n"
+"removeall\n"
+"label\n"
+"string.text"
+msgid "Remove _All"
+msgstr "Usunięcie wszystkich"
+
+#. K9aPV
+#: storedwebconnectiondialog.ui
+msgctxt ""
+"storedwebconnectiondialog.ui\n"
+"change\n"
+"label\n"
+"string.text"
+msgid "_Change Password..."
+msgstr "Zmień hasło..."
+
+#. 2KGpT
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"checkAuto\n"
+"label\n"
+"string.text"
+msgid "A_utomatically"
+msgstr "A_utomatycznie"
+
+#. YtDsa
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelLineEnd\n"
+"label\n"
+"string.text"
+msgid "C_haracters at line end"
+msgstr "Liczba z_naków na końcu wiersza"
+
+#. xqWN2
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelLineBegin\n"
+"label\n"
+"string.text"
+msgid "Cha_racters at line begin"
+msgstr "Liczba znaków na początku wie_rsza"
+
+#. qrK7o
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelMaxNum\n"
+"label\n"
+"string.text"
+msgid "_Maximum number of consecutive hyphens"
+msgstr "_Maksymalna liczba kolejnych podziałów"
+
+#. kPy9S
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"LabelHyphenation\n"
+"label\n"
+"string.text"
+msgid "Hyphenation"
+msgstr "Dzielenie wyrazów"
+
+#. aFQJv
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"checkInsert\n"
+"label\n"
+"string.text"
+msgid "_Insert"
+msgstr "W_staw"
+
+#. JBQNz
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"checkPageStyle\n"
+"label\n"
+"string.text"
+msgid "With Page St_yle"
+msgstr "Ze st_ylem strony"
+
+#. 59EBt
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelType\n"
+"label\n"
+"string.text"
+msgid "_Type"
+msgstr "_Typ"
+
+#. x9BDC
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelPageNum\n"
+"label\n"
+"string.text"
+msgid "Page _number"
+msgstr "_Numer strony"
+
+#. 5CbzY
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelPosition\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. DKMAA
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"comboBreakType\n"
+"0\n"
+"stringlist.text"
+msgid "Page"
+msgstr "Strona"
+
+#. xUCU4
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"comboBreakType\n"
+"1\n"
+"stringlist.text"
+msgid "Column"
+msgstr "Kolumna"
+
+#. dUktS
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"comboBreakPosition\n"
+"0\n"
+"stringlist.text"
+msgid "Before"
+msgstr "Przed"
+
+#. 8FBaE
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"comboBreakPosition\n"
+"1\n"
+"stringlist.text"
+msgid "After"
+msgstr "Po"
+
+#. vTuCw
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Breaks"
+msgstr "Podziały"
+
+#. Wa9U9
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"checkSplitPara\n"
+"label\n"
+"string.text"
+msgid "_Do not split paragraph"
+msgstr "Nie _dziel akapitów"
+
+#. BwJfX
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"checkKeepPara\n"
+"label\n"
+"string.text"
+msgid "_Keep with next paragraph"
+msgstr "Zachowuj razem z następnym a_kapitem"
+
+#. 4BeGo
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"checkOrphan\n"
+"label\n"
+"string.text"
+msgid "_Orphan control"
+msgstr "K_ontroluj szewców"
+
+#. DEHnL
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"checkWidow\n"
+"label\n"
+"string.text"
+msgid "_Widow control"
+msgstr "_Kontroluj bękarty"
+
+#. JTLeJ
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelOrphan\n"
+"label\n"
+"string.text"
+msgid "Lines"
+msgstr "Linie"
+
+#. qVxcE
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelWidow\n"
+"label\n"
+"string.text"
+msgid "Lines"
+msgstr "Linie"
+
+#. ZpgDF
+#: textflowpage.ui
+msgctxt ""
+"textflowpage.ui\n"
+"labelOptions\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. NGPEj
+#: thesaurus.ui
+msgctxt ""
+"thesaurus.ui\n"
+"ThesaurusDialog\n"
+"title\n"
+"string.text"
+msgid "Thesaurus"
+msgstr "Tezaurus"
+
+#. EJDyD
+#: thesaurus.ui
+msgctxt ""
+"thesaurus.ui\n"
+"replace\n"
+"label\n"
+"string.text"
+msgid "Replace"
+msgstr "Zamień"
+
+#. u5owP
+#: thesaurus.ui
+msgctxt ""
+"thesaurus.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Current word"
+msgstr "Bieżący wyraz"
+
+#. FSMAn
+#: thesaurus.ui
+msgctxt ""
+"thesaurus.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Alternatives"
+msgstr "Alternatywy"
+
+#. AUATC
+#: thesaurus.ui
+msgctxt ""
+"thesaurus.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Replace with"
+msgstr "Zamień na"
+
+#. dEFZg
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"twolines\n"
+"label\n"
+"string.text"
+msgid "Write in double lines"
+msgstr "Pisz w dwóch wierszach"
+
+#. LWuCM
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Double-lined"
+msgstr "Podwójne wiersze"
+
+#. 2pz6H
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"label29\n"
+"label\n"
+"string.text"
+msgid "Initial character"
+msgstr "Znak wiodący"
+
+#. LMDFH
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"label30\n"
+"label\n"
+"string.text"
+msgid "Final character"
+msgstr "Znak końcowy"
+
+#. pwsa5
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"label28\n"
+"label\n"
+"string.text"
+msgid "Enclosing character"
+msgstr "Znak otaczający"
+
+#. vBTGT
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"label52\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Podgląd"
+
+#. 4d3cB
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "(None)"
+msgstr "(Brak)"
+
+#. xCNME
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "("
+msgstr "("
+
+#. aMmyB
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "["
+msgstr "["
+
+#. Nsa43
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "<"
+msgstr "<"
+
+#. zhdCx
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "{"
+msgstr "{"
+
+#. MApCB
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore1\n"
+"5\n"
+"stringlist.text"
+msgid "Other Characters..."
+msgstr "Inne znaki..."
+
+#. TxhCu
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "(None)"
+msgstr "(Brak)"
+
+#. 74b9Q
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid ")"
+msgstr ")"
+
+#. mvGFx
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "]"
+msgstr "]"
+
+#. xgaCj
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore2\n"
+"3\n"
+"stringlist.text"
+msgid ">"
+msgstr ">"
+
+#. M9HTB
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore2\n"
+"4\n"
+"stringlist.text"
+msgid "}"
+msgstr "}"
+
+#. 9eo2s
+#: twolinespage.ui
+msgctxt ""
+"twolinespage.ui\n"
+"liststore2\n"
+"5\n"
+"stringlist.text"
+msgid "Other Characters..."
+msgstr "Inne znaki..."
+
+#. HbpJD
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"ZoomDialog\n"
+"title\n"
+"string.text"
+msgid "Zoom & View Layout"
+msgstr "Powiększenie i widok układu"
+
+#. FEFCA
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"optimal\n"
+"label\n"
+"string.text"
+msgid "Optimal"
+msgstr "Optymalnie"
+
+#. 97Ygb
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"fitwandh\n"
+"label\n"
+"string.text"
+msgid "Fit width and height"
+msgstr "Cała strona"
+
+#. Nf8pF
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"fitw\n"
+"label\n"
+"string.text"
+msgid "Fit width"
+msgstr "Szerokość strony"
+
+#. J9dU9
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"100pc\n"
+"label\n"
+"string.text"
+msgid "100%"
+msgstr "100%"
+
+#. aDCB3
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"variable\n"
+"label\n"
+"string.text"
+msgid "Variable"
+msgstr "Zmienny"
+
+#. 5P2EJ
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Zoom factor"
+msgstr "Powiększenie"
+
+#. tfyx3
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"automatic\n"
+"label\n"
+"string.text"
+msgid "Automatic"
+msgstr "Automatycznie"
+
+#. StcTR
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"singlepage\n"
+"label\n"
+"string.text"
+msgid "Single page"
+msgstr "Pojedyncza strona"
+
+#. ZSFvh
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"columns\n"
+"label\n"
+"string.text"
+msgid "Columns"
+msgstr "Kolumny"
+
+#. JbED7
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"bookmode\n"
+"label\n"
+"string.text"
+msgid "Book mode"
+msgstr "Książka"
+
+#. YjgsY
+#: zoomdialog.ui
+msgctxt ""
+"zoomdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "View layout"
+msgstr "Widok układu"
+
+#~ msgctxt ""
+#~ "optadvancedpage.ui\n"
+#~ "macrorecording\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Enable macro recording"
+#~ msgstr "Włącz nagrywanie makr"
+
+#~ msgctxt ""
+#~ "colorpage.ui\n"
+#~ "modellb\n"
+#~ "1\n"
+#~ "stringlist.text"
+#~ msgid "CYMK"
+#~ msgstr "CYMK"
+
+#~ msgctxt ""
+#~ "customize.ui\n"
+#~ "label4\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "LiberOffice Writer Menus"
+#~ msgstr "Menu LibreOffice Writer"
+
+#~ msgctxt ""
+#~ "customize.ui\n"
+#~ "label29\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "_Toolbare"
+#~ msgstr "_Pasek narzędziowy"
+
+#~ msgctxt ""
+#~ "customize.ui\n"
+#~ "label26\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "LiberOffice Writer Toolbars"
+#~ msgstr "Paski narzędzi LibreOffice Writer"
+
+#~ msgctxt ""
+#~ "optsecuritypage.ui\n"
+#~ "usemasterpassword\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Protected _by a  master passwords (recommended)"
+#~ msgstr "Chronione za pomocą hasła głównego (zalecane)"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "no_background\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Plain look, do not use background images"
+#~ msgstr "Zwykły wygląd, nie używaj obrazu tła"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "default_background\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Pre-installed background image (if available)"
+#~ msgstr "Preinstalowany obraz tła (jeśli dostępny)"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "own_background\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Own image"
+#~ msgstr "Własny obraz"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "select_background\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Select Background Image"
+#~ msgstr "Wybierz obraz tła"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "background_label\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Background Image"
+#~ msgstr "Obraz tła"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "no_persona\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Plain look, do not use Personas"
+#~ msgstr "Zwykły wygląd, nie używaj Person"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "default_persona\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Pre-installed Persona (if available)"
+#~ msgstr "Preinstalowana Persona (jeśli dostępna)"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "own_persona\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Own Persona"
+#~ msgstr "Własna Persona"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "select_persona\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Select Persona"
+#~ msgstr "Wybierz Personę"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "label1\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Firefox Personas"
+#~ msgstr "Persony Firefoksa"
+
+#~ msgctxt ""
+#~ "thesaurus.ui\n"
+#~ "alternatives\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "label"
+#~ msgstr "etykieta"
+
+#~ msgctxt ""
+#~ "select_persona_dialog.ui\n"
+#~ "label1\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "First visit Firefox Personas (http://www.getpersonas.com). Find a Persona you like, and want to choose for LibreOffice."
+#~ msgstr ""
+#~ "Odwiedź najpierw Firefox Personas (http://www.getpersonas.com). Znajdź "
+#~ "Personę, którą lubisz i chciałbyś wybrać dla LibreOffice."
+
+#~ msgctxt ""
+#~ "select_persona_dialog.ui\n"
+#~ "visit_personas\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Visit Firefox Personas"
+#~ msgstr "Odwiedź Firefox Personas"
+
+#~ msgctxt ""
+#~ "select_persona_dialog.ui\n"
+#~ "label2\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Then, in your web browser's location bar, copy the address of the page that contains the Persona to clipboard, and paste it to the input field below."
+#~ msgstr ""
+#~ "Następnie z paska adresu przeglądarki internetowej, skopiuj do schowka adres "
+#~ "strony zawierający Personę i wklej ją do poniższego pola."
+
+#~ msgctxt ""
+#~ "select_persona_dialog.ui\n"
+#~ "label3\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Persona address:"
+#~ msgstr "Adres Persony:"
+
+#~ msgctxt ""
+#~ "insertrowcolumn.ui\n"
+#~ "label3\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "_Number"
+#~ msgstr "_Liczba"
+
+#~ msgctxt ""
+#~ "specialcharacters.ui\n"
+#~ "charcodeft\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "U+0020(32)"
+#~ msgstr "U+0020(32)"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "no_background\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "No background image"
+#~ msgstr "Bez obrazu tła"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "default_background\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Default background image"
+#~ msgstr "Domyślny obraz tła"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "select_background\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Select Backround Image"
+#~ msgstr "Wybierz obraz tła"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "label2\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Background Image"
+#~ msgstr "Obraz tła"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "no_persona\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Do not use Persona"
+#~ msgstr "Nie używaj Persony"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "default_persona\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Use default Persona"
+#~ msgstr "Użyj domyślnej Persony"
+
+#~ msgctxt ""
+#~ "personalization_tab.ui\n"
+#~ "own_persona\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Use own Persona"
+#~ msgstr "Użyj własnej Persony"
+
+#~ msgctxt ""
+#~ "select_persona_dialog.ui\n"
+#~ "label1\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "First visit Firefox Personas (http://www.getpersonas.com). Find Persona you like, and want to choose for LibreOffice."
+#~ msgstr ""
+#~ "Odwiedź najpierw Firefox Personas (http://www.getpersonas.com). Znajdź "
+#~ "Personę, którą lubisz i chciałbyś wybrać dla LibreOffice."
+
+#~ msgctxt ""
+#~ "select_persona_dialog.ui\n"
+#~ "label2\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Then copy the URL of page that contains the Persona to clipboard, paste it to the input field below, and confirm with OK."
+#~ msgstr ""
+#~ "Następnie skopiuj adres URL strony zawierający Personę do schowka, wklej go "
+#~ "do poniższego pola i zatwierdź przyciskiem OK."
+
+#~ msgctxt ""
+#~ "select_persona_dialog.ui\n"
+#~ "label3\n"
+#~ "label\n"
+#~ "string.text"
+#~ msgid "Persona URL:"
+#~ msgstr "Persona URL:"

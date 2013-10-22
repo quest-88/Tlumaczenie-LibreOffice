@@ -1,0 +1,358 @@
+#. extracted from sw/source/ui/uiview
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2012-12-29 22:17+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356819476.0\n"
+
+#. HL99E
+#: view.src
+msgctxt ""
+"view.src\n"
+"DLG_WRAP\n"
+"querybox.text"
+msgid "Do you want to continue checking at the beginning of the document?"
+msgstr "Czy chcesz kontynuować sprawdzanie od początku dokumentu?"
+
+#. TCFAE
+#: view.src
+msgctxt ""
+"view.src\n"
+"DLG_BODY\n"
+"querybox.text"
+msgid "Do you want to check the main text?"
+msgstr "Czy chcesz sprawdzić tekst główny?"
+
+#. RjFbE
+#: view.src
+msgctxt ""
+"view.src\n"
+"DLG_PRT_FIELDNAME\n"
+"querybox.text"
+msgid ""
+"Show field commands option is checked.\n"
+"Do you want to print the document with field names?"
+msgstr ""
+"Opcja Pokaż nazwę pola jest uaktywniona.\n"
+"Czy wydrukować ten dokument z nazwami pól?"
+
+#. FCC6E
+#: view.src
+msgctxt ""
+"view.src\n"
+"DLG_SPECIAL\n"
+"querybox.text"
+msgid "Do you want check the special regions?"
+msgstr "Czy chcesz sprawdzić obszary specjalne?"
+
+#. Ah2pK
+#: view.src
+msgctxt ""
+"view.src\n"
+"DLG_THESAURUS\n"
+"querybox.text"
+msgid "This word appears in the list of words you want to avoid! Start thesaurus?"
+msgstr ""
+"Ten wyraz znajduje się na liście słów, których należy unikać. Czy uruchomić "
+"Tezaurus?"
+
+#. pjJEV
+#: view.src
+msgctxt ""
+"view.src\n"
+"DLG_SPECIAL_FORCED\n"
+"querybox.text"
+msgid "Check special regions is deactivated. Check anyway?"
+msgstr ""
+"Sprawdzanie obszarów specjalnych jest nieaktywne. Czy sprawdzić mimo to?"
+
+#. DQzF4
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_SEARCH_END\n"
+"querybox.text"
+msgid "%PRODUCTNAME Writer has searched to the end of the document. Do you want to continue at the beginning?"
+msgstr ""
+"%PRODUCTNAME Writer przeszukał dokument do końca. Czy kontynuować "
+"wyszukiwanie od początku dokumentu?"
+
+#. PC8CQ
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_SEARCH_START\n"
+"querybox.text"
+msgid "%PRODUCTNAME Writer has searched to the beginning of the document. Do you want to continue at the end?"
+msgstr ""
+"%PRODUCTNAME Writer przeszukał dokument do początku. Czy kontynuować "
+"wyszukiwanie od końca dokumentu?"
+
+#. ovE5h
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_NO_MERGE_ENTRY\n"
+"infobox.text"
+msgid "Could not merge documents."
+msgstr "Nie można scalić dokumentów."
+
+#. c7YBF
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_ERR_INSERT_GLOS\n"
+"infobox.text"
+msgid "AutoText could not be created."
+msgstr "Nie można utworzyć Autotekstu."
+
+#. pfRrN
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_ERR_SRCSTREAM\n"
+"infobox.text"
+msgid "The source cannot be loaded."
+msgstr "Nie można załadować źródła."
+
+#. EnESe
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_ERR_NO_FAX\n"
+"infobox.text"
+msgid "No fax printer has been set under Tools/Options/%1/Print."
+msgstr "Nie ustawiono drukarki faksu (Narzędzia/Opcje/%1/Drukuj)."
+
+#. B5WDE
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_WEBOPTIONS\n"
+"string.text"
+msgid "HTML document"
+msgstr "Dokument HTML"
+
+#. ZtGF4
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_TEXTOPTIONS\n"
+"string.text"
+msgid "Text document"
+msgstr "Dokument tekstowy"
+
+#. F3BkV
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_NOT_FOUND\n"
+"infobox.text"
+msgid "Search key not found."
+msgstr "Nie znaleziono szukanego hasła."
+
+#. DDvwq
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_INDEX_OVERFLOW\n"
+"infobox.text"
+msgid "found."
+msgstr "znaleziono."
+
+#. yTVrs
+#: view.src
+msgctxt ""
+"view.src\n"
+"MSG_SCAN_NOSOURCE\n"
+"infobox.text"
+msgid "Source not specified."
+msgstr "Nie określono źródła."
+
+#. 7FQSV
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NUM_LEVEL\n"
+"string.text"
+msgid "Level "
+msgstr "Poziom "
+
+#. EYCF5
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NUM_OUTLINE\n"
+"string.text"
+msgid "Outline "
+msgstr "Konspekt "
+
+#. ZboKX
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_NOLANG\n"
+"string.text"
+msgid "No language is selected in the proofed section."
+msgstr "W sprawdzanej sekcji nie ustawiono języka."
+
+#. ncSGD
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_EDIT_FOOTNOTE\n"
+"string.text"
+msgid "Edit Footnote/Endnote"
+msgstr "Edycja przypisu dolnego/końcowego"
+
+#. kDsbC
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NB_REPLACED\n"
+"string.text"
+msgid "Search key replaced XX times."
+msgstr "Szukane hasło zastąpiono XX razy."
+
+#. 4CCZE
+#: view.src
+msgctxt ""
+"view.src\n"
+"RID_TOOLS_TOOLBOX\n"
+"string.text"
+msgid "Main Toolbar"
+msgstr "Główny pasek narzędzi"
+
+#. UJCE7
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_SRCVIEW_ROW\n"
+"string.text"
+msgid "Row "
+msgstr "Wiersz "
+
+#. dAtfT
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_SRCVIEW_COL\n"
+"string.text"
+msgid "Column "
+msgstr "Kolumna "
+
+#. ffJKA
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_TITLE\n"
+"string.text"
+msgid "Printing selection"
+msgstr "Drukowanie zaznaczonego fragmentu"
+
+#. o3C33
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_MSG\n"
+"string.text"
+msgid "Do you want to print the selection or the entire document?"
+msgstr "Czy chcesz wydrukować zaznaczony obszar czy cały dokument?"
+
+#. aVDQx
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_ALL\n"
+"string.text"
+msgid "All"
+msgstr "Wszystko"
+
+#. ZD4kt
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_SELECTION\n"
+"string.text"
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+#. QFz7J
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_SAVEAS_SRC\n"
+"string.text"
+msgid "~Export source..."
+msgstr "~Eksportuj tekst źródłowy..."
+
+#. FtsCS
+#: view.src
+msgctxt ""
+"view.src\n"
+"MN_SRCVIEW_POPUPMENU\n"
+"string.text"
+msgid "HTML source"
+msgstr "Tekst źródłowy HTML"
+
+#. RuQch
+#: view.src
+msgctxt ""
+"view.src\n"
+"RID_PVIEW_TOOLBOX\n"
+"string.text"
+msgid "Page Preview"
+msgstr "Podgląd wydruku"
+
+#. AAYny
+#: view.src
+msgctxt ""
+"view.src\n"
+"MN_SRCVIEW_POPUPMENU\n"
+"SID_SOURCEVIEW\n"
+"menuitem.text"
+msgid "HTML Source"
+msgstr "Tekst źródłowy HTML"
+
+#~ msgctxt ""
+#~ "pview.src\n"
+#~ "DLG_PAGEPREVIEW_ZOOM\n"
+#~ "FT_COL\n"
+#~ "fixedtext.text"
+#~ msgid "~Columns"
+#~ msgstr "~Kolumny"
+
+#~ msgctxt ""
+#~ "pview.src\n"
+#~ "DLG_PAGEPREVIEW_ZOOM\n"
+#~ "FT_ROW\n"
+#~ "fixedtext.text"
+#~ msgid "~Rows"
+#~ msgstr "Wie~rsze"
+
+#~ msgctxt ""
+#~ "pview.src\n"
+#~ "DLG_PAGEPREVIEW_ZOOM\n"
+#~ "modaldialog.text"
+#~ msgid "Multiple Pages"
+#~ msgstr "Wiele stron"
+
+#~ msgctxt ""
+#~ "view.src\n"
+#~ "STR_READONLY_SEL\n"
+#~ "string.text"
+#~ msgid "read-only"
+#~ msgstr "Tylko do odczytu"

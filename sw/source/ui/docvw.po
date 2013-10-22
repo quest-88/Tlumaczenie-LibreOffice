@@ -1,0 +1,769 @@
+#. extracted from sw/source/ui/docvw
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2012-12-11 00:05+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1355184353.0\n"
+
+#. U6vBT
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_DOC_NAME\n"
+"string.text"
+msgid "Document view"
+msgstr "Podgląd dokumentu"
+
+#. W5EiD
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_DOC_DESC\n"
+"string.text"
+msgid "Document view"
+msgstr "Podgląd dokumentu"
+
+#. QGh8r
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_HEADING_WITH_NUM_DESC\n"
+"string.text"
+msgid "Heading number $(ARG2): $(ARG1)"
+msgstr "Nagłówek numer $(ARG2): $(ARG1)"
+
+#. YDWre
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_HEADER_NAME\n"
+"string.text"
+msgid "Header $(ARG1)"
+msgstr "Główka $(ARG1)"
+
+#. ULMqX
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_HEADER_DESC\n"
+"string.text"
+msgid "Header page $(ARG1)"
+msgstr "Główka strony $(ARG1)"
+
+#. 2REph
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_FOOTER_NAME\n"
+"string.text"
+msgid "Footer $(ARG1)"
+msgstr "Stopka $(ARG1)"
+
+#. 3PitF
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_FOOTER_DESC\n"
+"string.text"
+msgid "Footer page $(ARG1)"
+msgstr "Strona stopki $(ARG1)"
+
+#. GDtJt
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_FOOTNOTE_NAME\n"
+"string.text"
+msgid "Footnote $(ARG1)"
+msgstr "Przypis dolny $(ARG1)"
+
+#. HEgdj
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_FOOTNOTE_DESC\n"
+"string.text"
+msgid "Footnote $(ARG1)"
+msgstr "Przypis dolny $(ARG1)"
+
+#. wUYtz
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_ENDNOTE_NAME\n"
+"string.text"
+msgid "Endnote $(ARG1)"
+msgstr "Przypis końcowy $(ARG1)"
+
+#. JLtNC
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_ENDNOTE_DESC\n"
+"string.text"
+msgid "Endnote $(ARG1)"
+msgstr "Przypis końcowy $(ARG1)"
+
+#. T5Ktv
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_TABLE_DESC\n"
+"string.text"
+msgid "$(ARG1) on page $(ARG2)"
+msgstr "$(ARG1) na stronie $(ARG2)"
+
+#. trayA
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_PAGE_NAME\n"
+"string.text"
+msgid "Page $(ARG1)"
+msgstr "Strona $(ARG1)"
+
+#. NfCtj
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_PAGE_DESC\n"
+"string.text"
+msgid "Page: $(ARG1)"
+msgstr "Strona: $(ARG1)"
+
+#. ebDPD
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_ANNOTATION_AUTHOR_NAME\n"
+"string.text"
+msgid "Author"
+msgstr "Autor"
+
+#. YE7g2
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_ANNOTATION_DATE_NAME\n"
+"string.text"
+msgid "Date"
+msgstr "Data"
+
+#. 9AcEo
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_ANNOTATION_BUTTON_NAME\n"
+"string.text"
+msgid "Actions"
+msgstr "Czynności"
+
+#. PoAsX
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_ANNOTATION_BUTTON_DESC\n"
+"string.text"
+msgid "Activate this button to open a list of actions which can be performed on this comment and other comments"
+msgstr ""
+"Po uaktywnieniu tego przycisku wyświetlona zostanie lista czynności, które "
+"można wykonać dla tego i innych komentarzy"
+
+#. Z75FB
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_PREVIEW_DOC_NAME\n"
+"string.text"
+msgid "Document preview"
+msgstr "Podgląd dokumentu"
+
+#. SDFLy
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_PREVIEW_DOC_SUFFIX\n"
+"string.text"
+msgid "(Preview mode)"
+msgstr "(Tryb podglądu)"
+
+#. NWJVp
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_DOC_WORDPROCESSING\n"
+"string.text"
+msgid "%PRODUCTNAME Document"
+msgstr "%PRODUCTNAME - Dokument"
+
+#. vvLEn
+#: access.src
+msgctxt ""
+"access.src\n"
+"STR_ACCESS_DOC_WORDPROCESSING_READONLY\n"
+"string.text"
+msgid "(read-only)"
+msgstr "(tylko do odczytu)"
+
+#. BHXhE
+#: annotation.src
+msgctxt ""
+"annotation.src\n"
+"STR_POSTIT_TODAY\n"
+"string.text"
+msgid "Today,"
+msgstr "Dzisiaj,"
+
+#. yYdAx
+#: annotation.src
+msgctxt ""
+"annotation.src\n"
+"STR_POSTIT_YESTERDAY\n"
+"string.text"
+msgid "Yesterday,"
+msgstr "Wczoraj,"
+
+#. HKo2S
+#: annotation.src
+msgctxt ""
+"annotation.src\n"
+"STR_DELETE_ALL_NOTES\n"
+"string.text"
+msgid "All Comments"
+msgstr "Wszystkie komentarze"
+
+#. By4rK
+#: annotation.src
+msgctxt ""
+"annotation.src\n"
+"STR_DELETE_AUTHOR_NOTES\n"
+"string.text"
+msgid "Comments by "
+msgstr "Autor komentarzy "
+
+#. cdkmU
+#: annotation.src
+msgctxt ""
+"annotation.src\n"
+"STR_NODATE\n"
+"string.text"
+msgid "(no date)"
+msgstr "(brak daty)"
+
+#. jkBy3
+#: annotation.src
+msgctxt ""
+"annotation.src\n"
+"STR_NOAUTHOR\n"
+"string.text"
+msgid "(no author)"
+msgstr "(brak autora)"
+
+#. mGoSe
+#: annotation.src
+msgctxt ""
+"annotation.src\n"
+"STR_REPLY\n"
+"string.text"
+msgid "Reply to $1"
+msgstr "Odpowiedź do $1"
+
+#. QvGiD
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_OPENURL\n"
+"menuitem.text"
+msgid "~Open"
+msgstr "~Otwórz"
+
+#. poPS9
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_OPENURLNEW\n"
+"menuitem.text"
+msgid "Open in New Window"
+msgstr "Otwórz w nowym oknie"
+
+#. 3qY3W
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_EDITDOC\n"
+"menuitem.text"
+msgid "~Edit"
+msgstr "~Edycja"
+
+#. sG2jp
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_SELECTION_MODE\n"
+"menuitem.text"
+msgid "Select Text"
+msgstr "Zaznacz tekst"
+
+#. 9qBqL
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_RELOAD\n"
+"menuitem.text"
+msgid "Re~load"
+msgstr "~Załaduj ponownie"
+
+#. ucNDX
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_RELOAD_FRAME\n"
+"menuitem.text"
+msgid "Reload Frame"
+msgstr "Załaduj ponownie ramkę"
+
+#. gXVGo
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_SOURCEVIEW\n"
+"menuitem.text"
+msgid "HT~ML Source"
+msgstr "Tekst źródłowy HT~ML"
+
+#. i6W2D
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_BROWSE_BACKWARD\n"
+"menuitem.text"
+msgid "Backwards"
+msgstr "Wstecz"
+
+#. WETuP
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_BROWSE_FORWARD\n"
+"menuitem.text"
+msgid "~Forward"
+msgstr "~Naprzód"
+
+#. zPPPu
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_SAVEGRAPHIC\n"
+"menuitem.text"
+msgid "Save Graphics..."
+msgstr "Zapisz grafikę..."
+
+#. N46F5
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY\n"
+"MN_READONLY_TOGALLERYLINK\n"
+"menuitem.text"
+msgid "As Link"
+msgstr "Jako łącze"
+
+#. HYJCe
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY\n"
+"MN_READONLY_TOGALLERYCOPY\n"
+"menuitem.text"
+msgid "Copy"
+msgstr "Kopiuj"
+
+#. q7Wj3
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_GRAPHICTOGALLERY\n"
+"menuitem.text"
+msgid "Add Graphics"
+msgstr "Dodaj grafikę"
+
+#. UEXWh
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_SAVEBACKGROUND\n"
+"menuitem.text"
+msgid "Save Background..."
+msgstr "Zapisz tło..."
+
+#. hEiHA
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY\n"
+"MN_READONLY_TOGALLERYLINK\n"
+"menuitem.text"
+msgid "As Link"
+msgstr "Jako łącze"
+
+#. fCUV6
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY\n"
+"MN_READONLY_TOGALLERYCOPY\n"
+"menuitem.text"
+msgid "Copy"
+msgstr "Kopiuj"
+
+#. JMmck
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_BACKGROUNDTOGALLERY\n"
+"menuitem.text"
+msgid "Add Background"
+msgstr "Dodaj tło"
+
+#. CG52V
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_COPYLINK\n"
+"menuitem.text"
+msgid "Copy ~Link"
+msgstr "~Kopiuj łącze"
+
+#. bWSAo
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_COPYGRAPHIC\n"
+"menuitem.text"
+msgid "Copy ~Graphics"
+msgstr "Kopiuj ~grafikę"
+
+#. GDrvn
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_LOADGRAPHIC\n"
+"menuitem.text"
+msgid "Load Graphics"
+msgstr "Ładuj grafiki"
+
+#. N3sL4
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_GRAPHICOFF\n"
+"menuitem.text"
+msgid "Graphics Off"
+msgstr "Wyłącz grafikę"
+
+#. tMYEh
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_PLUGINOFF\n"
+"menuitem.text"
+msgid "Plug-ins Off"
+msgstr "Wyłącz wtyczki"
+
+#. RvDBB
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"SID_WIN_FULLSCREEN\n"
+"menuitem.text"
+msgid "Leave Full-Screen Mode"
+msgstr "Opuść tryb pełnoekranowy"
+
+#. gAFYF
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MN_READONLY_POPUP\n"
+"MN_READONLY_COPY\n"
+"menuitem.text"
+msgid "~Copy"
+msgstr "~Kopiuj"
+
+#. BZcj9
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_CHAIN_OK\n"
+"string.text"
+msgid "Click the left mouse button to link the frames."
+msgstr "Kliknij lewym przyciskiem myszy, aby połączyć ramki."
+
+#. jeCqP
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_CHAIN_NOT_EMPTY\n"
+"string.text"
+msgid "Target frame not empty."
+msgstr "Ramka docelowa nie jest pusta."
+
+#. eCmFg
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_CHAIN_IS_IN_CHAIN\n"
+"string.text"
+msgid "Target frame is already linked."
+msgstr "Ramka docelowa jest już połączona."
+
+#. HucsQ
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_CHAIN_WRONG_AREA\n"
+"string.text"
+msgid "The target frame for the link is in an invalid area."
+msgstr "Ramka docelowa łącza znajduje się w nieprawidłowym obszarze."
+
+#. hr3GU
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_CHAIN_NOT_FOUND\n"
+"string.text"
+msgid "Target frame not found at current position."
+msgstr "W bieżącej pozycji nie znaleziono ramki docelowej."
+
+#. 5wp4d
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_CHAIN_SOURCE_CHAINED\n"
+"string.text"
+msgid "The source frame is already the source of a link."
+msgstr "Ramka źródłowa jest już źródłem połączenia."
+
+#. Z9Xxs
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_CHAIN_SELF\n"
+"string.text"
+msgid "A closed link is not possible."
+msgstr "Zamknięcie łącza nie jest możliwe."
+
+#. GQnJM
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_REDLINE_INSERT\n"
+"string.text"
+msgid "Inserted"
+msgstr "Wstawione"
+
+#. wwsCa
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_REDLINE_DELETE\n"
+"string.text"
+msgid "Deleted"
+msgstr "Usunięty"
+
+#. X7vCW
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_REDLINE_FORMAT\n"
+"string.text"
+msgid "Formatted"
+msgstr "Formatowany"
+
+#. Bizcm
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_REDLINE_TABLE\n"
+"string.text"
+msgid "Table changed"
+msgstr "Tabela zmieniona"
+
+#. H9DEF
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_REDLINE_FMTCOLL\n"
+"string.text"
+msgid "Applied Paragraph Styles"
+msgstr "Zastosowane style akapitu"
+
+#. NbEJ8
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_ENDNOTE\n"
+"string.text"
+msgid "Endnote: "
+msgstr "Przypis końcowy: "
+
+#. VRw3g
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_FTNNOTE\n"
+"string.text"
+msgid "Footnote: "
+msgstr "Przypis dolny: "
+
+#. W8MaS
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"MSG_READONLY_CONTENT\n"
+"infobox.text"
+msgid ""
+"Readonly content cannot be changed.\n"
+"No modifications will be accepted"
+msgstr ""
+"Zawartości tylko do odczytu nie można zmienić.\n"
+"Żadne zmiany nie zostaną zaakceptowane"
+
+#. PnJ7x
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_TABLE_COL_ADJUST\n"
+"string.text"
+msgid "Adjust table column"
+msgstr "Dostosuj kolumnę"
+
+#. FZjpa
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_TABLE_ROW_ADJUST\n"
+"string.text"
+msgid "Adjust table row"
+msgstr "Dostosuj wiersz"
+
+#. DGqC7
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_TABLE_SELECT_ALL\n"
+"string.text"
+msgid "Select whole table"
+msgstr "Zaznacz całą tabelę"
+
+#. aiKJG
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_TABLE_SELECT_ROW\n"
+"string.text"
+msgid "Select table row"
+msgstr "Zaznacz wiersz"
+
+#. i9Wwh
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_TABLE_SELECT_COL\n"
+"string.text"
+msgid "Select table column"
+msgstr "Zaznacz kolumnę"
+
+#. j8Gvv
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_SMARTTAG_CLICK\n"
+"string.text"
+msgid "%s-click to open Smart Tag menu"
+msgstr "Kliknij, przytrzymując przycisk %s, aby otworzyć menu Tagi inteligentne"
+
+#. wA9Fc
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_HEADER_TITLE\n"
+"string.text"
+msgid "Header (%1)"
+msgstr "Główka (%1)"
+
+#. Hci3Q
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_FOOTER_TITLE\n"
+"string.text"
+msgid "Footer (%1)"
+msgstr "Stopka (%1)"
+
+#. vJuNN
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_DELETE_HEADER\n"
+"string.text"
+msgid "Delete Header..."
+msgstr "Usuń główkę..."
+
+#. smTzo
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_FORMAT_HEADER\n"
+"string.text"
+msgid "Format Header..."
+msgstr "Formatowanie główki..."
+
+#. E6Pvm
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_DELETE_FOOTER\n"
+"string.text"
+msgid "Delete Footer..."
+msgstr "Usuń stopkę..."
+
+#. 9g8SL
+#: docvw.src
+msgctxt ""
+"docvw.src\n"
+"STR_FORMAT_FOOTER\n"
+"string.text"
+msgid "Format Footer..."
+msgstr "Formatowanie stopki..."

@@ -1,0 +1,525 @@
+#. extracted from svtools/source/contnr
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2012-11-21 09:17+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1353489443.0\n"
+
+#. QkxGf
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Tytuł"
+
+#. 4HDtz
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_SIZE\n"
+"string.text"
+msgid "Size"
+msgstr "Rozmiar"
+
+#. 9uw7J
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_DATE\n"
+"string.text"
+msgid "Date modified"
+msgstr "Data modyfikacji"
+
+#. MdBUz
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_TYPE\n"
+"string.text"
+msgid "Type"
+msgstr "Typ"
+
+#. UyQSG
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_ERR_MAKEFOLDER\n"
+"string.text"
+msgid "Could not create the folder %1."
+msgstr "Nie można utworzyć katalogu %1."
+
+#. r7GmB
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_BYTES\n"
+"string.text"
+msgid "Bytes"
+msgstr "B"
+
+#. r2tZL
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_KB\n"
+"string.text"
+msgid "KB"
+msgstr "KB"
+
+#. sxqGT
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_MB\n"
+"string.text"
+msgid "MB"
+msgstr "MB"
+
+#. tRz6D
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_GB\n"
+"string.text"
+msgid "GB"
+msgstr "GB"
+
+#. hCqLt
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"RID_FILEVIEW_CONTEXTMENU\n"
+"MID_FILEVIEW_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Usuń"
+
+#. u69jE
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"RID_FILEVIEW_CONTEXTMENU\n"
+"MID_FILEVIEW_RENAME\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "~Zmień nazwę"
+
+#. x3GP6
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"DLG_SVT_QUERYDELETE\n"
+"TXT_ENTRY\n"
+"fixedtext.text"
+msgid "Entry:"
+msgstr "Wpis:"
+
+#. zk3HB
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"DLG_SVT_QUERYDELETE\n"
+"TXT_QUERYMSG\n"
+"fixedtext.text"
+msgid "Are you sure you want to delete the selected data?"
+msgstr "Czy na pewno chcesz usunąć zaznaczone dane?"
+
+#. oYPMF
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"DLG_SVT_QUERYDELETE\n"
+"BTN_YES\n"
+"pushbutton.text"
+msgid "~Delete"
+msgstr "~Usuń"
+
+#. cjAYw
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"DLG_SVT_QUERYDELETE\n"
+"BTN_ALL\n"
+"pushbutton.text"
+msgid "Delete ~All"
+msgstr "Usuń ~wszystko"
+
+#. vR4h2
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"DLG_SVT_QUERYDELETE\n"
+"BTN_NO\n"
+"pushbutton.text"
+msgid "Do ~Not Delete"
+msgstr "~Nie usuwaj"
+
+#. whRAq
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"DLG_SVT_QUERYDELETE\n"
+"modaldialog.text"
+msgid "Confirm Delete"
+msgstr "Potwierdź usunięcie"
+
+#. Dreej
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_TABLISTBOX\n"
+"string.text"
+msgid "Row: %1, Column: %2"
+msgstr "Wiersz: %1, Kolumna: %2"
+
+#. 5E24v
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FILEVIEW\n"
+"string.text"
+msgid ", Type: %1, URL: %2"
+msgstr ", Typ: %1, URL: %2"
+
+#. KmzqQ
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "Katalog"
+
+#. fbD5v
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FILE\n"
+"string.text"
+msgid "File"
+msgstr "Plik"
+
+#. RGfSe
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_EMPTY_FIELD\n"
+"string.text"
+msgid "Empty Field"
+msgstr "Puste pole"
+
+#. ZMcPy
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_NEWDOC\n"
+"string.text"
+msgid "New Document"
+msgstr "Nowy dokument"
+
+#. T8Woz
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_MYDOCS\n"
+"string.text"
+msgid "My Documents"
+msgstr "Moje dokumenty"
+
+#. hbbHH
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_TEMPLATES\n"
+"string.text"
+msgid "Templates"
+msgstr "Szablony"
+
+#. v2kK4
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_SAMPLES\n"
+"string.text"
+msgid "Samples"
+msgstr "Przykłady"
+
+#. 4q5kS
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_BACK\n"
+"toolboxitem.text"
+msgid "Back"
+msgstr "Wstecz"
+
+#. 4iKAH
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_PREV\n"
+"toolboxitem.text"
+msgid "Up One Level"
+msgstr "Jeden poziom wyżej"
+
+#. rp6zF
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FILEVIEW\n"
+"TI_DOCTEMPLATE_PRINT\n"
+"toolboxitem.text"
+msgid "Print"
+msgstr "Drukuj"
+
+#. 9ej9S
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FRAMEWIN\n"
+"TI_DOCTEMPLATE_DOCINFO\n"
+"toolboxitem.text"
+msgid "Document Properties"
+msgstr "Właściwości dokumentu"
+
+#. sXSrA
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"TB_SVT_FRAMEWIN\n"
+"TI_DOCTEMPLATE_PREVIEW\n"
+"toolboxitem.text"
+msgid "Preview"
+msgstr "Podgląd"
+
+#. br32z
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"FT_DOCTEMPLATE_LINK\n"
+"fixedtext.text"
+msgid "~Get more templates online..."
+msgstr "~Pobierz więcej szablonów..."
+
+#. iFspq
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_PACKAGE\n"
+"pushbutton.text"
+msgid "Install Template Pack"
+msgstr "Zainstaluj paczkę szablonów"
+
+#. EJoiJ
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_MANAGE\n"
+"pushbutton.text"
+msgid "Organi~ze..."
+msgstr "Organi~zator..."
+
+#. CjjoP
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_EDIT\n"
+"pushbutton.text"
+msgid "~Edit"
+msgstr "~Edycja"
+
+#. VqZWu
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"BTN_DOCTEMPLATE_OPEN\n"
+"okbutton.text"
+msgid "~Open"
+msgstr "~Otwórz"
+
+#. 93UjW
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"DLG_DOCTEMPLATE\n"
+"modaldialog.text"
+msgid "Templates and Documents"
+msgstr "Szablony i dokumenty"
+
+#. eVB6M
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"1\n"
+"itemlist.text"
+msgid "Title"
+msgstr "Tytuł"
+
+#. JNdNj
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"2\n"
+"itemlist.text"
+msgid "By"
+msgstr "od"
+
+#. Eb9LH
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"3\n"
+"itemlist.text"
+msgid "Date"
+msgstr "Data"
+
+#. acBub
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"4\n"
+"itemlist.text"
+msgid "Keywords"
+msgstr "Słowa kluczowe"
+
+#. w7ERD
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"5\n"
+"itemlist.text"
+msgid "Description"
+msgstr "Opis"
+
+#. EWFTD
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"6\n"
+"itemlist.text"
+msgid "Type"
+msgstr "Typ"
+
+#. khHRZ
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"7\n"
+"itemlist.text"
+msgid "Modified on"
+msgstr "Data modyfikacji"
+
+#. K2y8f
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"8\n"
+"itemlist.text"
+msgid "Modified by"
+msgstr "Zmodyfikował(a)"
+
+#. tGJBG
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"9\n"
+"itemlist.text"
+msgid "Printed on"
+msgstr "Data wydruku"
+
+#. DHXyF
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"10\n"
+"itemlist.text"
+msgid "Printed by"
+msgstr "Wydrukował(a)"
+
+#. f6AkG
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"11\n"
+"itemlist.text"
+msgid "Subject"
+msgstr "Temat"
+
+#. KDqme
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"12\n"
+"itemlist.text"
+msgid "Size"
+msgstr "Rozmiar"
+
+#. Dv6C8
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_NEWDOC_HELP\n"
+"string.text"
+msgid "Click here to create new documents."
+msgstr "Kliknij tutaj, aby stworzyć nowe dokumenty."
+
+#. FwgYq
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_MYDOCS_HELP\n"
+"string.text"
+msgid "Contains your letters, reports and other documents"
+msgstr "Zawiera Twoje listy, raporty i inne dokumenty"
+
+#. RrAYz
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_TEMPLATES_HELP\n"
+"string.text"
+msgid "Contains templates for creating new documents"
+msgstr "Zawiera szablony służące do tworzenia nowych dokumentów"
+
+#. adXzs
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STR_SVT_SAMPLES_HELP\n"
+"string.text"
+msgid "Contains a selection of sample letters, reports and other documents"
+msgstr "Zawiera wybór przykładowych listów, raportów i innych dokumentów"

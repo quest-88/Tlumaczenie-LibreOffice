@@ -1,0 +1,843 @@
+#. extracted from svx/source/sidebar/paragraph
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2013-05-26 16:20+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1369585229.0\n"
+
+#. vGcxN
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_HORIZONTALALIGNMENT\n"
+"BT_SUBSTLEFT\n"
+"toolboxitem.text"
+msgid "Align Left"
+msgstr "Wyrównaj do lewej"
+
+#. 8VCtp
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_HORIZONTALALIGNMENT\n"
+"BT_SUBSTCENTER\n"
+"toolboxitem.text"
+msgid "Align Center"
+msgstr "Wyrównaj do środka"
+
+#. nwRnD
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_HORIZONTALALIGNMENT\n"
+"BT_SUBSTRIGHT\n"
+"toolboxitem.text"
+msgid "Align Right"
+msgstr "Wyrównaj do prawej"
+
+#. NLvxm
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_HORIZONTALALIGNMENT\n"
+"BT_SUBSTJUSTIFY\n"
+"toolboxitem.text"
+msgid "Align Justified"
+msgstr "Wyrównaj do lewej i prawej"
+
+#. t268D
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_VERT_ALIGN\n"
+"IID_VERT_TOP\n"
+"toolboxitem.text"
+msgid "Align Top"
+msgstr "Wyrównaj do góry"
+
+#. D5XZ5
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_VERT_ALIGN\n"
+"IID_VERT_CENTER\n"
+"toolboxitem.text"
+msgid "Align Center Vertically"
+msgstr "Wyrównaj do środka w pionie"
+
+#. CnXBG
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_VERT_ALIGN\n"
+"IID_VERT_BOTTOM\n"
+"toolboxitem.text"
+msgid "Align Bottom"
+msgstr "Wyrównaj do dołu"
+
+#. EoBzi
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_NUM_BULLET\n"
+"IID_BULLET\n"
+"toolboxitem.text"
+msgid "Bullets"
+msgstr "Wypunktowanie"
+
+#. vbAu8
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_NUM_BULLET\n"
+"IID_NUMBER\n"
+"toolboxitem.text"
+msgid "Numbering"
+msgstr "Numeracja"
+
+#. xce9h
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_BACK_COLOR\n"
+"TBI_BACK_COLOR\n"
+"toolboxitem.text"
+msgid "Paragraph Background Color"
+msgstr "Kolor tła akapitu"
+
+#. ZMADy
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"FT_SPACING\n"
+"fixedtext.text"
+msgid "~Spacing:"
+msgstr "Od~stępy:"
+
+#. nRDi2
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_UL_INC_DEC\n"
+"BT_TBX_UL_INC\n"
+"toolboxitem.text"
+msgid "Increase Spacing"
+msgstr "Zwiększ odstępy"
+
+#. nkzha
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_UL_INC_DEC\n"
+"BT_TBX_UL_DEC\n"
+"toolboxitem.text"
+msgid "Decrease Spacing"
+msgstr "Zmniejsz odstępy"
+
+#. 6BFgb
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_ABOVE_PARASPACING\n"
+"metricfield.quickhelptext"
+msgid "Above Paragraph Spacing"
+msgstr "Odstępy od góry akapitu"
+
+#. 5mDdF
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_BELOW_PARASPACING\n"
+"metricfield.quickhelptext"
+msgid "Below Paragraph Spacing"
+msgstr "Odstępy od dołu akapitu"
+
+#. uCr5M
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"FT_INDENT\n"
+"fixedtext.text"
+msgid "~Indent:"
+msgstr "Wcięc~ie:"
+
+#. MBr4H
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_INC_DEC\n"
+"BT_TBX_INDENT_INC\n"
+"toolboxitem.text"
+msgid "Increase Indent"
+msgstr "Zwiększ wcięcie"
+
+#. 3iFRj
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_INC_DEC\n"
+"BT_TBX_INDENT_DEC\n"
+"toolboxitem.text"
+msgid "Decrease Indent"
+msgstr "Zmniejsz wcięcie"
+
+#. cRdAR
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_INC_DEC\n"
+"ID_HANGING_INDENT\n"
+"toolboxitem.text"
+msgid "Switch to Hanging Indent"
+msgstr "Przełącz na wcięcie wiszące"
+
+#. 3PUUk
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_PRO_DEMOTE\n"
+"BT_TBX_INDENT_PROMOTE\n"
+"toolboxitem.text"
+msgid "Increase Indent"
+msgstr "Zwiększ wcięcie"
+
+#. hho2D
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_PRO_DEMOTE\n"
+"BT_TBX_INDENT_DEMOTE\n"
+"toolboxitem.text"
+msgid "Decrease Indent"
+msgstr "Zmniejsz wcięcie"
+
+#. 3xBzg
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_INDENT_PRO_DEMOTE\n"
+"SD_HANGING_INDENT\n"
+"toolboxitem.text"
+msgid "Switch to Hanging Indent"
+msgstr "Przełącz na wcięcie wiszące"
+
+#. 44cAi
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_BEFORE_INDENT\n"
+"metricfield.quickhelptext"
+msgid "Before Text Indent"
+msgstr "Wcięcie przed tekstem"
+
+#. XEAt4
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_AFTER_INDENT\n"
+"metricfield.quickhelptext"
+msgid "After Text Indent"
+msgstr "Wcięcie po tekście"
+
+#. WNFB2
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL\n"
+"MF_FL_INDENT\n"
+"metricfield.quickhelptext"
+msgid "First Line Indent"
+msgstr "Wcięcie pierwszego wiersza"
+
+#. og3Gt
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SIDEBAR_PARA_PANEL.TBX_LINESP\n"
+"BT_BTX_LINESP\n"
+"toolboxitem.text"
+msgid "Line Spacing"
+msgstr "Interlinia"
+
+#. hEMPq
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_BACK_COLOR\n"
+"STR_NOFILL\n"
+"string.text"
+msgid "No Color"
+msgstr "Brak koloru"
+
+#. CE6bH
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_BULLETS\n"
+"CB_BULLET_MORE\n"
+"pushbutton.text"
+msgid "~More Options"
+msgstr "Więcej opcji"
+
+#. 5YAGo
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_0\n"
+"string.text"
+msgid "large square bullets"
+msgstr "duże punktory kwadratowe"
+
+#. mrBBH
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_1\n"
+"string.text"
+msgid "graphic bullets"
+msgstr "punktory graficzne"
+
+#. mfMnF
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_2\n"
+"string.text"
+msgid "graphic bullets"
+msgstr "punktory graficzne"
+
+#. mQPxs
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_3\n"
+"string.text"
+msgid "graphic bullets"
+msgstr "punktory graficzne"
+
+#. m8gaN
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_SIDEBAR_BULLET_DESCRIPTIONS_4\n"
+"string.text"
+msgid "graphic bullets"
+msgstr "punktory graficzne"
+
+#. xMJRB
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_NUMBERING\n"
+"CB_NUMBERING_MORE\n"
+"pushbutton.text"
+msgid "~More Options"
+msgstr "Więcej opcji"
+
+#. 8FQv3
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"FT_CUSTOM\n"
+"fixedtext.text"
+msgid "Custom:"
+msgstr "Niestandardowe:"
+
+#. FnktY
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"FT_LINE_SPACING\n"
+"fixedtext.text"
+msgid "~Line Spacing:"
+msgstr "Inter~linia:"
+
+#. D5Gbi
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"FT_OF\n"
+"fixedtext.text"
+msgid "~Of:"
+msgstr "Z:"
+
+#. sDz6e
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"1\n"
+"stringlist.text"
+msgid "Single"
+msgstr "Pojedyncza"
+
+#. jSjEW
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"2\n"
+"stringlist.text"
+msgid "1.5 Lines"
+msgstr "1,5 wiersza"
+
+#. aZ5ta
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"3\n"
+"stringlist.text"
+msgid "Double"
+msgstr "Podwójna"
+
+#. Bhkxb
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"4\n"
+"stringlist.text"
+msgid "Proportional"
+msgstr "Proporcjonalna"
+
+#. DKBa5
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"5\n"
+"stringlist.text"
+msgid "At least"
+msgstr "Co najmniej"
+
+#. PQsyt
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"6\n"
+"stringlist.text"
+msgid "Leading"
+msgstr "Wiodąca"
+
+#. 7EM8u
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING.LB_LINE_SPACING\n"
+"7\n"
+"stringlist.text"
+msgid "Fixed"
+msgstr "Stałej szerokości"
+
+#. EdDxZ
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_SINGLE\n"
+"string.text"
+msgid "Line spacing: Single"
+msgstr "Interlinia: Pojedyncza"
+
+#. hpFbh
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_115\n"
+"string.text"
+msgid "Line spacing: 1.15 Lines"
+msgstr "Interlinia: 1,15 wiersza"
+
+#. 5CcEA
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_15\n"
+"string.text"
+msgid "Line spacing: 1.5 Lines"
+msgstr "Interlinia: 1,5 wiersza"
+
+#. GFoPD
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_DOUBLE\n"
+"string.text"
+msgid "Line spacing: Double"
+msgstr "Interlinia: Podwójna"
+
+#. 4dcnR
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LSPACING\n"
+"string.text"
+msgid "Line spacing:"
+msgstr "Interlinia:"
+
+#. LHhBv
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LS_OF\n"
+"string.text"
+msgid "of:"
+msgstr "z:"
+
+#. Fzvdh
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_SPACING1\n"
+"string.text"
+msgid "Spacing: 1"
+msgstr "Interlinia: 1"
+
+#. DGKR2
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_SPACING115\n"
+"string.text"
+msgid "Spacing: 1.15"
+msgstr "Interlinia: 1,15"
+
+#. yGTGA
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_SPACING15\n"
+"string.text"
+msgid "Spacing: 1.5"
+msgstr "Interlinia: 1,5"
+
+#. AaeGX
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_SPACING2\n"
+"string.text"
+msgid "Spacing: 2"
+msgstr "Interlinia: 2"
+
+#. ZoVvD
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_POPUPPANEL_PARAPAGE_LINESPACING\n"
+"STR_LCVALUE\n"
+"string.text"
+msgid "Last Custom Value"
+msgstr "Ostatnia wartość niestandardowa"
+
+#. Sb3tC
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_NUMBULLET_NONE\n"
+"string.text"
+msgid "None"
+msgstr "Brak"
+
+#. iu736
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_0\n"
+"string.text"
+msgid "Black Pearl"
+msgstr "Czarna perła"
+
+#. 26PFU
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_1\n"
+"string.text"
+msgid "Blue Arrow 1"
+msgstr "Niebieska strzałka 1"
+
+#. zvGQi
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_2\n"
+"string.text"
+msgid "Blue Ball"
+msgstr "Niebieska kula"
+
+#. gcjD8
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_3\n"
+"string.text"
+msgid "Blue Diamond"
+msgstr "Niebieski diament"
+
+#. 5V7E6
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_4\n"
+"string.text"
+msgid "Blue Red"
+msgstr "Niebieski czerwony"
+
+#. gcLu9
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_5\n"
+"string.text"
+msgid "Blue Square"
+msgstr "Niebieski kwadrat"
+
+#. 9ZB9K
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_6\n"
+"string.text"
+msgid "Blue Star"
+msgstr "Niebieska gwiazda"
+
+#. fyykG
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_7\n"
+"string.text"
+msgid "Dark Red Circle"
+msgstr "Ciemny, czerwony okrąg"
+
+#. oU7WU
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_8\n"
+"string.text"
+msgid "Blue Circle"
+msgstr "Niebieski okrąg"
+
+#. g8kda
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_9\n"
+"string.text"
+msgid "Green Circle"
+msgstr "Zielony okrąg"
+
+#. FLvJC
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_10\n"
+"string.text"
+msgid "Black Square"
+msgstr "Czarny kwadrat"
+
+#. DG7aj
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_11\n"
+"string.text"
+msgid "Orange Square"
+msgstr "Pomarańczowy kwadrat"
+
+#. cW4Ao
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_12\n"
+"string.text"
+msgid "Purple Square"
+msgstr "Fioletowy kwadrat"
+
+#. Bc3bD
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_13\n"
+"string.text"
+msgid "Blue Diamond"
+msgstr "Niebieski diament"
+
+#. U5BBh
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_14\n"
+"string.text"
+msgid "Light Blue Diamond"
+msgstr "Jasnoniebieski diament"
+
+#. oqS87
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_15\n"
+"string.text"
+msgid "Red Diamond"
+msgstr "Czerwony diament"
+
+#. SQmua
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_16\n"
+"string.text"
+msgid "Yellow Star"
+msgstr "Żółta gwiazda"
+
+#. cyumB
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_17\n"
+"string.text"
+msgid "Blue Star"
+msgstr "Niebieska gwiazda"
+
+#. mWqHJ
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_18\n"
+"string.text"
+msgid "Blue Triangle"
+msgstr "Niebieski trójkąt"
+
+#. uEYqF
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_19\n"
+"string.text"
+msgid "Dark Green Triangle"
+msgstr "Ciemnozielony trójkąt"
+
+#. BCqAy
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_20\n"
+"string.text"
+msgid "Red Arrow"
+msgstr "Czerwona strzałka"
+
+#. gEh8y
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_21\n"
+"string.text"
+msgid "Blue Arrow 2"
+msgstr "Niebieska strzałka 2"
+
+#. CLchj
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_22\n"
+"string.text"
+msgid "Blue Box"
+msgstr "Niebieskie pudełko"
+
+#. BTrAC
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_23\n"
+"string.text"
+msgid "Red Box"
+msgstr "Czerwone pudełko"
+
+#. qSiCC
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_24\n"
+"string.text"
+msgid "Light Blue Asterisk"
+msgstr "Jasnoniebieska gwiazdka"
+
+#. QGZqE
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_25\n"
+"string.text"
+msgid "Red Leaves"
+msgstr "Czerwone liście"
+
+#. RV9HJ
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_26\n"
+"string.text"
+msgid "Blue Target"
+msgstr "Niebieska tarcza"
+
+#. dtvBF
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_27\n"
+"string.text"
+msgid "Blue Arrow 3"
+msgstr "Niebieska strzałka 3"
+
+#. NGZLH
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_28\n"
+"string.text"
+msgid "Dark Blue Arrow"
+msgstr "Ciemnoniebieska strzałka"
+
+#. bnwQD
+#: ParaPropertyPanel.src
+msgctxt ""
+"ParaPropertyPanel.src\n"
+"RID_SVXSTR_GRAPHICS_DESCRIPTION_29\n"
+"string.text"
+msgid "Brown Arrow"
+msgstr "Brązowa strzałka"
