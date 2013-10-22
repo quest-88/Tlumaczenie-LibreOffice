@@ -1,4 +1,0 @@
-Tlumaczenie-LibreOffice
-=======================
-
-Tłumaczenie LibreOffice
