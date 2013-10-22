@@ -1,0 +1,396 @@
+#. extracted from xmlsecurity/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-28 18:08+0200\n"
+"PO-Revision-Date: 2013-06-03 19:30+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1370287835.0\n"
+
+#. fB8pL
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"DigitalSignaturesDialog\n"
+"title\n"
+"string.text"
+msgid "Digital Signatures"
+msgstr "Podpisy cyfrowe"
+
+#. 2tWGZ
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"dochint\n"
+"label\n"
+"string.text"
+msgid "The following have signed the document content: "
+msgstr "Zawartość dokumentu została podpisana przez: "
+
+#. wXESL
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "View Certificate..."
+msgstr "Zobacz certyfikat..."
+
+#. GCSgF
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"sign\n"
+"label\n"
+"string.text"
+msgid "Sign Document..."
+msgstr "Podpisz dokument..."
+
+#. SEYRK
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"remove\n"
+"label\n"
+"string.text"
+msgid "Remove"
+msgstr "Usuń"
+
+#. oW8nk
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"signed\n"
+"label\n"
+"string.text"
+msgid "Signed by "
+msgstr "Podpisany przez "
+
+#. yt7aC
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"issued\n"
+"label\n"
+"string.text"
+msgid "Digital ID issued by "
+msgstr "Cyfrowe ID wydane przez: "
+
+#. CrsWP
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "Date"
+msgstr "Data"
+
+#. jGB8v
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"macrohint\n"
+"label\n"
+"string.text"
+msgid "The following have signed the document macro:"
+msgstr "Marko w dokumencie zostało podpisane przez:"
+
+#. QA9da
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"packagehint\n"
+"label\n"
+"string.text"
+msgid "The following have signed this package:"
+msgstr "Pakiet został podpisany przez:"
+
+#. AHfVK
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"validft\n"
+"label\n"
+"string.text"
+msgid "The signatures in this document are valid"
+msgstr "Sygnatury w tym dokumencie są poprawne"
+
+#. GYQZo
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"invalidft\n"
+"label\n"
+"string.text"
+msgid "The signatures in this document are invalid"
+msgstr "Sygnatury w tym dokumencie nie są poprawne"
+
+#. XdQgC
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"oldsignatureft\n"
+"label\n"
+"string.text"
+msgid "Not all parts of the document are signed"
+msgstr "Nie wszystkie części dokumentu zostały podpisane"
+
+#. C2FAS
+#: digitalsignaturesdialog.ui
+msgctxt ""
+"digitalsignaturesdialog.ui\n"
+"notvalidatedft\n"
+"label\n"
+"string.text"
+msgid "Certificate could not be validated"
+msgstr "Weryfikacja certyfikatu nie była możliwa"
+
+#. CgNCH
+#: macrosecuritydialog.ui
+msgctxt ""
+"macrosecuritydialog.ui\n"
+"MacroSecurityDialog\n"
+"title\n"
+"string.text"
+msgid "Macro Security"
+msgstr "Bezpieczeństwo makr"
+
+#. tZy5c
+#: macrosecuritydialog.ui
+msgctxt ""
+"macrosecuritydialog.ui\n"
+"SecurityLevelPage\n"
+"label\n"
+"string.text"
+msgid "Security Level"
+msgstr "Poziom bezpieczeństwa"
+
+#. vGgFD
+#: macrosecuritydialog.ui
+msgctxt ""
+"macrosecuritydialog.ui\n"
+"SecurityTrustPage\n"
+"label\n"
+"string.text"
+msgid "Trusted Sources"
+msgstr "Zaufani wydawcy"
+
+#. VJVMG
+#: securitylevelpage.ui
+msgctxt ""
+"securitylevelpage.ui\n"
+"low\n"
+"label\n"
+"string.text"
+msgid ""
+"_Low (not recommended).\n"
+"All macros will be executed without confirmation.\n"
+"Use this setting only if you are certain that all documents that will be opened are safe."
+msgstr ""
+"Niski (nie za_lecane).\n"
+"Makra są uruchamiane bez pytania o potwierdzenie.\n"
+"Używaj tej opcji wyłącznie gdy masz pewność, że wszystkie otwierane "
+"dokumenty są bezpieczne."
+
+#. N9GBK
+#: securitylevelpage.ui
+msgctxt ""
+"securitylevelpage.ui\n"
+"med\n"
+"label\n"
+"string.text"
+msgid ""
+"_Medium.\n"
+"Confirmation required before executing macros from untrusted sources."
+msgstr ""
+"Średni.\n"
+"Wy~magane potwierdzenie przy uruchamianiu makr podpisanych przez wydawców, "
+"którym nie ufasz."
+
+#. oK9Tr
+#: securitylevelpage.ui
+msgctxt ""
+"securitylevelpage.ui\n"
+"high\n"
+"label\n"
+"string.text"
+msgid ""
+"H_igh.\n"
+"Only signed macros from trusted sources are allowed to run.\n"
+"Unsigned macros are disabled."
+msgstr ""
+"Wysok_i.\n"
+"Dozwolone jest uruchamianie wyłącznie makr podpisanych przez zaufanych "
+"wydawców.\n"
+"Makra niepodpisane są wyłączone."
+
+#. XJLgi
+#: securitylevelpage.ui
+msgctxt ""
+"securitylevelpage.ui\n"
+"vhigh\n"
+"label\n"
+"string.text"
+msgid ""
+"_Very high.\n"
+"Only macros from trusted file locations are allowed to run.\n"
+"All other macros, regardless whether signed or not, are disabled."
+msgstr ""
+"_Bardzo wysoki.\n"
+"Dozwolone są wyłącznie makra z bezpiecznych lokalizacji.\n"
+"Inne makra - bez względu na to, czy są podpisane czy nie - nie są dozwolone."
+
+#. MrFFp
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"viewcert\n"
+"label\n"
+"string.text"
+msgid "_View..."
+msgstr "Zobacz..."
+
+#. gUX2R
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"to\n"
+"label\n"
+"string.text"
+msgid "Issued to"
+msgstr "Wydany dla"
+
+#. 4RoXB
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"by\n"
+"label\n"
+"string.text"
+msgid "Issued by"
+msgstr "Wydany przez"
+
+#. QYUNS
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "Expiration date"
+msgstr "Data ważności"
+
+#. UeQzC
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Trusted certificates"
+msgstr "Zaufane certyfikaty"
+
+#. HnDpa
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Document macros are always executed if they have been opened from one of the following locations."
+msgstr ""
+"Makra dokumentów będą wykonywane tylko w przypadku, gdy dokument zostanie "
+"otwarty z jednej z poniższych lokalizacji."
+
+#. BsFWD
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"addfile\n"
+"label\n"
+"string.text"
+msgid "A_dd..."
+msgstr "Do_daj..."
+
+#. BgnDz
+#: securitytrustpage.ui
+msgctxt ""
+"securitytrustpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Trusted file locations"
+msgstr "Bezpieczne lokalizacje plików"
+
+#. 8NHEc
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"SelectCertificateDialog\n"
+"title\n"
+"string.text"
+msgid "Select Certificate"
+msgstr "Wybierz certyfikat"
+
+#. VwET3
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"issuedto\n"
+"label\n"
+"string.text"
+msgid "Issued to  "
+msgstr "Wydany dla  "
+
+#. UrdZA
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"issuedby\n"
+"label\n"
+"string.text"
+msgid "Issued by"
+msgstr "Wydany przez"
+
+#. nG2xk
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"expiration\n"
+"label\n"
+"string.text"
+msgid "Expiration date"
+msgstr "Data ważności"
+
+#. EGDz3
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select the certificate you want to use for signing "
+msgstr "Wybierz certyfikat do podpisywania"
+
+#. BcgW9
+#: selectcertificatedialog.ui
+msgctxt ""
+"selectcertificatedialog.ui\n"
+"viewcert\n"
+"label\n"
+"string.text"
+msgid "View Certificate..."
+msgstr "Zobacz certyfikat..."

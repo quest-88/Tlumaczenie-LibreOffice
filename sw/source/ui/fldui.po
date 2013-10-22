@@ -1,0 +1,2173 @@
+#. extracted from sw/source/ui/fldui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2013-05-10 15:51+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1368201078.0\n"
+
+#. nGiNo
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"FT_DBTYPE\n"
+"fixedtext.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. r4pvH
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"FT_DBCONDITION\n"
+"fixedtext.text"
+msgid "~Condition"
+msgstr "W~arunek"
+
+#. 8KHev
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"FT_DBSETNUMBER\n"
+"fixedtext.text"
+msgid "Record number"
+msgstr "Numer rekordu"
+
+#. pUsoX
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"FT_DBSELECTION\n"
+"fixedtext.text"
+msgid "Database s~election"
+msgstr "~Wybór bazy danych"
+
+#. TvdDE
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"FT_ADDDB\n"
+"fixedtext.text"
+msgid "Add database file"
+msgstr "Dodaj plik bazy danych"
+
+#. AzVEX
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"PB_ADDDB\n"
+"pushbutton.text"
+msgid "Browse..."
+msgstr "Przeglądaj..."
+
+#. mgw9Y
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"RB_DBOWNFORMAT\n"
+"radiobutton.text"
+msgid "From database"
+msgstr "Z bazy danych"
+
+#. 6AdAN
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"RB_DBFORMAT\n"
+"radiobutton.text"
+msgid "User-defined"
+msgstr "Użytkownika"
+
+#. u7sbG
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"FL_DBFORMAT\n"
+"fixedline.text"
+msgid "Format"
+msgstr "Format"
+
+#. qM6Ht
+#: flddb.src
+msgctxt ""
+"flddb.src\n"
+"TP_FLD_DB\n"
+"tabpage.text"
+msgid "Database"
+msgstr "Baza danych"
+
+#. 6W3nc
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF\n"
+"FT_DOKINFTYPE\n"
+"fixedtext.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. L4s4N
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF\n"
+"FT_DOKINFSELECTION\n"
+"fixedtext.text"
+msgid "S~elect"
+msgstr "Wybi~erz"
+
+#. GCTGq
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF.LB_DOKINFSELECTION\n"
+"1\n"
+"stringlist.text"
+msgid "Author"
+msgstr "Autor"
+
+#. ziFb4
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF.LB_DOKINFSELECTION\n"
+"2\n"
+"stringlist.text"
+msgid "Time"
+msgstr "Godzina"
+
+#. q4UoR
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF.LB_DOKINFSELECTION\n"
+"3\n"
+"stringlist.text"
+msgid "Date"
+msgstr "Data"
+
+#. mFCkX
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF.LB_DOKINFSELECTION\n"
+"4\n"
+"stringlist.text"
+msgid "Date Time Author"
+msgstr "Data Godzina Autor"
+
+#. Wv2fC
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF\n"
+"FT_DOKINFFORMAT\n"
+"fixedtext.text"
+msgid "F~ormat"
+msgstr "F~ormat"
+
+#. BUAFU
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF\n"
+"CB_DOKINFFIXEDCONTENT\n"
+"checkbox.text"
+msgid "~Fixed content"
+msgstr "St~ała treść"
+
+#. GSgGD
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF\n"
+"STR_DOKINF_INFO\n"
+"string.text"
+msgid "Info"
+msgstr "Informacja"
+
+#. BeGip
+#: flddinf.src
+msgctxt ""
+"flddinf.src\n"
+"TP_FLD_DOKINF\n"
+"tabpage.text"
+msgid "DocInformation"
+msgstr "Informacje o dokumencie"
+
+#. FB5TY
+#: flddok.src
+msgctxt ""
+"flddok.src\n"
+"TP_FLD_DOK\n"
+"FT_DOKTYPE\n"
+"fixedtext.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. sSMRQ
+#: flddok.src
+msgctxt ""
+"flddok.src\n"
+"TP_FLD_DOK\n"
+"FT_DOKSELECTION\n"
+"fixedtext.text"
+msgid "S~elect"
+msgstr "Wybi~erz"
+
+#. 4Ayw3
+#: flddok.src
+msgctxt ""
+"flddok.src\n"
+"TP_FLD_DOK\n"
+"FT_DOKFORMAT\n"
+"fixedtext.text"
+msgid "F~ormat"
+msgstr "F~ormat"
+
+#. tRACP
+#: flddok.src
+msgctxt ""
+"flddok.src\n"
+"TP_FLD_DOK\n"
+"FT_DOKVALUE\n"
+"fixedtext.text"
+msgid "O~ffset"
+msgstr "Prz~esunięcie"
+
+#. JxwGJ
+#: flddok.src
+msgctxt ""
+"flddok.src\n"
+"TP_FLD_DOK\n"
+"CB_DOKFIXEDCONTENT\n"
+"checkbox.text"
+msgid "~Fixed content"
+msgstr "St~ała treść"
+
+#. AmBDz
+#: flddok.src
+msgctxt ""
+"flddok.src\n"
+"TP_FLD_DOK\n"
+"STR_DOKDATEOFF\n"
+"string.text"
+msgid "Offs~et in days"
+msgstr "Prz~esunięcie (dni)"
+
+#. wxaVA
+#: flddok.src
+msgctxt ""
+"flddok.src\n"
+"TP_FLD_DOK\n"
+"STR_DOKTIMEOFF\n"
+"string.text"
+msgid "Offs~et in minutes"
+msgstr "Prz~esunięcie (minuty)"
+
+#. nAafa
+#: flddok.src
+msgctxt ""
+"flddok.src\n"
+"TP_FLD_DOK\n"
+"tabpage.text"
+msgid "Document"
+msgstr "Dokument"
+
+#. CejHV
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_FUNCTYPE\n"
+"fixedtext.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. nJv5H
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_FUNCSELECTION\n"
+"fixedtext.text"
+msgid "S~elect"
+msgstr "Wybi~erz"
+
+#. AZhUz
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_FUNCFORMAT\n"
+"fixedtext.text"
+msgid "F~ormat"
+msgstr "F~ormat"
+
+#. E9F9w
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_FUNCNAME\n"
+"fixedtext.text"
+msgid "Na~me"
+msgstr "~Nazwa"
+
+#. o7s8b
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_FUNCVALUE\n"
+"fixedtext.text"
+msgid "~Value"
+msgstr "W~artość"
+
+#. WvkL2
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_FUNCCOND1\n"
+"fixedtext.text"
+msgid "Then"
+msgstr "Wtedy"
+
+#. 7thus
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_FUNCCOND2\n"
+"fixedtext.text"
+msgid "Else"
+msgstr "W przeciwnym przypadku"
+
+#. hqhjB
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"BT_FUNCMACRO\n"
+"pushbutton.text"
+msgid "~Macro..."
+msgstr "~Makro..."
+
+#. EGEHf
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_LISTITEM\n"
+"fixedtext.text"
+msgid "Ite~m"
+msgstr "Ele~ment"
+
+#. VoVwf
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"PB_LISTADD\n"
+"pushbutton.text"
+msgid "~Add"
+msgstr "Dod~aj"
+
+#. BF6cp
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_LISTITEMS\n"
+"fixedtext.text"
+msgid "Items on ~list"
+msgstr "~Lista elementów"
+
+#. C8nU8
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"PB_LISTREMOVE\n"
+"pushbutton.text"
+msgid "~Remove"
+msgstr "~Usuń"
+
+#. j3bq3
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"PB_LISTUP\n"
+"pushbutton.text"
+msgid "Move ~Up"
+msgstr "Do ~góry"
+
+#. VgMaS
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"PB_LISTDOWN\n"
+"pushbutton.text"
+msgid "Move Do~wn"
+msgstr "~W dół"
+
+#. XPAEK
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"FT_LISTNAME\n"
+"fixedtext.text"
+msgid "Na~me"
+msgstr "~Nazwa"
+
+#. uyQfE
+#: fldfunc.src
+msgctxt ""
+"fldfunc.src\n"
+"TP_FLD_FUNC\n"
+"tabpage.text"
+msgid "Functions"
+msgstr "Funkcje"
+
+#. HkDVX
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"FT_REFTYPE\n"
+"fixedtext.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. LGez4
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"FT_REFSELECTION\n"
+"fixedtext.text"
+msgid "S~election"
+msgstr "~Wybór"
+
+#. NB6j5
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"FT_REFFORMAT\n"
+"fixedtext.text"
+msgid "Insert ~reference to"
+msgstr "Wstaw ~odwołanie do"
+
+#. 9Gevu
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"FT_REFNAME\n"
+"fixedtext.text"
+msgid "Na~me"
+msgstr "~Nazwa"
+
+#. it9F5
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"FT_REFVALUE\n"
+"fixedtext.text"
+msgid "~Value"
+msgstr "W~artość"
+
+#. YAsDb
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"STR_REFBOOKMARK\n"
+"string.text"
+msgid "Bookmarks"
+msgstr "Zakładki"
+
+#. h49Kt
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"STR_REFFOOTNOTE\n"
+"string.text"
+msgid "Footnotes"
+msgstr "Przypisy dolne"
+
+#. KGfnK
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"STR_REFENDNOTE\n"
+"string.text"
+msgid "Endnotes"
+msgstr "Przypisy końcowe"
+
+#. E6Pkq
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"STR_REFHEADING\n"
+"string.text"
+msgid "Headings"
+msgstr "Nagłówki"
+
+#. gRtc9
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"STR_REFNUMITEM\n"
+"string.text"
+msgid "Numbered Paragraphs"
+msgstr "Akapity oznaczone numerem"
+
+#. vscP6
+#: fldref.src
+msgctxt ""
+"fldref.src\n"
+"TP_FLD_REF\n"
+"tabpage.text"
+msgid "Cross-references"
+msgstr "Odsyłacze"
+
+#. aUAmJ
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT.1\n"
+"TP_FLD_DOK\n"
+"pageitem.text"
+msgid "Document"
+msgstr "Dokument"
+
+#. BVryX
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT.1\n"
+"TP_FLD_REF\n"
+"pageitem.text"
+msgid "Cross-references"
+msgstr "Odsyłacze"
+
+#. F2T7Q
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT.1\n"
+"TP_FLD_FUNC\n"
+"pageitem.text"
+msgid "Functions"
+msgstr "Funkcje"
+
+#. WiBVq
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT.1\n"
+"TP_FLD_DOKINF\n"
+"pageitem.text"
+msgid "DocInformation"
+msgstr "Informacje o dokumencie"
+
+#. tiPyq
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT.1\n"
+"TP_FLD_VAR\n"
+"pageitem.text"
+msgid "Variables"
+msgstr "Zmienne"
+
+#. YgtcD
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT.1\n"
+"TP_FLD_DB\n"
+"pageitem.text"
+msgid "Database"
+msgstr "Baza danych"
+
+#. 2wCDF
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT\n"
+"STR_FLD_INSERT\n"
+"string.text"
+msgid "~Insert"
+msgstr "W~staw"
+
+#. idHbt
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT\n"
+"STR_FLD_CLOSE\n"
+"string.text"
+msgid "~Close"
+msgstr "~Zamknij"
+
+#. Vde9R
+#: fldtdlg.src
+msgctxt ""
+"fldtdlg.src\n"
+"DLG_FLD_INSERT\n"
+"tabdialog.text"
+msgid "Fields"
+msgstr "Pola"
+
+#. s395G
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_FLD_EDIT_DLG\n"
+"string.text"
+msgid "Edit Fields"
+msgstr "Edycja pól"
+
+#. v3jyg
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DATEFLD\n"
+"string.text"
+msgid "Date"
+msgstr "Data"
+
+#. B7mAP
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_TIMEFLD\n"
+"string.text"
+msgid "Time"
+msgstr "Godzina"
+
+#. BCGyA
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_FILENAMEFLD\n"
+"string.text"
+msgid "File name"
+msgstr "Nazwa pliku"
+
+#. XTwBP
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DBNAMEFLD\n"
+"string.text"
+msgid "Database Name"
+msgstr "Nazwa bazy danych"
+
+#. pSbmk
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_CHAPTERFLD\n"
+"string.text"
+msgid "Chapter"
+msgstr "Rozdział"
+
+#. jAE8K
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_PAGENUMBERFLD\n"
+"string.text"
+msgid "Page numbers"
+msgstr "Numery stron"
+
+#. dkphG
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DOCSTATFLD\n"
+"string.text"
+msgid "Statistics"
+msgstr "Statystyka"
+
+#. CrJ5e
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_AUTHORFLD\n"
+"string.text"
+msgid "Author"
+msgstr "Autor"
+
+#. yoxw8
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_TEMPLNAMEFLD\n"
+"string.text"
+msgid "Templates"
+msgstr "Szablony"
+
+#. U5agG
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_EXTUSERFLD\n"
+"string.text"
+msgid "Sender"
+msgstr "Nadawca"
+
+#. qeZrM
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_SETFLD\n"
+"string.text"
+msgid "Set variable"
+msgstr "Ustaw zmienną"
+
+#. trfUS
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_GETFLD\n"
+"string.text"
+msgid "Show variable"
+msgstr "Pokaż zmienną"
+
+#. o2F9j
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_FORMELFLD\n"
+"string.text"
+msgid "Insert Formula"
+msgstr "Wstaw formułę"
+
+#. FmEg5
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_INPUTFLD\n"
+"string.text"
+msgid "Input field"
+msgstr "Pole wprowadzania"
+
+#. VYd6r
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_SETINPUTFLD\n"
+"string.text"
+msgid "Input field (variable)"
+msgstr "Pole wprowadzania (Zmienna)"
+
+#. HGKMa
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_USRINPUTFLD\n"
+"string.text"
+msgid "Input field (user)"
+msgstr "Pole wprowadzania (Użytkownik)"
+
+#. 3EcMC
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_CONDTXTFLD\n"
+"string.text"
+msgid "Conditional text"
+msgstr "Tekst warunkowy"
+
+#. EVYrY
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DDEFLD\n"
+"string.text"
+msgid "DDE field"
+msgstr "Pole DDE"
+
+#. RoDSe
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_MACROFLD\n"
+"string.text"
+msgid "Execute macro"
+msgstr "Wykonaj makro"
+
+#. GdMMR
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_SEQFLD\n"
+"string.text"
+msgid "Number range"
+msgstr "Sekwencja"
+
+#. jqPzR
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_SETREFPAGEFLD\n"
+"string.text"
+msgid "Set page variable"
+msgstr "Ustaw zmienną strony"
+
+#. a8XhG
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_GETREFPAGEFLD\n"
+"string.text"
+msgid "Show page variable"
+msgstr "Pokaż zmienną strony"
+
+#. BCAHz
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_INTERNETFLD\n"
+"string.text"
+msgid "Load URL"
+msgstr "Ładuj URL"
+
+#. gcwGu
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_JUMPEDITFLD\n"
+"string.text"
+msgid "Placeholder"
+msgstr "Pole wypełnienia"
+
+#. f7avj
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_COMBINED_CHARS\n"
+"string.text"
+msgid "Combine characters"
+msgstr "Połącz znaki"
+
+#. rM6nB
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DROPDOWN\n"
+"string.text"
+msgid "Input list"
+msgstr "Lista wprowadzania"
+
+#. A6nDq
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_SETREFFLD\n"
+"string.text"
+msgid "Set Reference"
+msgstr "Określ odwołanie"
+
+#. UHGfg
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_GETREFFLD\n"
+"string.text"
+msgid "Insert Reference"
+msgstr "Wstaw odwołanie"
+
+#. P8Q4F
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DBFLD\n"
+"string.text"
+msgid "Mail merge fields"
+msgstr "Pole listu seryjnego"
+
+#. uGvKr
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DBNEXTSETFLD\n"
+"string.text"
+msgid "Next record"
+msgstr "Następny rekord"
+
+#. QRmqK
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DBNUMSETFLD\n"
+"string.text"
+msgid "Any record"
+msgstr "Dowolny rekord"
+
+#. E92Zy
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DBSETNUMBERFLD\n"
+"string.text"
+msgid "Record number"
+msgstr "Numer rekordu"
+
+#. 3DQsA
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_PREVPAGEFLD\n"
+"string.text"
+msgid "Previous page"
+msgstr "Poprzednia strona"
+
+#. fqsYG
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_NEXTPAGEFLD\n"
+"string.text"
+msgid "Next page"
+msgstr "Następna strona"
+
+#. fVwaE
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_HIDDENTXTFLD\n"
+"string.text"
+msgid "Hidden text"
+msgstr "Ukryty tekst"
+
+#. aX5kc
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_USERFLD\n"
+"string.text"
+msgid "User Field"
+msgstr "Pole użytkownika"
+
+#. NV2z8
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_POSTITFLD\n"
+"string.text"
+msgid "Note"
+msgstr "Notatka"
+
+#. y99EG
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_SCRIPTFLD\n"
+"string.text"
+msgid "Script"
+msgstr "Skrypt"
+
+#. kDsd5
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_AUTHORITY\n"
+"string.text"
+msgid "Bibliography entry"
+msgstr "Pozycja bibliograficzna"
+
+#. hh3Wn
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_HIDDENPARAFLD\n"
+"string.text"
+msgid "Hidden Paragraph"
+msgstr "Ukryty akapit"
+
+#. ZUE8q
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DOCINFOFLD\n"
+"string.text"
+msgid "DocInformation"
+msgstr "Informacje o dokumencie"
+
+#. XBfEE
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_DATE_STD\n"
+"string.text"
+msgid "Date"
+msgstr "Data"
+
+#. Chy7f
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_DATE_FIX\n"
+"string.text"
+msgid "Date (fixed)"
+msgstr "Data (stała)"
+
+#. v3FE3
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_TIME_STD\n"
+"string.text"
+msgid "Time"
+msgstr "Godzina"
+
+#. MDMrc
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_TIME_FIX\n"
+"string.text"
+msgid "Time (fixed)"
+msgstr "Godzina (stała)"
+
+#. s3DBe
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_STAT_TABLE\n"
+"string.text"
+msgid "Tables"
+msgstr "Tabele"
+
+#. pmf84
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_STAT_CHAR\n"
+"string.text"
+msgid "Characters"
+msgstr "Znaki"
+
+#. 5nE8P
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_STAT_WORD\n"
+"string.text"
+msgid "Words"
+msgstr "Wyrazy"
+
+#. F7dFi
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_STAT_PARA\n"
+"string.text"
+msgid "Paragraphs"
+msgstr "Akapity"
+
+#. T8VrW
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_STAT_GRF\n"
+"string.text"
+msgid "Graphics"
+msgstr "Grafika"
+
+#. ZBFKm
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_STAT_OBJ\n"
+"string.text"
+msgid "Objects"
+msgstr "Obiekty"
+
+#. 2HUzF
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_STAT_PAGE\n"
+"string.text"
+msgid "Pages"
+msgstr "Strony"
+
+#. H7Qgq
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_DDE_HOT\n"
+"string.text"
+msgid "DDE automatic"
+msgstr "Automatycznie DDE"
+
+#. qGxXh
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_DDE_NORMAL\n"
+"string.text"
+msgid "DDE manual"
+msgstr "Ręcznie DDE"
+
+#. Coz4x
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_FIRMA\n"
+"string.text"
+msgid "Company"
+msgstr "Firma"
+
+#. ND4NP
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_VORNAME\n"
+"string.text"
+msgid "First Name"
+msgstr "Imię"
+
+#. S54Ga
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_NAME\n"
+"string.text"
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#. ckwvB
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_ABK\n"
+"string.text"
+msgid "Initials"
+msgstr "Inicjały"
+
+#. f6xMJ
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_STRASSE\n"
+"string.text"
+msgid "Street"
+msgstr "Ulica"
+
+#. pGCyN
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_LAND\n"
+"string.text"
+msgid "Country"
+msgstr "Kraj"
+
+#. BkhtM
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_PLZ\n"
+"string.text"
+msgid "Zip code"
+msgstr "Kod pocztowy"
+
+#. Dzw9E
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_ORT\n"
+"string.text"
+msgid "City"
+msgstr "Miejscowość"
+
+#. cbZMm
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_TITEL\n"
+"string.text"
+msgid "Title"
+msgstr "Tytuł"
+
+#. ypUEJ
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_POS\n"
+"string.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. LwybD
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_TELPRIV\n"
+"string.text"
+msgid "Tel. (Home)"
+msgstr "Telefon (dom)"
+
+#. aN3QY
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_TELFIRMA\n"
+"string.text"
+msgid "Tel. (Work)"
+msgstr "Telefon (praca)"
+
+#. EjHXz
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_FAX\n"
+"string.text"
+msgid "FAX"
+msgstr "Faks"
+
+#. RMBCr
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_EMAIL\n"
+"string.text"
+msgid "E-mail"
+msgstr "E-mail"
+
+#. 49PP9
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_EU_STATE\n"
+"string.text"
+msgid "State"
+msgstr "Województwo"
+
+#. 95ecT
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_PAGEREF_OFF\n"
+"string.text"
+msgid "off"
+msgstr "wyłącz"
+
+#. GCGVf
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FLD_PAGEREF_ON\n"
+"string.text"
+msgid "on"
+msgstr "włącz"
+
+#. i2Qq5
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_FF_NAME\n"
+"string.text"
+msgid "File name"
+msgstr "Nazwa pliku"
+
+#. KbwkP
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_FF_NAME_NOEXT\n"
+"string.text"
+msgid "File name without extension"
+msgstr "Nazwa pliku bez rozszerzenia"
+
+#. kAdAK
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_FF_PATHNAME\n"
+"string.text"
+msgid "Path/File name"
+msgstr "Ścieżka/Nazwa pliku"
+
+#. CvQUW
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_FF_PATH\n"
+"string.text"
+msgid "Path"
+msgstr "Ścieżka"
+
+#. A8EAh
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_FF_UI_NAME\n"
+"string.text"
+msgid "Style"
+msgstr "Styl"
+
+#. wsNmM
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_FF_UI_RANGE\n"
+"string.text"
+msgid "Category"
+msgstr "Kategoria"
+
+#. UBtEa
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_CHAPTER_NAME\n"
+"string.text"
+msgid "Chapter name"
+msgstr "Nazwa rozdziału"
+
+#. 8nAvb
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_CHAPTER_NO\n"
+"string.text"
+msgid "Chapter number"
+msgstr "Numer rozdziału"
+
+#. ANZEK
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_CHAPTER_NO_NOSEPARATOR\n"
+"string.text"
+msgid "Chapter number without separator"
+msgstr "Numer rozdziału bez separatora"
+
+#. 3P4Zi
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_CHAPTER_NAMENO\n"
+"string.text"
+msgid "Chapter number and name"
+msgstr "Numer i nazwa rozdziału"
+
+#. sCBGh
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_NUM_ROMAN\n"
+"string.text"
+msgid "Roman (I II III)"
+msgstr "Rzymskie (I II III)"
+
+#. qSJmN
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_NUM_SROMAN\n"
+"string.text"
+msgid "Roman (i ii iii)"
+msgstr "Rzymskie (i ii iii)"
+
+#. pLmrW
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_NUM_ARABIC\n"
+"string.text"
+msgid "Arabic (1 2 3)"
+msgstr "Arabskie (1 2 3)"
+
+#. UpA7o
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_NUM_PAGEDESC\n"
+"string.text"
+msgid "As Page Style"
+msgstr "Jako styl strony"
+
+#. BPrFB
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_NUM_PAGESPECIAL\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. zv93F
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_AUTHOR_NAME\n"
+"string.text"
+msgid "Name"
+msgstr "Nazwa"
+
+#. mbT4G
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_AUTHOR_SCUT\n"
+"string.text"
+msgid "Initials"
+msgstr "Inicjały"
+
+#. ELrZE
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_SETVAR_SYS\n"
+"string.text"
+msgid "System"
+msgstr "Systemowe"
+
+#. EHF5Y
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_SETVAR_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. WRspo
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_GETVAR_NAME\n"
+"string.text"
+msgid "Name"
+msgstr "Nazwa"
+
+#. VgW4R
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_GETVAR_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. GyuFg
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_USERVAR_CMD\n"
+"string.text"
+msgid "Formula"
+msgstr "Formuła"
+
+#. HKgPA
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_USERVAR_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. yAEfS
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_DBFLD_DB\n"
+"string.text"
+msgid "Database"
+msgstr "Baza danych"
+
+#. xESKy
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_DBFLD_SYS\n"
+"string.text"
+msgid "System"
+msgstr "Systemowe"
+
+#. wSbiv
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REG_AUTHOR\n"
+"string.text"
+msgid "Author"
+msgstr "Autor"
+
+#. LvSBS
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REG_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Godzina"
+
+#. b2A99
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REG_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Data"
+
+#. TcHBH
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_TEXT\n"
+"string.text"
+msgid "Reference"
+msgstr "Odwołanie"
+
+#. sDzjv
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_PAGE\n"
+"string.text"
+msgid "Page"
+msgstr "Strona"
+
+#. FGK4T
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_CHAPTER\n"
+"string.text"
+msgid "Chapter"
+msgstr "Rozdział"
+
+#. eT5de
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_UPDOWN\n"
+"string.text"
+msgid "Above/Below"
+msgstr "Powyżej/Poniżej"
+
+#. 6GxFX
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_PAGE_PGDSC\n"
+"string.text"
+msgid "As Page Style"
+msgstr "Jako styl strony"
+
+#. DcyER
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_ONLYNUMBER\n"
+"string.text"
+msgid "Category and Number"
+msgstr "Kategoria i numer"
+
+#. CLGAu
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_ONLYCAPTION\n"
+"string.text"
+msgid "Caption Text"
+msgstr "Tekst podpisu"
+
+#. tnjjd
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_ONLYSEQNO\n"
+"string.text"
+msgid "Numbering"
+msgstr "Numeracja"
+
+#. Uwozc
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_NUMBER\n"
+"string.text"
+msgid "Number"
+msgstr "Numer"
+
+#. AQXqG
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_NUMBER_NO_CONTEXT\n"
+"string.text"
+msgid "Number (no context)"
+msgstr "Numer (bez kontekstu)"
+
+#. CFwDM
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_REF_NUMBER_FULL_CONTEXT\n"
+"string.text"
+msgid "Number (full context)"
+msgstr "Numer (pełen kontekst)"
+
+#. 4eKqA
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_MARK_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. RPMYB
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_MARK_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tabela"
+
+#. TKjAv
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_MARK_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Ramka"
+
+#. EUEk9
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_MARK_GRAFIC\n"
+"string.text"
+msgid "Graphics"
+msgstr "Grafika"
+
+#. 89SXJ
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"FMT_MARK_OLE\n"
+"string.text"
+msgid "Object"
+msgstr "Obiekt"
+
+#. YUjvZ
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_ALL\n"
+"string.text"
+msgid "All"
+msgstr "Wszystko"
+
+#. 4MpJk
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_INSERT\n"
+"string.text"
+msgid "Insert"
+msgstr "Wstaw"
+
+#. pCMDp
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_COND\n"
+"string.text"
+msgid "~Condition"
+msgstr "W~arunek"
+
+#. rh3Hw
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_TEXT\n"
+"string.text"
+msgid "Then, Else"
+msgstr "Następnie, W przeciwnym razie"
+
+#. Eg9tu
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_DDE_CMD\n"
+"string.text"
+msgid "DDE Statement"
+msgstr "Instrukcja DDE"
+
+#. Kbhjt
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_INSTEXT\n"
+"string.text"
+msgid "Hidden t~ext"
+msgstr "Wstaw t~ekst"
+
+#. YkzNw
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_MACNAME\n"
+"string.text"
+msgid "~Macro name"
+msgstr "Nazwa ~makra"
+
+#. LnAbA
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_PROMPT\n"
+"string.text"
+msgid "~Reference"
+msgstr "~Odwołanie"
+
+#. qknkD
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_COMBCHRS_FT\n"
+"string.text"
+msgid "Ch~aracters"
+msgstr "Zn~aki"
+
+#. jjDmx
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_SETNO\n"
+"string.text"
+msgid "Record number"
+msgstr "Numer rekordu"
+
+#. 8Wzet
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_OFFSET\n"
+"string.text"
+msgid "O~ffset"
+msgstr "Prz~esunięcie"
+
+#. sF379
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_VALUE\n"
+"string.text"
+msgid "Value"
+msgstr "Wartość"
+
+#. YvMxg
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_FORMULA\n"
+"string.text"
+msgid "Formula"
+msgstr "Formuła"
+
+#. iraLB
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_URLPROMPT\n"
+"string.text"
+msgid "~URL"
+msgstr "Adres ~URL"
+
+#. JLJA8
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_ALL_DATABASE\n"
+"string.text"
+msgid "<All>"
+msgstr "<Wszystko>"
+
+#. AWAEE
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"PB_FLDEDT_ADDRESS\n"
+"pushbutton.text"
+msgid "Edit"
+msgstr "Edycja"
+
+#. ZdzfE
+#: fldui.src
+msgctxt ""
+"fldui.src\n"
+"STR_CUSTOM\n"
+"string.text"
+msgid "Custom"
+msgstr "Niestandardowe"
+
+#. sxG5R
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"FT_VARTYPE\n"
+"fixedtext.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. A8wGU
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"FT_VARSELECTION\n"
+"fixedtext.text"
+msgid "S~election"
+msgstr "~Wybór"
+
+#. C3X6E
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"FT_VARFORMAT\n"
+"fixedtext.text"
+msgid "Format"
+msgstr "Format"
+
+#. 7MTyG
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"CB_VARINVISIBLE\n"
+"checkbox.text"
+msgid "Invisi~ble"
+msgstr "Niewid~oczny"
+
+#. dk69V
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"FT_VARCHAPTERHEADER\n"
+"fixedtext.text"
+msgid "Numbering by chapter"
+msgstr "Numeracja według rozdziałów"
+
+#. sGVDD
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"FT_VARCHAPTERLEVEL\n"
+"fixedtext.text"
+msgid "~Level"
+msgstr "P~oziom"
+
+#. BUkWF
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR.LB_VARCHAPTERLEVEL\n"
+"1\n"
+"stringlist.text"
+msgid "None"
+msgstr "Brak"
+
+#. 5GJ89
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"FT_VARSEPARATOR\n"
+"fixedtext.text"
+msgid "~Separator"
+msgstr "~Separator"
+
+#. YLiM2
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"FT_VARNAME\n"
+"fixedtext.text"
+msgid "Na~me"
+msgstr "~Nazwa"
+
+#. brWnE
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"FT_VARVALUE\n"
+"fixedtext.text"
+msgid "~Value"
+msgstr "W~artość"
+
+#. wZy5J
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR.TBX_VARNEWDEL\n"
+"BT_VARAPPLY\n"
+"toolboxitem.text"
+msgid "Apply"
+msgstr "Zastosuj"
+
+#. wAxAG
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR.TBX_VARNEWDEL\n"
+"BT_VARDELETE\n"
+"toolboxitem.text"
+msgid "Delete"
+msgstr "Usuń"
+
+#. ADSHB
+#: fldvar.src
+msgctxt ""
+"fldvar.src\n"
+"TP_FLD_VAR\n"
+"tabpage.text"
+msgid "Variables"
+msgstr "Zmienne"
+
+#~ msgctxt ""
+#~ "DropDownFieldDialog.src\n"
+#~ "DLG_FLD_DROPDOWN\n"
+#~ "FL_ITEMS\n"
+#~ "fixedline.text"
+#~ msgid "Edit"
+#~ msgstr "Edycja"
+
+#~ msgctxt ""
+#~ "DropDownFieldDialog.src\n"
+#~ "DLG_FLD_DROPDOWN\n"
+#~ "PB_NEXT\n"
+#~ "pushbutton.text"
+#~ msgid "~Next"
+#~ msgstr "~Dalej"
+
+#~ msgctxt ""
+#~ "DropDownFieldDialog.src\n"
+#~ "DLG_FLD_DROPDOWN\n"
+#~ "PB_EDIT\n"
+#~ "pushbutton.text"
+#~ msgid "~Edit"
+#~ msgstr "~Edycja"
+
+#~ msgctxt ""
+#~ "DropDownFieldDialog.src\n"
+#~ "DLG_FLD_DROPDOWN\n"
+#~ "modaldialog.text"
+#~ msgid "Choose Item: "
+#~ msgstr "Wybierz element: "
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "FL_DBLIST\n"
+#~ "fixedline.text"
+#~ msgid "Exchange databases"
+#~ msgstr "Wymień bazy danych"
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "FT_USEDDB\n"
+#~ "fixedtext.text"
+#~ msgid "Databases in Use"
+#~ msgstr "Używane bazy danych"
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "FT_AVAILDB\n"
+#~ "fixedtext.text"
+#~ msgid "Available Databases"
+#~ msgstr "Dostępne bazy danych"
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "FT_DESC\n"
+#~ "fixedtext.text"
+#~ msgid ""
+#~ "Use this dialog to replace the databases you access in your document via database fields, with other databases. You can only make one change at a time. Multiple selection is possible in the list on the left.\n"
+#~ "Use the browse button to select a database file."
+#~ msgstr ""
+#~ "W tym oknie można zastąpić bazy danych, do których dostęp możliwy jest przez "
+#~ "pola bazy danych w dokumencie. Można dokonać tylko jednej zmiany na raz. "
+#~ "Wielokrotne zaznaczenie możliwe jest na liście z lewej strony.\n"
+#~ "Użyj przycisku Przeglądaj, aby wybrać plik bazy danych."
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "FT_DOCDBTEXT\n"
+#~ "fixedtext.text"
+#~ msgid "Database applied to document:"
+#~ msgstr "Baza zastosowana do dokumentu:"
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "FT_DOCDBNAME\n"
+#~ "fixedtext.text"
+#~ msgid "Addresses.Addresses"
+#~ msgstr "Adresy.Adresy"
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "BT_OK\n"
+#~ "okbutton.text"
+#~ msgid "Define"
+#~ msgstr "Definiuj"
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "BT_CANCEL\n"
+#~ "cancelbutton.text"
+#~ msgid "~Close"
+#~ msgstr "~Zamknij"
+
+#~ msgctxt ""
+#~ "changedb.src\n"
+#~ "DLG_CHANGE_DB\n"
+#~ "modaldialog.text"
+#~ msgid "Exchange Databases"
+#~ msgstr "Wymień bazy danych"
+
+#~ msgctxt ""
+#~ "inpdlg.src\n"
+#~ "DLG_FLD_INPUT\n"
+#~ "ED_LABEL\n"
+#~ "edit.text"
+#~ msgid "Input"
+#~ msgstr "Wejście"
+
+#~ msgctxt ""
+#~ "inpdlg.src\n"
+#~ "DLG_FLD_INPUT\n"
+#~ "FL_EDIT\n"
+#~ "fixedline.text"
+#~ msgid "Edit"
+#~ msgstr "Edycja"
+
+#~ msgctxt ""
+#~ "inpdlg.src\n"
+#~ "DLG_FLD_INPUT\n"
+#~ "PB_NEXT\n"
+#~ "pushbutton.text"
+#~ msgid "~Next"
+#~ msgstr "~Dalej"
+
+#~ msgctxt ""
+#~ "inpdlg.src\n"
+#~ "DLG_FLD_INPUT\n"
+#~ "modaldialog.text"
+#~ msgid "Input Field"
+#~ msgstr "Pole wprowadzania"
+
+#~ msgctxt ""
+#~ "javaedit.src\n"
+#~ "DLG_JAVAEDIT\n"
+#~ "FT_TYPE\n"
+#~ "fixedtext.text"
+#~ msgid "Script type"
+#~ msgstr "Typ skryptu"
+
+#~ msgctxt ""
+#~ "javaedit.src\n"
+#~ "DLG_JAVAEDIT\n"
+#~ "RB_URL\n"
+#~ "radiobutton.text"
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgctxt ""
+#~ "javaedit.src\n"
+#~ "DLG_JAVAEDIT\n"
+#~ "RB_EDIT\n"
+#~ "radiobutton.text"
+#~ msgid "~Text"
+#~ msgstr "~Tekst"
+
+#~ msgctxt ""
+#~ "javaedit.src\n"
+#~ "DLG_JAVAEDIT\n"
+#~ "FL_POSTIT\n"
+#~ "fixedline.text"
+#~ msgid "Contents"
+#~ msgstr "Zawartość"
+
+#~ msgctxt ""
+#~ "javaedit.src\n"
+#~ "DLG_JAVAEDIT\n"
+#~ "STR_JAVA_EDIT\n"
+#~ "string.text"
+#~ msgid "Edit Script"
+#~ msgstr "Edycja skryptu"
+
+#~ msgctxt ""
+#~ "javaedit.src\n"
+#~ "DLG_JAVAEDIT\n"
+#~ "STR_JAVA_INSERT\n"
+#~ "string.text"
+#~ msgid "Insert Script"
+#~ msgstr "Wstaw skrypt"
+
+#~ msgctxt ""
+#~ "javaedit.src\n"
+#~ "DLG_JAVAEDIT\n"
+#~ "modaldialog.text"
+#~ msgid "Edit Script"
+#~ msgstr "Edycja skryptu"

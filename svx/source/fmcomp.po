@@ -1,0 +1,238 @@
+#. extracted from svx/source/fmcomp
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2011-04-06 01:35+0200\n"
+"Last-Translator: marcinz <marcinzb@interia.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#. uj7WN
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_ROWS\n"
+"SID_FM_DELETEROWS\n"
+"menuitem.text"
+msgid "Delete Rows"
+msgstr "Usuń wiersze"
+
+#. 3VqDE
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_ROWS\n"
+"SID_FM_RECORD_SAVE\n"
+"menuitem.text"
+msgid "Save Record"
+msgstr "Zapisz rekord"
+
+#. McDGg
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_ROWS\n"
+"SID_FM_RECORD_UNDO\n"
+"menuitem.text"
+msgid "Undo: Data entry"
+msgstr "Cofnij: Wprowadzanie danych"
+
+#. 8ZuEA
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_EDIT\n"
+"menuitem.text"
+msgid "Text Box"
+msgstr "Pole tekstowe"
+
+#. Eb8S4
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_CHECKBOX\n"
+"menuitem.text"
+msgid "Check Box"
+msgstr "Pole wyboru"
+
+#. 6BX2A
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_COMBOBOX\n"
+"menuitem.text"
+msgid "Combo Box"
+msgstr "Pole kombi"
+
+#. GYqNh
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_LISTBOX\n"
+"menuitem.text"
+msgid "List Box"
+msgstr "Pole listy"
+
+#. HcRZT
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_DATEFIELD\n"
+"menuitem.text"
+msgid "Date Field"
+msgstr "Pole daty"
+
+#. K6FF5
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_TIMEFIELD\n"
+"menuitem.text"
+msgid "Time Field"
+msgstr "Pole godziny"
+
+#. Ghb5d
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_NUMERICFIELD\n"
+"menuitem.text"
+msgid "Numeric Field"
+msgstr "Pole liczbowe"
+
+#. aBTEA
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_CURRENCYFIELD\n"
+"menuitem.text"
+msgid "Currency Field"
+msgstr "Pole walutowe"
+
+#. m2gcY
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_PATTERNFIELD\n"
+"menuitem.text"
+msgid "Pattern Field"
+msgstr "Pole wzorca"
+
+#. CjVCK
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_FORMATTEDFIELD\n"
+"menuitem.text"
+msgid "Formatted Field"
+msgstr "Pole formatowane"
+
+#. sheVK
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_INSERTCOL\n"
+"SID_FM_TWOFIELDS_DATE_N_TIME\n"
+"menuitem.text"
+msgid "Date and Time Field"
+msgstr "Pole daty i godziny"
+
+#. jCkbc
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS\n"
+"SID_FM_INSERTCOL\n"
+"menuitem.text"
+msgid "Insert ~Column"
+msgstr "Wstaw ~kolumnę"
+
+#. ZEsiy
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS\n"
+"SID_FM_CHANGECOL\n"
+"menuitem.text"
+msgid "~Replace with"
+msgstr "~Zamień na"
+
+#. 9txPK
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS\n"
+"SID_FM_DELETECOL\n"
+"menuitem.text"
+msgid "Delete Column"
+msgstr "Usuń kolumnę"
+
+#. yE5TC
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS\n"
+"SID_FM_HIDECOL\n"
+"menuitem.text"
+msgid "~Hide Column"
+msgstr "~Ukryj kolumnę"
+
+#. RdZxF
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_SHOWCOLS\n"
+"SID_FM_SHOWCOLS_MORE\n"
+"menuitem.text"
+msgid "~More..."
+msgstr "~Więcej..."
+
+#. KhcdJ
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS.SID_FM_SHOWCOLS\n"
+"SID_FM_SHOWALLCOLS\n"
+"menuitem.text"
+msgid "~All"
+msgstr "~Wszystko"
+
+#. Fo5F5
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS\n"
+"SID_FM_SHOWCOLS\n"
+"menuitem.text"
+msgid "~Show Columns"
+msgstr "~Pokaż kolumny"
+
+#. Kunci
+#: gridctrl.src
+msgctxt ""
+"gridctrl.src\n"
+"RID_SVXMNU_COLS\n"
+"SID_FM_SHOW_PROPERTY_BROWSER\n"
+"menuitem.text"
+msgid "Column..."
+msgstr "Kolumna..."

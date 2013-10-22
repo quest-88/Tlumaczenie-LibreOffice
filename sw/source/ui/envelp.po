@@ -1,0 +1,1554 @@
+#. extracted from sw/source/ui/envelp
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2013-05-25 09:50+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1369475409.0\n"
+
+#. h5G22
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_DATABASE_NOT_OPENED\n"
+"string.text"
+msgid "Database could not be opened."
+msgstr "Nie można otworzyć bazy danych."
+
+#. tE73J
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_NO_DRIVERS\n"
+"string.text"
+msgid "No database drivers installed."
+msgstr "Nie są zainstalowane żadne sterowniki bazy danych."
+
+#. aTaNf
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_BTN_NEW_DOC\n"
+"string.text"
+msgid "~New Document"
+msgstr "~Nowy dokument"
+
+#. yZ7RZ
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_BTN_NEWDOC\n"
+"string.text"
+msgid "~New Doc."
+msgstr "~Nowy dokument"
+
+#. PiuFM
+#: envelp.src
+msgctxt ""
+"envelp.src\n"
+"STR_SENDER_TOKENS\n"
+"string.text"
+msgid "COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
+msgstr ""
+"COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; "
+";POSTALCODE;CR;COUNTRY;CR;"
+
+#. bNH7V
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"FL_ADDRESSEE\n"
+"fixedline.text"
+msgid "Addressee"
+msgstr "Odbiorca"
+
+#. bJAnu
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_ADDR_POS\n"
+"fixedtext.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. snCMt
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_ADDR_LEFT\n"
+"fixedtext.text"
+msgid "from left"
+msgstr "od lewej"
+
+#. DKhYj
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_ADDR_TOP\n"
+"fixedtext.text"
+msgid "from top"
+msgstr "od góry"
+
+#. DgsVF
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_ADDR_FORMAT\n"
+"fixedtext.text"
+msgid "Format"
+msgstr "Format"
+
+#. caat4
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"BTN_ADDR_EDIT\n"
+"menubutton.text"
+msgid "Edit"
+msgstr "Edycja"
+
+#. rvDMS
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"FL_SENDER\n"
+"fixedline.text"
+msgid "Sender"
+msgstr "Nadawca"
+
+#. DaqCW
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_SEND_POS\n"
+"fixedtext.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. xuTbE
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_SEND_LEFT\n"
+"fixedtext.text"
+msgid "from left"
+msgstr "od lewej"
+
+#. bbBKg
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_SEND_TOP\n"
+"fixedtext.text"
+msgid "from top"
+msgstr "od góry"
+
+#. kN2WD
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_SEND_FORMAT\n"
+"fixedtext.text"
+msgid "Format"
+msgstr "Format"
+
+#. Eprww
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"BTN_SEND_EDIT\n"
+"menubutton.text"
+msgid "Edit"
+msgstr "Edycja"
+
+#. W8Dok
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"FL_SIZE\n"
+"fixedline.text"
+msgid "Size"
+msgstr "Rozmiar"
+
+#. CECFu
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_SIZE_FORMAT\n"
+"fixedtext.text"
+msgid "F~ormat"
+msgstr "F~ormat"
+
+#. nrcxD
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_SIZE_WIDTH\n"
+"fixedtext.text"
+msgid "~Width"
+msgstr "S~zerokość"
+
+#. TEKax
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"TP_ENV_FMT\n"
+"TXT_SIZE_HEIGHT\n"
+"fixedtext.text"
+msgid "~Height"
+msgstr "~Wysokość"
+
+#. ZTR29
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"MNU_EDIT\n"
+"MID_CHAR\n"
+"menuitem.text"
+msgid "C~haracter..."
+msgstr "Z~nak..."
+
+#. Tc8JK
+#: envfmt.src
+msgctxt ""
+"envfmt.src\n"
+"MNU_EDIT\n"
+"MID_PARA\n"
+"menuitem.text"
+msgid "P~aragraph..."
+msgstr "~Akapit..."
+
+#. jPWfo
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"DLG_ENV.1\n"
+"TP_ENV_ENV\n"
+"pageitem.text"
+msgid "Envelope"
+msgstr "Koperta"
+
+#. D3MdA
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"DLG_ENV.1\n"
+"TP_ENV_FMT\n"
+"pageitem.text"
+msgid "Format"
+msgstr "Format"
+
+#. 5ZP8r
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"DLG_ENV.1\n"
+"TP_ENV_PRT\n"
+"pageitem.text"
+msgid "Printer"
+msgstr "Drukarka"
+
+#. LpXZt
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"DLG_ENV\n"
+"ST_INSERT\n"
+"string.text"
+msgid "~Insert"
+msgstr "W~staw"
+
+#. xcH9F
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"DLG_ENV\n"
+"ST_CHANGE\n"
+"string.text"
+msgid "~Modify"
+msgstr "~Modyfikuj"
+
+#. FZPgb
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"DLG_ENV\n"
+"tabdialog.text"
+msgid "Envelope"
+msgstr "Koperta"
+
+#. tSoY5
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"TP_ENV_ENV\n"
+"TXT_ADDR\n"
+"fixedtext.text"
+msgid "Addr~essee"
+msgstr "~Odbiorca"
+
+#. JyteF
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"TP_ENV_ENV\n"
+"FT_DATABASE\n"
+"fixedtext.text"
+msgid "Database"
+msgstr "Baza danych"
+
+#. 9vYYe
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"TP_ENV_ENV\n"
+"FT_TABLE\n"
+"fixedtext.text"
+msgid "Table"
+msgstr "Tabela"
+
+#. uddFW
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"TP_ENV_ENV\n"
+"FT_DBFIELD\n"
+"fixedtext.text"
+msgid "~Database field"
+msgstr "Pole bazy ~danych"
+
+#. uFv6e
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"TP_ENV_ENV\n"
+"BOX_SEND\n"
+"checkbox.text"
+msgid "~Sender"
+msgstr "N~adawca"
+
+#. KQhtG
+#: envlop.src
+msgctxt ""
+"envlop.src\n"
+"STR_DOC_TITLE\n"
+"string.text"
+msgid "Envelope"
+msgstr "Koperta"
+
+#. Lt5CV
+#: envprt.src
+msgctxt ""
+"envprt.src\n"
+"TP_ENV_PRT\n"
+"FL_NONAME\n"
+"fixedline.text"
+msgid "Envelope orientation"
+msgstr "Orientacja koperty"
+
+#. GK9z8
+#: envprt.src
+msgctxt ""
+"envprt.src\n"
+"TP_ENV_PRT\n"
+"BTN_TOP\n"
+"radiobutton.text"
+msgid "~Print from top"
+msgstr "~Drukuj od góry"
+
+#. qxGPV
+#: envprt.src
+msgctxt ""
+"envprt.src\n"
+"TP_ENV_PRT\n"
+"BTN_BOTTOM\n"
+"radiobutton.text"
+msgid "Print from ~bottom"
+msgstr "Drukuj od doł~u"
+
+#. DrAkR
+#: envprt.src
+msgctxt ""
+"envprt.src\n"
+"TP_ENV_PRT\n"
+"TXT_RIGHT\n"
+"fixedtext.text"
+msgid "~Shift right"
+msgstr "Prze~suń w prawo"
+
+#. Vi6hw
+#: envprt.src
+msgctxt ""
+"envprt.src\n"
+"TP_ENV_PRT\n"
+"TXT_DOWN\n"
+"fixedtext.text"
+msgid "Shift ~down"
+msgstr "Przesuń w ~dół"
+
+#. qnQ4H
+#: envprt.src
+msgctxt ""
+"envprt.src\n"
+"TP_ENV_PRT\n"
+"FL_PRINTER\n"
+"fixedline.text"
+msgid "Current printer"
+msgstr "Bieżąca drukarka"
+
+#. TwHDx
+#: envprt.src
+msgctxt ""
+"envprt.src\n"
+"TP_ENV_PRT\n"
+"TXT_PRINTER\n"
+"fixedtext.text"
+msgid "- No printer installed -"
+msgstr "- Drukarka nie jest zainstalowana -"
+
+#. XLUBA
+#: envprt.src
+msgctxt ""
+"envprt.src\n"
+"TP_ENV_PRT\n"
+"BTN_PRTSETUP\n"
+"pushbutton.text"
+msgid "Setup..."
+msgstr "Konfiguruj..."
+
+#. KCKE9
+#: label.src
+msgctxt ""
+"label.src\n"
+"LABEL_STRING\n"
+"#define.text"
+msgid "Labels"
+msgstr "Etykiety"
+
+#. xcZoQ
+#: label.src
+msgctxt ""
+"label.src\n"
+"BUSINESS_CARD_STRING\n"
+"#define.text"
+msgid "Business Cards"
+msgstr "Wizytówki"
+
+#. AwhFY
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_LAB.1\n"
+"TP_PRIVATE_DATA\n"
+"pageitem.text"
+msgid "Private"
+msgstr "Prywatne"
+
+#. vXQcU
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_LAB.1\n"
+"TP_BUSINESS_DATA\n"
+"pageitem.text"
+msgid "Business"
+msgstr "Służbowe"
+
+#. EYbav
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_LAB.1\n"
+"TP_LAB_FMT\n"
+"pageitem.text"
+msgid "Format"
+msgstr "Format"
+
+#. jv7fC
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_LAB.1\n"
+"TP_LAB_PRT\n"
+"pageitem.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. qA8W3
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_LAB\n"
+"ST_FIRSTPAGE_BC\n"
+"string.text"
+msgid "Medium"
+msgstr "Nośnik"
+
+#. v685p
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"TXT_WRITING\n"
+"fixedtext.text"
+msgid "Label text"
+msgstr "Tekst etykiety"
+
+#. 58DvJ
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"BOX_ADDR\n"
+"checkbox.text"
+msgid "Address"
+msgstr "Adres"
+
+#. mV3tX
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"FT_DATABASE\n"
+"fixedtext.text"
+msgid "Database"
+msgstr "Baza danych"
+
+#. mCfam
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"FT_TABLE\n"
+"fixedtext.text"
+msgid "Table"
+msgstr "Tabela"
+
+#. HEhT3
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"FT_DBFIELD\n"
+"fixedtext.text"
+msgid "Database field"
+msgstr "Pole bazy danych"
+
+#. 9qE7g
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"FL_WRITING\n"
+"fixedline.text"
+msgid "Inscription"
+msgstr "Napis"
+
+#. MmfXS
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"BTN_CONT\n"
+"radiobutton.text"
+msgid "~Continuous"
+msgstr "~Ciągły"
+
+#. rEj5W
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"BTN_SHEET\n"
+"radiobutton.text"
+msgid "~Sheet"
+msgstr "Arku~sz"
+
+#. g2htV
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"TXT_MAKE\n"
+"fixedtext.text"
+msgid "Brand"
+msgstr "Marka"
+
+#. RQ3Va
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"TXT_TYPE\n"
+"fixedtext.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. JmMyj
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_LAB_LAB\n"
+"FL_FORMAT\n"
+"fixedline.text"
+msgid "Format"
+msgstr "Format"
+
+#. m5SZV
+#: label.src
+msgctxt ""
+"label.src\n"
+"DLG_SYNC_BTN\n"
+"BTN_SYNC\n"
+"pushbutton.text"
+msgid "Synchronize Labels"
+msgstr "Synchronizuj etykiety"
+
+#. CFwnL
+#: label.src
+msgctxt ""
+"label.src\n"
+"STR_DOC_TITLE\n"
+"string.text"
+msgid "Labels"
+msgstr "Etykiety"
+
+#. exLEP
+#: label.src
+msgctxt ""
+"label.src\n"
+"STR_CUSTOM\n"
+"string.text"
+msgid "[User]"
+msgstr "[Użytkownik]"
+
+#. 5GhRn
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_VISITING_CARDS\n"
+"FT_AUTO_TEXT_GROUP\n"
+"fixedtext.text"
+msgid "AutoText - Section"
+msgstr "Autotekst - Sekcja"
+
+#. rNGXB
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_VISITING_CARDS\n"
+"FL_CONTENT\n"
+"fixedline.text"
+msgid "Content"
+msgstr "Zawartość"
+
+#. 5BqGP
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FL_DATA\n"
+"fixedline.text"
+msgid "Private data"
+msgstr "Dane prywatne"
+
+#. CGQzf
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_NAME\n"
+"fixedtext.text"
+msgid "First/Last ~name/Initials"
+msgstr "Imię/~Nazwisko/Inicjały"
+
+#. Rbodx
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_NAME_2\n"
+"fixedtext.text"
+msgid "First/Last ~name/Initials 2"
+msgstr "Imię/~Nazwisko/Inicjały 2"
+
+#. DZhZd
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_STREET\n"
+"fixedtext.text"
+msgid "S~treet"
+msgstr "~Ulica"
+
+#. f9K3x
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_ZIPCITY\n"
+"fixedtext.text"
+msgid "Zip/Cit~y"
+msgstr "Kod pocztow~y/Miejscowość"
+
+#. uNazR
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_COUNTRYSTATE\n"
+"fixedtext.text"
+msgid "Co~untry/State"
+msgstr "~Kraj/województwo"
+
+#. VYGzC
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_TITLEPROF\n"
+"fixedtext.text"
+msgid "Title/~Profession"
+msgstr "Tytuł/~Zawód"
+
+#. KCLe3
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_PHONE_MOBILE\n"
+"fixedtext.text"
+msgid "Phone/Mobile"
+msgstr "Telefon/Komórka"
+
+#. tAsGG
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_FAX\n"
+"fixedtext.text"
+msgid "Fa~x"
+msgstr "~Faks"
+
+#. zPVaz
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_PRIVATE_DATA\n"
+"FT_WWWMAIL\n"
+"fixedtext.text"
+msgid "Homepage / e-mail"
+msgstr "Strona www/e-mail"
+
+#. NXzeZ
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FL_DATA\n"
+"fixedline.text"
+msgid "Business data"
+msgstr "Dane służbowe"
+
+#. p5WdB
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_COMP\n"
+"fixedtext.text"
+msgid "Company"
+msgstr "Firma"
+
+#. DgtqM
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_COMP_EXT\n"
+"fixedtext.text"
+msgid "Company 2nd line"
+msgstr "Firma 2. wiersz"
+
+#. PeSrA
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_SLOGAN\n"
+"fixedtext.text"
+msgid "Slogan"
+msgstr "Slogan"
+
+#. AKLEX
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_STREET\n"
+"fixedtext.text"
+msgid "Street"
+msgstr "Ulica"
+
+#. bqfD8
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_ZIPCITY\n"
+"fixedtext.text"
+msgid "ZIP/City"
+msgstr "Kod pocztowy/Miejscowość"
+
+#. HGEGn
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_COUNTRYSTATE\n"
+"fixedtext.text"
+msgid "Country/State"
+msgstr "Kraj/Województwo"
+
+#. hQCvB
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_POSITION\n"
+"fixedtext.text"
+msgid "Position"
+msgstr "Pozycja"
+
+#. JMxVy
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_PHONE_MOBILE\n"
+"fixedtext.text"
+msgid "Phone/Mobile"
+msgstr "Telefon/Komórka"
+
+#. NDkmv
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_FAX\n"
+"fixedtext.text"
+msgid "Fax"
+msgstr "Faks"
+
+#. 6uUCq
+#: label.src
+msgctxt ""
+"label.src\n"
+"TP_BUSINESS_DATA\n"
+"FT_WWWMAIL\n"
+"fixedtext.text"
+msgid "Ho~mepage / e-mail"
+msgstr "Strona ~www/e-mail"
+
+#. ppDKC
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_HDIST\n"
+"fixedtext.text"
+msgid "Hori~zontal pitch"
+msgstr "~Odstęp poziomy"
+
+#. fidQZ
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_VDIST\n"
+"fixedtext.text"
+msgid "~Vertical pitch"
+msgstr "Odstęp ~pionowy"
+
+#. Nv34D
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_WIDTH\n"
+"fixedtext.text"
+msgid "~Width"
+msgstr "S~zerokość"
+
+#. C5mis
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_HEIGHT\n"
+"fixedtext.text"
+msgid "~Height"
+msgstr "~Wysokość"
+
+#. bcsBV
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_LEFT\n"
+"fixedtext.text"
+msgid "~Left margin"
+msgstr "~Lewy margines"
+
+#. gi9ZQ
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_UPPER\n"
+"fixedtext.text"
+msgid "~Top margin"
+msgstr "Margines ~górny"
+
+#. L8Aid
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_COLUMNS\n"
+"fixedtext.text"
+msgid "~Columns"
+msgstr "~Kolumny"
+
+#. uRdEy
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_ROWS\n"
+"fixedtext.text"
+msgid "R~ows"
+msgstr "Wi~ersze"
+
+#. TCeL8
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_PWIDTH\n"
+"fixedtext.text"
+msgid "P~age Width"
+msgstr "Sz~erokość strony"
+
+#. RJ6Ce
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"TXT_PHEIGHT\n"
+"fixedtext.text"
+msgid "Pa~ge Height"
+msgstr "Wyso~kość strony"
+
+#. RtycB
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"TP_LAB_FMT\n"
+"PB_SAVE\n"
+"pushbutton.text"
+msgid "~Save..."
+msgstr "Zapi~sz..."
+
+#. ZZfBr
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HDIST\n"
+"string.text"
+msgid "H. Pitch"
+msgstr "Odstęp poziomy"
+
+#. UwECG
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_VDIST\n"
+"string.text"
+msgid "V. Pitch"
+msgstr "Odstęp pionowy"
+
+#. 8E9w2
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "Szerokość"
+
+#. gGb92
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "Wysokość"
+
+#. AiWYE
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_LEFT\n"
+"string.text"
+msgid "Left margin"
+msgstr "Lewy margines"
+
+#. ocejE
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_UPPER\n"
+"string.text"
+msgid "Top margin"
+msgstr "Górny margines"
+
+#. MiEZp
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_COLS\n"
+"string.text"
+msgid "Columns"
+msgstr "Kolumny"
+
+#. FxWqU
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_ROWS\n"
+"string.text"
+msgid "Rows"
+msgstr "Wiersze"
+
+#. RgDFa
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PWIDTH\n"
+"string.text"
+msgid "Page Width"
+msgstr "Szerokość strony"
+
+#. BhJCH
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"STR_PHEIGHT\n"
+"string.text"
+msgid "Page Height"
+msgstr "Wysokość strony"
+
+#. hguYg
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"WB_PREDEFINED_LABEL\n"
+"warningbox.text"
+msgid "Predefined labels cannot be overwritten, use another name."
+msgstr ""
+"Wstępnie zdefiniowane etykiety nie mogą zostać nadpisane, użyj innej nazwy."
+
+#. dnGTT
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"DLG_SAVE_LABEL\n"
+"FT_MAKE\n"
+"fixedtext.text"
+msgid "Brand"
+msgstr "Marka"
+
+#. 69NZg
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"DLG_SAVE_LABEL\n"
+"FT_TYPE\n"
+"fixedtext.text"
+msgid "T~ype"
+msgstr "T~yp"
+
+#. kZNBF
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"DLG_SAVE_LABEL\n"
+"FL_OPTIONS\n"
+"fixedline.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. spUAV
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"DLG_SAVE_LABEL\n"
+"MB_QUERY\n"
+"querybox.text"
+msgid ""
+"The label \"%1 / %2\" already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"Etykieta \"%1 / %2\" już istnieje.\n"
+"Czy ją zastąpić?"
+
+#. 46ByQ
+#: labfmt.src
+msgctxt ""
+"labfmt.src\n"
+"DLG_SAVE_LABEL\n"
+"modaldialog.text"
+msgid "Save Label Format"
+msgstr "Zapisz format etykiety"
+
+#. hCtDG
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"BTN_PAGE\n"
+"radiobutton.text"
+msgid "~Entire page"
+msgstr "~Cała strona"
+
+#. NPGAG
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"BTN_SINGLE\n"
+"radiobutton.text"
+msgid "~Single label"
+msgstr "~Pojedyncza etykieta"
+
+#. cXdV5
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"TXT_COL\n"
+"fixedtext.text"
+msgid "Colu~mn"
+msgstr "Kolu~mna"
+
+#. Z8WyP
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"TXT_ROW\n"
+"fixedtext.text"
+msgid "Ro~w"
+msgstr "~Wiersz"
+
+#. KEcw4
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"CB_SYNCHRON\n"
+"checkbox.text"
+msgid "Synchroni~ze contents"
+msgstr "Synchroni~zuj zawartość"
+
+#. qxYCb
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"FL_DONTKNOW\n"
+"fixedline.text"
+msgid "Distribute"
+msgstr "Rozmieść"
+
+#. nnCWG
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"INF_PRINTER\n"
+"fixedtext.text"
+msgid "Printer Name"
+msgstr "Nazwa drukarki"
+
+#. 3BiAS
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"BTN_PRTSETUP\n"
+"pushbutton.text"
+msgid "Setup..."
+msgstr "Konfiguruj..."
+
+#. 8CF4V
+#: labprt.src
+msgctxt ""
+"labprt.src\n"
+"TP_LAB_PRT\n"
+"FL_PRINTER\n"
+"fixedline.text"
+msgid " Printer "
+msgstr " Drukarka "
+
+#. wCBMB
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"_MAIL_MERGE_STRING_\n"
+"#define.text"
+msgid "Mail Merge"
+msgstr "Korespondencja seryjna"
+
+#. rKLD4
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_ALL\n"
+"radiobutton.text"
+msgid "~All"
+msgstr "~Wszystko"
+
+#. Eq7MF
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MARKED\n"
+"radiobutton.text"
+msgid "~Selected records"
+msgstr "~Zaznaczone rekordy"
+
+#. wAy45
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FROM\n"
+"radiobutton.text"
+msgid "~From:"
+msgstr "~Od:"
+
+#. HyqrK
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_BIS\n"
+"fixedtext.text"
+msgid "~To:"
+msgstr "~Do:"
+
+#. QPZrw
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_RECORD\n"
+"fixedline.text"
+msgid "Records"
+msgstr "Rekordy"
+
+#. ZMhzT
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_PRINTER\n"
+"radiobutton.text"
+msgid "~Printer"
+msgstr "D~rukarka"
+
+#. kaCRY
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_MAILING\n"
+"radiobutton.text"
+msgid "~Electronic"
+msgstr "~Elektronicznie"
+
+#. AGPuC
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_FILE\n"
+"radiobutton.text"
+msgid "File"
+msgstr "Plik"
+
+#. LCEqw
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_SINGLE_JOBS\n"
+"checkbox.text"
+msgid "~Single print jobs"
+msgstr "Pojedyn~cze zadania wydruku"
+
+#. GMVsC
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_SAVE_MERGED_DOCUMENT\n"
+"fixedline.text"
+msgid "Save merged document"
+msgstr "Zapisz dokumenty wynikowe"
+
+#. AKk9t
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_SINGLE_DOC\n"
+"radiobutton.text"
+msgid "S~ave as single document"
+msgstr "Zapi~sz jako jeden dokument"
+
+#. HeZ7s
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_SAVE_INDIVIDUAL\n"
+"radiobutton.text"
+msgid "Sa~ve as individual documents"
+msgstr "Zapi~sz jako indywidualny dokument"
+
+#. rwpE4
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"RB_GENERATE_FROM_DATABASE\n"
+"checkbox.text"
+msgid "Generate file name from ~Database"
+msgstr "Generuj nazwę pliku z Bazy ~danych"
+
+#. dwApU
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_COLUMN\n"
+"fixedtext.text"
+msgid "Field"
+msgstr "Pole"
+
+#. s527w
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_PATH\n"
+"fixedtext.text"
+msgid "~Path"
+msgstr "Ś~cieżka"
+
+#. DjqSv
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FILTER\n"
+"fixedtext.text"
+msgid "F~ile format"
+msgstr "Format pl~iku"
+
+#. LAr68
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_SUBJECT\n"
+"fixedtext.text"
+msgid "~Subject"
+msgstr "~Temat"
+
+#. Fkd85
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_ATTACH\n"
+"fixedtext.text"
+msgid "Attachments"
+msgstr "Załączniki"
+
+#. AZ4SY
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FT_FORMAT\n"
+"fixedtext.text"
+msgid "Mail Format"
+msgstr "Format poczty elektr."
+
+#. Tgaxw
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_HTML\n"
+"checkbox.text"
+msgid "HTM~L"
+msgstr "HTM~L"
+
+#. BHK8v
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_RTF\n"
+"checkbox.text"
+msgid "RT~F"
+msgstr "RT~F"
+
+#. 7NGmB
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"CB_FORMAT_SW\n"
+"checkbox.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME Writer"
+
+#. GjGJK
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MAILMERGE\n"
+"FL_DEST\n"
+"fixedline.text"
+msgid "Output"
+msgstr "Wyjście"
+
+#. GUuiB
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MERGE_CREATE\n"
+"FL_CREATEFROM\n"
+"fixedline.text"
+msgid "Create"
+msgstr "Utwórz"
+
+#. TTtJH
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MERGE_CREATE\n"
+"RB_THISDOC\n"
+"radiobutton.text"
+msgid "From this ~document"
+msgstr "Użyj bieżącego ~dokumentu"
+
+#. BGZgB
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MERGE_CREATE\n"
+"RB_TEMPLATE\n"
+"radiobutton.text"
+msgid "From a ~template"
+msgstr "~Użyj szablonu"
+
+#. R9fVx
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MERGE_FIELD_CONNECTIONS\n"
+"FL_CONNECTIONS\n"
+"fixedline.text"
+msgid "Connect"
+msgstr "Połącz"
+
+#. iYAAR
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MERGE_FIELD_CONNECTIONS\n"
+"RB_USEEXISTING\n"
+"radiobutton.text"
+msgid "~Use existing"
+msgstr "~Użyj istniejącego"
+
+#. fQkxo
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MERGE_FIELD_CONNECTIONS\n"
+"RB_CREATENEW\n"
+"radiobutton.text"
+msgid "~Create new connection"
+msgstr "Utwórz nowe połą~czenie"
+
+#. FfFi8
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MERGE_FIELD_CONNECTIONS\n"
+"FT_INFO\n"
+"fixedtext.text"
+msgid "Fields are used to personalize form letters. The fields are placeholders for data from a data source, such as a database. The fields in the form letter must be connected to the data source."
+msgstr ""
+"Pola są używane w celu personalizacji listów seryjnych. W miejsce pól "
+"podstawiane są dane ze źródła danych, np. z bazy danych. Pola w liście "
+"seryjnym muszą być połączone ze źródłem danych."
+
+#. XC4Wb
+#: mailmrge.src
+msgctxt ""
+"mailmrge.src\n"
+"DLG_MERGE_FIELD_CONNECTIONS\n"
+"modaldialog.text"
+msgid "Data Source Connection"
+msgstr "Połączenie ze źródłem danych"

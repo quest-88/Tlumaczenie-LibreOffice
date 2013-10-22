@@ -1,0 +1,4480 @@
+#. extracted from starmath/source
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2013-05-27 15:29+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1369668584.0\n"
+
+#. fpRWC
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_UNBINOPS_MENU\n"
+"menuitem.text"
+msgid "~Unary/Binary Operators"
+msgstr "Operatory ~jedno- lub dwuargumentowe"
+
+#. 3jHBx
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_RELATIONS_MENU\n"
+"menuitem.text"
+msgid "~Relations"
+msgstr "~Relacje"
+
+#. dEWRo
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_SETOPERATIONS_MENU\n"
+"menuitem.text"
+msgid "~Set Operations"
+msgstr "~Operacje na zbiorach"
+
+#. NUWFA
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU.RID_FUNCTIONS_MENU\n"
+"RID_FUNCTIONSOTHER1_MENU\n"
+"menuitem.text"
+msgid "More"
+msgstr "Więcej"
+
+#. Pg7sF
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_FUNCTIONS_MENU\n"
+"menuitem.text"
+msgid "~Functions"
+msgstr "~Funkcje"
+
+#. hNAHH
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_OPERATORS_MENU\n"
+"menuitem.text"
+msgid "O~perators"
+msgstr "O~peratory"
+
+#. mq97F
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_ATTRIBUTES_MENU\n"
+"menuitem.text"
+msgid "~Attributes"
+msgstr "~Atrybuty"
+
+#. duxY2
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_BRACKETS_MENU\n"
+"menuitem.text"
+msgid "~Brackets"
+msgstr "~Nawiasy"
+
+#. ch8Jy
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU.RID_FORMAT_MENU\n"
+"RID_NEWLINE\n"
+"menuitem.text"
+msgid "New Line"
+msgstr "Nowy wiersz"
+
+#. WGb3s
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU.RID_FORMAT_MENU\n"
+"RID_SBLANK\n"
+"menuitem.text"
+msgid "Small Gap"
+msgstr "Mały odstęp"
+
+#. vVdN4
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU.RID_FORMAT_MENU\n"
+"RID_BLANK\n"
+"menuitem.text"
+msgid "Gap"
+msgstr "Odstęp"
+
+#. s8uNx
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU.RID_FORMAT_MENU\n"
+"RID_NOSPACE\n"
+"menuitem.text"
+msgid "nospace {...}"
+msgstr "brak odstępu {...}"
+
+#. LP5pw
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_FORMAT_MENU\n"
+"menuitem.text"
+msgid "For~mats"
+msgstr "For~maty"
+
+#. KAFCF
+#: commands.src
+msgctxt ""
+"commands.src\n"
+"RID_COMMANDMENU\n"
+"RID_MISC_MENU\n"
+"menuitem.text"
+msgid "~Others"
+msgstr "~Inne"
+
+#. tppCp
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTDIALOG\n"
+"1\n"
+"fixedtext.text"
+msgid "~Font"
+msgstr "~Czcionka"
+
+#. V8gqF
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTDIALOG\n"
+"1\n"
+"checkbox.text"
+msgid "~Bold"
+msgstr "Pogru~b"
+
+#. zUfwE
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTDIALOG\n"
+"2\n"
+"checkbox.text"
+msgid "~Italic"
+msgstr "~Kursywa"
+
+#. Br4ED
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTDIALOG\n"
+"1\n"
+"helpbutton.text"
+msgid "~Help"
+msgstr "~Pomoc"
+
+#. fVLPL
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTDIALOG\n"
+"2\n"
+"fixedtext.text"
+msgid "Attributes"
+msgstr "Atrybuty"
+
+#. Pssdd
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTDIALOG\n"
+"modaldialog.text"
+msgid "Fonts"
+msgstr "Czcionki"
+
+#. QYVV6
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"1\n"
+"fixedtext.text"
+msgid "Base ~size"
+msgstr "Rozmiar pod~st."
+
+#. m5wqb
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"4\n"
+"fixedtext.text"
+msgid "~Text"
+msgstr "~Tekst"
+
+#. BQoKm
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"5\n"
+"fixedtext.text"
+msgid "~Indexes"
+msgstr "~Indeksy"
+
+#. UtaEp
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"6\n"
+"fixedtext.text"
+msgid "~Functions"
+msgstr "~Funkcje"
+
+#. CdEyB
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"7\n"
+"fixedtext.text"
+msgid "~Operators"
+msgstr "~Operatory"
+
+#. 6zTGK
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"8\n"
+"fixedtext.text"
+msgid "~Limits"
+msgstr "~Granice"
+
+#. MDFSH
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"1\n"
+"fixedline.text"
+msgid "Relative sizes"
+msgstr "Względne wielkości"
+
+#. mPCzG
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"1\n"
+"helpbutton.text"
+msgid "~Help"
+msgstr "~Pomoc"
+
+#. BtEhe
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"1\n"
+"pushbutton.text"
+msgid "~Default"
+msgstr "~Domyślnie"
+
+#. nq43n
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTSIZEDIALOG\n"
+"modaldialog.text"
+msgid "Font Sizes"
+msgstr "Rozmiar czcionek"
+
+#. KrBrw
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"1\n"
+"fixedline.text"
+msgid "Formula fonts"
+msgstr "Czcionki formuły"
+
+#. GBGWD
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"2\n"
+"fixedline.text"
+msgid "Custom fonts"
+msgstr "Czcionki niestandardowe"
+
+#. 4uEH2
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"1\n"
+"fixedtext.text"
+msgid "~Variables"
+msgstr "~Zmienne"
+
+#. neo5X
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"2\n"
+"fixedtext.text"
+msgid "~Functions"
+msgstr "~Funkcje"
+
+#. BPRUc
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"3\n"
+"fixedtext.text"
+msgid "~Numbers"
+msgstr "~Liczby"
+
+#. AAvkF
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"4\n"
+"fixedtext.text"
+msgid "~Text"
+msgstr "~Tekst"
+
+#. E4NR2
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"5\n"
+"fixedtext.text"
+msgid "~Serif"
+msgstr "~Szeryfowa"
+
+#. yQ6Kg
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"6\n"
+"fixedtext.text"
+msgid "S~ans"
+msgstr "Bezszeryfow~a"
+
+#. oQsHk
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"7\n"
+"fixedtext.text"
+msgid "F~ixed"
+msgstr "St~ała szer."
+
+#. zbEwK
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"1\n"
+"menubutton.text"
+msgid "~Modify"
+msgstr "~Modyfikuj"
+
+#. cFTJ5
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"1\n"
+"helpbutton.text"
+msgid "~Help"
+msgstr "~Pomoc"
+
+#. 7TpkK
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"2\n"
+"pushbutton.text"
+msgid "~Default"
+msgstr "~Domyślnie"
+
+#. YGMxV
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTTYPEDIALOG\n"
+"modaldialog.text"
+msgid "Fonts"
+msgstr "Czcionki"
+
+#. rNNFr
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"1\n"
+"metricfield.text"
+msgid "%"
+msgstr "%"
+
+#. pGtNX
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"2\n"
+"metricfield.text"
+msgid "%"
+msgstr "%"
+
+#. 69LeV
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"1\n"
+"checkbox.text"
+msgid "Scale all brackets"
+msgstr "Skaluj wszystkie nawiasy"
+
+#. mbHsJ
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"3\n"
+"metricfield.text"
+msgid "%"
+msgstr "%"
+
+#. iFoFc
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"1\n"
+"helpbutton.text"
+msgid "~Help"
+msgstr "~Pomoc"
+
+#. xdNYk
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"1\n"
+"pushbutton.text"
+msgid "~Default"
+msgstr "~Domyślnie"
+
+#. 9BBG8
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"1\n"
+"menubutton.text"
+msgid "~Category"
+msgstr "~Kategoria"
+
+#. y4aad
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"1\n"
+"fixedline.text"
+msgid "Category"
+msgstr "Kategoria"
+
+#. Fj46H
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.1\n"
+"1\n"
+"string.text"
+msgid "Spacing"
+msgstr "Odstępy"
+
+#. ajJTD
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.1\n"
+"2\n"
+"string.text"
+msgid "~Spacing"
+msgstr "Od~stęp"
+
+#. VBDwB
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.1\n"
+"3\n"
+"string.text"
+msgid "~Line spacing"
+msgstr "Inter~linia"
+
+#. wEtFA
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.1\n"
+"4\n"
+"string.text"
+msgid "~Root spacing"
+msgstr "Od pie~rwiastka"
+
+#. Lagpo
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.2\n"
+"1\n"
+"string.text"
+msgid "Indexes"
+msgstr "Indeksy"
+
+#. ViTZF
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.2\n"
+"2\n"
+"string.text"
+msgid "~Superscript"
+msgstr "Indek~s górny"
+
+#. EFdmv
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.2\n"
+"3\n"
+"string.text"
+msgid "S~ubscript"
+msgstr "Indeks ~dolny"
+
+#. yufZw
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.3\n"
+"1\n"
+"string.text"
+msgid "Fractions"
+msgstr "Ułamki"
+
+#. KmD2e
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.3\n"
+"2\n"
+"string.text"
+msgid "~Numerator"
+msgstr "Licz~nik"
+
+#. WzTYd
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.3\n"
+"3\n"
+"string.text"
+msgid "~Denominator"
+msgstr "~Mianownik"
+
+#. b7BvC
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.4\n"
+"1\n"
+"string.text"
+msgid "Fraction bar"
+msgstr "Kreski ułamkowe"
+
+#. XQj7E
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.4\n"
+"2\n"
+"string.text"
+msgid "~Excess length"
+msgstr "Wysunięci~e"
+
+#. HKtxm
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.4\n"
+"3\n"
+"string.text"
+msgid "~Weight"
+msgstr "~Grubość linii"
+
+#. J2far
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.5\n"
+"1\n"
+"string.text"
+msgid "Limits"
+msgstr "Granice"
+
+#. XPr8A
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.5\n"
+"2\n"
+"string.text"
+msgid "~Upper limit"
+msgstr "~Górna granica"
+
+#. yC5SK
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.5\n"
+"3\n"
+"string.text"
+msgid "~Lower limit"
+msgstr "Do~lna granica"
+
+#. EN2gA
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.6\n"
+"1\n"
+"string.text"
+msgid "Brackets"
+msgstr "Nawiasy"
+
+#. dZhKX
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.6\n"
+"2\n"
+"string.text"
+msgid "~Excess size (left/right)"
+msgstr "Wysunięci~e (lewa/prawa)"
+
+#. FytTH
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.6\n"
+"3\n"
+"string.text"
+msgid "~Spacing"
+msgstr "Od~stęp"
+
+#. EYSx7
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.6\n"
+"5\n"
+"string.text"
+msgid "~Excess size"
+msgstr "Wysunięci~e"
+
+#. TG7Gq
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.7\n"
+"1\n"
+"string.text"
+msgid "Matrix"
+msgstr "Macierze"
+
+#. VChCU
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.7\n"
+"2\n"
+"string.text"
+msgid "~Line spacing"
+msgstr "Inter~linia"
+
+#. NgCqn
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.7\n"
+"3\n"
+"string.text"
+msgid "~Column spacing"
+msgstr "~Odstęp kolumn"
+
+#. MC4jH
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.8\n"
+"1\n"
+"string.text"
+msgid "Symbols"
+msgstr "Symbole"
+
+#. oKDjF
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.8\n"
+"2\n"
+"string.text"
+msgid "~Primary height"
+msgstr "~Wysokość główna"
+
+#. 8qMhs
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.8\n"
+"3\n"
+"string.text"
+msgid "~Minimum spacing"
+msgstr "~Minimalny odstęp"
+
+#. SwrPj
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.9\n"
+"1\n"
+"string.text"
+msgid "Operators"
+msgstr "Operatory"
+
+#. ZCRGA
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.9\n"
+"2\n"
+"string.text"
+msgid "~Excess size"
+msgstr "Wysunięci~e"
+
+#. G4NuK
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.9\n"
+"3\n"
+"string.text"
+msgid "~Spacing"
+msgstr "Od~stęp"
+
+#. dDxDF
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.10\n"
+"1\n"
+"string.text"
+msgid "Borders"
+msgstr "Krawędzie"
+
+#. DCF8c
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.10\n"
+"2\n"
+"string.text"
+msgid "~Left"
+msgstr "Do ~lewej"
+
+#. 9CGgr
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.10\n"
+"3\n"
+"string.text"
+msgid "~Right"
+msgstr "Do p~rawej"
+
+#. D8N9j
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.10\n"
+"4\n"
+"string.text"
+msgid "~Top"
+msgstr "~Górna"
+
+#. cXUya
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG.10\n"
+"5\n"
+"string.text"
+msgid "~Bottom"
+msgstr "~Dolna"
+
+#. XPTDy
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEDIALOG\n"
+"modaldialog.text"
+msgid "Spacing"
+msgstr "Odstępy"
+
+#. Tvx8E
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ALIGNDIALOG\n"
+"1\n"
+"radiobutton.text"
+msgid "~Left"
+msgstr "Do ~lewej"
+
+#. AaLCc
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ALIGNDIALOG\n"
+"2\n"
+"radiobutton.text"
+msgid "~Centered"
+msgstr "D~o środka"
+
+#. D9Gza
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ALIGNDIALOG\n"
+"3\n"
+"radiobutton.text"
+msgid "~Right"
+msgstr "Do p~rawej"
+
+#. YB6Mh
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ALIGNDIALOG\n"
+"1\n"
+"fixedline.text"
+msgid "Horizontal"
+msgstr "Poziomo"
+
+#. VKkZ8
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ALIGNDIALOG\n"
+"1\n"
+"helpbutton.text"
+msgid "~Help"
+msgstr "~Pomoc"
+
+#. AvGDg
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ALIGNDIALOG\n"
+"1\n"
+"pushbutton.text"
+msgid "~Default"
+msgstr "~Domyślnie"
+
+#. wTtyM
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ALIGNDIALOG\n"
+"modaldialog.text"
+msgid "Alignment"
+msgstr "Wyrównanie"
+
+#. 4vyh9
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"FL_PRINTOPTIONS\n"
+"fixedline.text"
+msgid "Print options"
+msgstr "Opcje wydruku"
+
+#. JqeEr
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"CB_TITLEROW\n"
+"checkbox.text"
+msgid "~Title row"
+msgstr "Wiersz ~tytułu"
+
+#. tGRZR
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"CB_EQUATION_TEXT\n"
+"checkbox.text"
+msgid "~Formula text"
+msgstr "Tekst ~formuły"
+
+#. BsVSY
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"CB_FRAME\n"
+"checkbox.text"
+msgid "B~order"
+msgstr "~Krawędź"
+
+#. WGvVr
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"FL_PRINT_FORMAT\n"
+"fixedline.text"
+msgid "Print format"
+msgstr "Format wydruku"
+
+#. FxBbg
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"RB_ORIGINAL_SIZE\n"
+"radiobutton.text"
+msgid "O~riginal size"
+msgstr "~Rozmiar oryginalny"
+
+#. yQid3
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"RB_FIT_TO_PAGE\n"
+"radiobutton.text"
+msgid "Fit to ~page"
+msgstr "Do~pasuj do strony"
+
+#. UobTM
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"RB_ZOOM\n"
+"radiobutton.text"
+msgid "~Scaling"
+msgstr "~Skalowanie"
+
+#. xz6nG
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"FL_MISC_OPTIONS\n"
+"fixedline.text"
+msgid "Miscellaneous options"
+msgstr "Pozostałe opcje"
+
+#. eYQ3g
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"CB_IGNORE_SPACING\n"
+"checkbox.text"
+msgid "Ig~nore ~~ and ` at the end of the line"
+msgstr "Ig~noruj znaki ~~ i ` na końcu wiersza"
+
+#. FNup2
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"CB_SAVE_ONLY_USED_SYMBOLS\n"
+"checkbox.text"
+msgid "Embed only used symbols (smaller file size)"
+msgstr "Zagnieźdź tylko wykorzystane symbole (mniejszy rozmiar pliku)"
+
+#. MqDCw
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTOPTIONPAGE\n"
+"tabpage.text"
+msgid "Formula Options:Settings"
+msgstr "Opcje formuły: Ustawienia"
+
+#. EqU2c
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMBOLDIALOG\n"
+"1\n"
+"fixedtext.text"
+msgid "~Symbol set"
+msgstr "Zestaw ~symboli"
+
+#. 8Bpuu
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMBOLDIALOG\n"
+"2\n"
+"fixedtext.text"
+msgid "Unknown"
+msgstr "Nieznany"
+
+#. 7VAGo
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMBOLDIALOG\n"
+"2\n"
+"pushbutton.text"
+msgid "~Insert"
+msgstr "W~staw"
+
+#. azAvz
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMBOLDIALOG\n"
+"3\n"
+"pushbutton.text"
+msgid "~Close"
+msgstr "~Zamknij"
+
+#. HDd29
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMBOLDIALOG\n"
+"1\n"
+"pushbutton.text"
+msgid "~Edit..."
+msgstr "~Edycja..."
+
+#. QA4Ct
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMBOLDIALOG\n"
+"1\n"
+"helpbutton.text"
+msgid "~Help"
+msgstr "~Pomoc"
+
+#. uGwY5
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMBOLDIALOG\n"
+"modaldialog.text"
+msgid "Symbols"
+msgstr "Symbole"
+
+#. 2jvjC
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"1\n"
+"fixedtext.text"
+msgid "~Old symbol"
+msgstr "Stary symb~ol"
+
+#. DJqgJ
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"2\n"
+"fixedtext.text"
+msgid "O~ld symbol set"
+msgstr "Stary zbiór symbo~li"
+
+#. 6CKAB
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"9\n"
+"fixedtext.text"
+msgid "~Symbol"
+msgstr "~Symbol"
+
+#. 4gQPp
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"10\n"
+"fixedtext.text"
+msgid "Symbol s~et"
+msgstr "~Zbiór symboli"
+
+#. AxzFE
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"3\n"
+"fixedtext.text"
+msgid "~Font"
+msgstr "~Czcionka"
+
+#. qDhvi
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"FT_FONTS_SUBSET\n"
+"fixedtext.text"
+msgid "~Subset"
+msgstr "~Podzbiór"
+
+#. A76FK
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"4\n"
+"fixedtext.text"
+msgid "~Typeface"
+msgstr "~Krój pisma"
+
+#. RL3ck
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"1\n"
+"pushbutton.text"
+msgid "~Add"
+msgstr "Dod~aj"
+
+#. mJtFh
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"2\n"
+"pushbutton.text"
+msgid "~Modify"
+msgstr "~Modyfikuj"
+
+#. DCLrE
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"3\n"
+"pushbutton.text"
+msgid "~Delete"
+msgstr "~Usuń"
+
+#. gR5UG
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"1\n"
+"helpbutton.text"
+msgid "~Help"
+msgstr "~Pomoc"
+
+#. BQAB4
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMDEFINEDIALOG\n"
+"modaldialog.text"
+msgid "Edit Symbols"
+msgstr "Edycja symboli"
+
+#. AkvnC
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_NOMATHTYPEFACEWARNING\n"
+"warningbox.text"
+msgid ""
+"The 'StarMath' font has not been installed.\n"
+"Without this font %PRODUCTNAME Math cannot function correctly.\n"
+"Please install this font and restart %PRODUCTNAME Math."
+msgstr ""
+"Nie zainstalowano czcionki 'StarMath'.\n"
+"Bez tej czcionki program %PRODUCTNAME Math nie będzie działał prawidłowo.\n"
+"Zainstaluj tę czcionkę i ponownie uruchom program %PRODUCTNAME Math."
+
+#. rwELX
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DEFAULTSAVEQUERY\n"
+"querybox.text"
+msgid ""
+"Should the changes be saved as defaults?\n"
+"\n"
+"These changes will apply for all new formulas."
+msgstr ""
+"Czy zapisać zmiany jako domyślne?\n"
+"\n"
+"Zmiany te będą miały wpływ na wszystkie nowe formuły."
+
+#. uLUPy
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTREGULAR\n"
+"string.text"
+msgid "Standard"
+msgstr "Standardowa"
+
+#. YvHTQ
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTITALIC\n"
+"string.text"
+msgid "Italic"
+msgstr "Kursywa"
+
+#. i73CU
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTBOLD\n"
+"string.text"
+msgid "Bold"
+msgstr "Pogrubienie"
+
+#. 2Bpu7
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_VIEWMENU\n"
+"SID_VIEW050\n"
+"menuitem.text"
+msgid "~View 50%"
+msgstr "~Widok 50%"
+
+#. Ync66
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_VIEWMENU\n"
+"SID_VIEW100\n"
+"menuitem.text"
+msgid "View ~100%"
+msgstr "Widok ~100%"
+
+#. dSrhe
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_VIEWMENU\n"
+"SID_VIEW200\n"
+"menuitem.text"
+msgid "View ~200%"
+msgstr "Widok ~200%"
+
+#. JF3EM
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_VIEWMENU\n"
+"SID_ZOOMIN\n"
+"menuitem.text"
+msgid "~Zoom In"
+msgstr "Powięks~z"
+
+#. FXbAt
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_VIEWMENU\n"
+"SID_ZOOMOUT\n"
+"menuitem.text"
+msgid "Zoom ~Out"
+msgstr "P~omniejsz"
+
+#. HurPA
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_VIEWMENU\n"
+"SID_ADJUST\n"
+"menuitem.text"
+msgid "~Display All"
+msgstr "~Wyświetl wszystko"
+
+#. BJhsE
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_VIEWMENU\n"
+"SID_DRAW\n"
+"menuitem.text"
+msgid "U~pdate"
+msgstr "~Aktualizuj"
+
+#. 9VCHT
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"WORKARROUND_1\n"
+"menuitem.text"
+msgid "Spacing"
+msgstr "Odstępy"
+
+#. 59YGz
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"Indexes\n"
+"menuitem.text"
+msgid "Indexes"
+msgstr "Indeksy"
+
+#. fkG5K
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"WORKARROUND_3\n"
+"menuitem.text"
+msgid "Fractions"
+msgstr "Ułamki"
+
+#. Sjz8C
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"Fraction Bars\n"
+"menuitem.text"
+msgid "Fraction Bars"
+msgstr "Kreski ułamkowe"
+
+#. SDw2z
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"Limits\n"
+"menuitem.text"
+msgid "Limits"
+msgstr "Granice"
+
+#. fiXfb
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"Brackets\n"
+"menuitem.text"
+msgid "Brackets"
+msgstr "Nawiasy"
+
+#. DqHjT
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"Matrices\n"
+"menuitem.text"
+msgid "Matrices"
+msgstr "Macierze"
+
+#. JBnv6
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"Symbols\n"
+"menuitem.text"
+msgid "Symbols"
+msgstr "Symbole"
+
+#. cC3EH
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"Operators\n"
+"menuitem.text"
+msgid "Operators"
+msgstr "Operatory"
+
+#. gUoLn
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DISTANCEMENU\n"
+"WORKARROUND_10\n"
+"menuitem.text"
+msgid "Borders"
+msgstr "Krawędzie"
+
+#. 56GjW
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTMENU\n"
+"Variables\n"
+"menuitem.text"
+msgid "Variables"
+msgstr "Zmienne"
+
+#. ob4pG
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTMENU\n"
+"Functions\n"
+"menuitem.text"
+msgid "Functions"
+msgstr "Funkcje"
+
+#. HhZAs
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTMENU\n"
+"Numbers\n"
+"menuitem.text"
+msgid "Numbers"
+msgstr "Liczby"
+
+#. FzKVF
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTMENU\n"
+"Text\n"
+"menuitem.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. 2nBhb
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTMENU\n"
+"Serif\n"
+"menuitem.text"
+msgid "Serif"
+msgstr "Szeryfowa"
+
+#. ACNBK
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTMENU\n"
+"Sans\n"
+"menuitem.text"
+msgid "Sans"
+msgstr "Bezszeryfowa"
+
+#. GfCCC
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_FONTMENU\n"
+"Fixed\n"
+"menuitem.text"
+msgid "Fixed"
+msgstr "Stała szerokość"
+
+#. rwnDU
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"CMDBOXWINDOW_TEXT\n"
+"#define.text"
+msgid "Commands"
+msgstr "Polecenia"
+
+#. 9CmPE
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ELEMENTSDOCKINGWINDOW\n"
+"dockingwindow.text"
+msgid "Symbols"
+msgstr "Symbole"
+
+#. szrYE
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_DOCUMENTSTR\n"
+"string.text"
+msgid "Formula"
+msgstr "Formuła"
+
+#. odvqP
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"STR_STATSTR_READING\n"
+"string.text"
+msgid "Loading document..."
+msgstr "Ładowanie dokumentu..."
+
+#. eELxJ
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"STR_STATSTR_WRITING\n"
+"string.text"
+msgid "Saving document..."
+msgstr "Zapisywanie dokumentu..."
+
+#. QrAjS
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"STR_MATH_DOCUMENT_FULLTYPE_CURRENT\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION Formula"
+msgstr "%PRODUCTNAME %PRODUCTVERSION - Formuła"
+
+#. 5rBEX
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_SYMBOLFILESSTR\n"
+"string.text"
+msgid "Symbol files (*.sms)"
+msgstr "Pliki symboli (*.sms)"
+
+#. iFFx5
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ALLFILESSTR\n"
+"string.text"
+msgid "All files"
+msgstr "Wszystkie pliki"
+
+#. PfLuV
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_IDENT\n"
+"string.text"
+msgid "ERROR : "
+msgstr "BŁĄD : "
+
+#. E3Ghr
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_UNKNOWN\n"
+"string.text"
+msgid "Unknown error occurred"
+msgstr "Wystąpił nieznany błąd"
+
+#. 2CEtA
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_UNEXPECTEDCHARACTER\n"
+"string.text"
+msgid "Unexpected character"
+msgstr "Nieoczekiwany znak"
+
+#. F5XAW
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_OVERFLOW\n"
+"string.text"
+msgid "Formula entry too complex"
+msgstr "Wprowadzona formuła jest zbyt złożona"
+
+#. dgMhS
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_LGROUPEXPECTED\n"
+"string.text"
+msgid "'{' expected"
+msgstr "Oczekiwano znaku '{'"
+
+#. cB43R
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_RGROUPEXPECTED\n"
+"string.text"
+msgid "'}' expected"
+msgstr "Oczekiwano znaku '}'"
+
+#. hd6y5
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_LBRACEEXPECTED\n"
+"string.text"
+msgid "'(' expected"
+msgstr "Oczekiwano znaku '('"
+
+#. fUDNC
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_RBRACEEXPECTED\n"
+"string.text"
+msgid "')' expected"
+msgstr "Oczekiwano znaku ')'"
+
+#. VPetQ
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_FUNCEXPECTED\n"
+"string.text"
+msgid "Function expected"
+msgstr "Oczekiwano funkcji"
+
+#. 4nFDm
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_UNOPEREXPECTED\n"
+"string.text"
+msgid "Unary operator expected"
+msgstr "W tym miejscu oczekiwano operatora jednoargumentowego"
+
+#. HuXzo
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_BINOPEREXPECTED\n"
+"string.text"
+msgid "Binary operator expected"
+msgstr "Oczekiwano operatora dwuargumentowego"
+
+#. DqEeB
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_SYMBOLEXPECTED\n"
+"string.text"
+msgid "Symbol expected"
+msgstr "Oczekiwano symbolu"
+
+#. eDqUB
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_IDENTEXPECTED\n"
+"string.text"
+msgid "Identifier expected"
+msgstr "Oczekiwano identyfikatora"
+
+#. 45bZ8
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_POUNDEXPECTED\n"
+"string.text"
+msgid "'#' expected"
+msgstr "Oczekiwano znaku '#'"
+
+#. hmCNQ
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_COLOREXPECTED\n"
+"string.text"
+msgid "Color required"
+msgstr "Wymagany jest kolor"
+
+#. JTBCG
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_LPARENTEXPECTED\n"
+"string.text"
+msgid "Left limit expected"
+msgstr "Oczekiwano lewej granicy"
+
+#. FuFQt
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_RPARENTEXPECTED\n"
+"string.text"
+msgid "Right limit expected"
+msgstr "Oczekiwano prawej granicy"
+
+#. XPHB3
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_ERR_RIGHTEXPECTED\n"
+"string.text"
+msgid "'RIGHT' expected"
+msgstr "Oczekiwano 'RIGHT'"
+
+#. nF9vq
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_MATH_TOOLBOX\n"
+"string.text"
+msgid "Main Toolbar"
+msgstr "Główny pasek narzędzi"
+
+#. WYuKM
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"1\n"
+"itemlist.text"
+msgid "%PRODUCTNAME %s"
+msgstr "%PRODUCTNAME %s"
+
+#. tPYre
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"2\n"
+"itemlist.text"
+msgid "Contents"
+msgstr "Zawartość"
+
+#. xXCZA
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"3\n"
+"itemlist.text"
+msgid "~Title"
+msgstr "~Tytuł"
+
+#. n8Eis
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"4\n"
+"itemlist.text"
+msgid "~Formula text"
+msgstr "Tekst ~formuły"
+
+#. CH9qZ
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"5\n"
+"itemlist.text"
+msgid "B~orders"
+msgstr "~Obramowanie"
+
+#. s2wqE
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"6\n"
+"itemlist.text"
+msgid "Size"
+msgstr "Rozmiar"
+
+#. TidqY
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"7\n"
+"itemlist.text"
+msgid "O~riginal size"
+msgstr "~Rozmiar oryginalny"
+
+#. Cevio
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"8\n"
+"itemlist.text"
+msgid "Fit to ~page"
+msgstr "Do~pasuj do strony"
+
+#. GKrDg
+#: smres.src
+msgctxt ""
+"smres.src\n"
+"RID_PRINTUIOPTIONS\n"
+"9\n"
+"itemlist.text"
+msgid "~Scaling"
+msgstr "~Skalowanie"
+
+#. yF6fJ
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOLSET_NAMES\n"
+"1\n"
+"itemlist.text"
+msgid "Greek"
+msgstr "Symbole greckie"
+
+#. B7BVY
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOLSET_NAMES\n"
+"2\n"
+"itemlist.text"
+msgid "Special"
+msgstr "Symbole specjalne"
+
+#. DoRHE
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"1\n"
+"itemlist.text"
+msgid "alpha"
+msgstr "alfa"
+
+#. Z9TL7
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"2\n"
+"itemlist.text"
+msgid "ALPHA"
+msgstr "ALFA"
+
+#. Zuk9T
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"3\n"
+"itemlist.text"
+msgid "beta"
+msgstr "beta"
+
+#. CENBc
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"4\n"
+"itemlist.text"
+msgid "BETA"
+msgstr "BETA"
+
+#. DEAEz
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"5\n"
+"itemlist.text"
+msgid "gamma"
+msgstr "gamma"
+
+#. ZiqKC
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"6\n"
+"itemlist.text"
+msgid "GAMMA"
+msgstr "GAMMA"
+
+#. AXZhD
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"7\n"
+"itemlist.text"
+msgid "delta"
+msgstr "delta"
+
+#. GNSyk
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"8\n"
+"itemlist.text"
+msgid "DELTA"
+msgstr "DELTA"
+
+#. NGX5L
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"9\n"
+"itemlist.text"
+msgid "epsilon"
+msgstr "epsilon"
+
+#. kUypE
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"10\n"
+"itemlist.text"
+msgid "EPSILON"
+msgstr "EPSILON"
+
+#. oGYXi
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"11\n"
+"itemlist.text"
+msgid "zeta"
+msgstr "dzeta"
+
+#. hBxCu
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"12\n"
+"itemlist.text"
+msgid "ZETA"
+msgstr "DZETA"
+
+#. nbVtL
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"13\n"
+"itemlist.text"
+msgid "eta"
+msgstr "eta"
+
+#. j6sor
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"14\n"
+"itemlist.text"
+msgid "ETA"
+msgstr "ETA"
+
+#. yvDnG
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"15\n"
+"itemlist.text"
+msgid "theta"
+msgstr "teta"
+
+#. E2fsP
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"16\n"
+"itemlist.text"
+msgid "THETA"
+msgstr "TETA"
+
+#. h7DkR
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"17\n"
+"itemlist.text"
+msgid "iota"
+msgstr "jota"
+
+#. gWydg
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"18\n"
+"itemlist.text"
+msgid "IOTA"
+msgstr "JOTA"
+
+#. EFEZP
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"19\n"
+"itemlist.text"
+msgid "kappa"
+msgstr "kappa"
+
+#. Pd2JF
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"20\n"
+"itemlist.text"
+msgid "KAPPA"
+msgstr "KAPPA"
+
+#. hPUck
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"21\n"
+"itemlist.text"
+msgid "lambda"
+msgstr "lambda"
+
+#. iBJCD
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"22\n"
+"itemlist.text"
+msgid "LAMBDA"
+msgstr "LAMBDA"
+
+#. P6Vx2
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"23\n"
+"itemlist.text"
+msgid "mu"
+msgstr "mi"
+
+#. n3Cc7
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"24\n"
+"itemlist.text"
+msgid "MU"
+msgstr "MI"
+
+#. PVcJ3
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"25\n"
+"itemlist.text"
+msgid "nu"
+msgstr "ni"
+
+#. pceLF
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"26\n"
+"itemlist.text"
+msgid "NU"
+msgstr "NI"
+
+#. WUR6k
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"27\n"
+"itemlist.text"
+msgid "xi"
+msgstr "ksi"
+
+#. 9Si2h
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"28\n"
+"itemlist.text"
+msgid "XI"
+msgstr "KSI"
+
+#. WDGWE
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"29\n"
+"itemlist.text"
+msgid "omicron"
+msgstr "omikron"
+
+#. VwD3a
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"30\n"
+"itemlist.text"
+msgid "OMICRON"
+msgstr "OMIKRON"
+
+#. zkhHb
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"31\n"
+"itemlist.text"
+msgid "pi"
+msgstr "pi"
+
+#. dubFx
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"32\n"
+"itemlist.text"
+msgid "PI"
+msgstr "PI"
+
+#. Ac5W3
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"33\n"
+"itemlist.text"
+msgid "rho"
+msgstr "ro"
+
+#. F7QdS
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"34\n"
+"itemlist.text"
+msgid "RHO"
+msgstr "RO"
+
+#. E3nDD
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"35\n"
+"itemlist.text"
+msgid "sigma"
+msgstr "sigma"
+
+#. YyBQ8
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"36\n"
+"itemlist.text"
+msgid "SIGMA"
+msgstr "SIGMA"
+
+#. FPEgb
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"37\n"
+"itemlist.text"
+msgid "tau"
+msgstr "tau"
+
+#. FBAUE
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"38\n"
+"itemlist.text"
+msgid "TAU"
+msgstr "TAU"
+
+#. yjiTX
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"39\n"
+"itemlist.text"
+msgid "upsilon"
+msgstr "ypsilon"
+
+#. iVrBZ
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"40\n"
+"itemlist.text"
+msgid "UPSILON"
+msgstr "YPSILON"
+
+#. eDLGK
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"41\n"
+"itemlist.text"
+msgid "phi"
+msgstr "fi"
+
+#. pEV2r
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"42\n"
+"itemlist.text"
+msgid "PHI"
+msgstr "FI"
+
+#. t33sC
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"43\n"
+"itemlist.text"
+msgid "chi"
+msgstr "chi"
+
+#. ygJpb
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"44\n"
+"itemlist.text"
+msgid "CHI"
+msgstr "CHI"
+
+#. AGF4m
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"45\n"
+"itemlist.text"
+msgid "psi"
+msgstr "psi"
+
+#. DFeEC
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"46\n"
+"itemlist.text"
+msgid "PSI"
+msgstr "PSI"
+
+#. BaFgX
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"47\n"
+"itemlist.text"
+msgid "omega"
+msgstr "omega"
+
+#. DBCx5
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"48\n"
+"itemlist.text"
+msgid "OMEGA"
+msgstr "OMEGA"
+
+#. YQAHW
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"49\n"
+"itemlist.text"
+msgid "varepsilon"
+msgstr "varepsilon"
+
+#. RU5f5
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"50\n"
+"itemlist.text"
+msgid "vartheta"
+msgstr "varteta"
+
+#. FXmXj
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"51\n"
+"itemlist.text"
+msgid "varpi"
+msgstr "varpi"
+
+#. eaTD4
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"52\n"
+"itemlist.text"
+msgid "varrho"
+msgstr "varro"
+
+#. JnfE6
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"53\n"
+"itemlist.text"
+msgid "varsigma"
+msgstr "varsigma"
+
+#. 6QMCC
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"54\n"
+"itemlist.text"
+msgid "varphi"
+msgstr "varfi"
+
+#. ATDDP
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"55\n"
+"itemlist.text"
+msgid "element"
+msgstr "jest elementem"
+
+#. mdFWg
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"56\n"
+"itemlist.text"
+msgid "noelement"
+msgstr "nie jest elementem"
+
+#. BLCRT
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"57\n"
+"itemlist.text"
+msgid "strictlylessthan"
+msgstr "znacznie mniej niż"
+
+#. pfJzF
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"58\n"
+"itemlist.text"
+msgid "strictlygreaterthan"
+msgstr "znacznie więcej niż"
+
+#. 36xUb
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"59\n"
+"itemlist.text"
+msgid "notequal"
+msgstr "nierówny"
+
+#. X5fJF
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"60\n"
+"itemlist.text"
+msgid "identical"
+msgstr "identyczny"
+
+#. nZBHZ
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"61\n"
+"itemlist.text"
+msgid "tendto"
+msgstr "dąży do"
+
+#. dwUP3
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"62\n"
+"itemlist.text"
+msgid "infinite"
+msgstr "nieskończoność"
+
+#. DCu3x
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"63\n"
+"itemlist.text"
+msgid "angle"
+msgstr "kąt"
+
+#. CEmuF
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"64\n"
+"itemlist.text"
+msgid "perthousand"
+msgstr "promil"
+
+#. WPVth
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"65\n"
+"itemlist.text"
+msgid "and"
+msgstr "i"
+
+#. T6oxy
+#: symbol.src
+msgctxt ""
+"symbol.src\n"
+"RID_UI_SYMBOL_NAMES\n"
+"66\n"
+"itemlist.text"
+msgid "or"
+msgstr "lub"
+
+#. 7vEQY
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_UNBINOPS_CAT\n"
+"toolboxitem.text"
+msgid "Unary/Binary Operators"
+msgstr "Operatory jedno- lub dwuargumentowe"
+
+#. VTCRh
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_RELATIONS_CAT\n"
+"toolboxitem.text"
+msgid "Relations"
+msgstr "Relacje"
+
+#. ufDr3
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_SETOPERATIONS_CAT\n"
+"toolboxitem.text"
+msgid "Set Operations"
+msgstr "Operacje na zbiorach"
+
+#. CDrt3
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_FUNCTIONS_CAT\n"
+"toolboxitem.text"
+msgid "Functions"
+msgstr "Funkcje"
+
+#. 5DDa5
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_OPERATORS_CAT\n"
+"toolboxitem.text"
+msgid "Operators"
+msgstr "Operatory"
+
+#. iGyPK
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_ATTRIBUTES_CAT\n"
+"toolboxitem.text"
+msgid "Attributes"
+msgstr "Atrybuty"
+
+#. LUDdP
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_MISC_CAT\n"
+"toolboxitem.text"
+msgid "Others"
+msgstr "Inne"
+
+#. ivFjR
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_BRACKETS_CAT\n"
+"toolboxitem.text"
+msgid "Brackets"
+msgstr "Nawiasy"
+
+#. LzwbG
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CATALOG\n"
+"RID_FORMAT_CAT\n"
+"toolboxitem.text"
+msgid "Formats"
+msgstr "Formaty"
+
+#. WhKkF
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_PLUSX\n"
+"toolboxitem.text"
+msgid "+ Sign"
+msgstr "Znak +"
+
+#. egEAj
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_MINUSX\n"
+"toolboxitem.text"
+msgid "- Sign"
+msgstr "Znak -"
+
+#. pJRb2
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_PLUSMINUSX\n"
+"toolboxitem.text"
+msgid "+- Sign"
+msgstr "Znak +-"
+
+#. mSpEX
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_MINUSPLUSX\n"
+"toolboxitem.text"
+msgid "-+ Sign"
+msgstr "Znak -+"
+
+#. BavEd
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_NEGX\n"
+"toolboxitem.text"
+msgid "Boolean NOT"
+msgstr "Operator logiczny NIE"
+
+#. YFJnJ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XPLUSY\n"
+"toolboxitem.text"
+msgid "Addition +"
+msgstr "Dodawanie +"
+
+#. 3EkBc
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XCDOTY\n"
+"toolboxitem.text"
+msgid "Multiplication (Dot )"
+msgstr "Mnożenie (kropka)"
+
+#. 6GWBv
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XTIMESY\n"
+"toolboxitem.text"
+msgid "Multiplication (x)"
+msgstr "Mnożenie (x)"
+
+#. ujGaD
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XSYMTIMESY\n"
+"toolboxitem.text"
+msgid "Multiplication (*)"
+msgstr "Mnożenie (gwiazdka)"
+
+#. mGGHD
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XANDY\n"
+"toolboxitem.text"
+msgid "Boolean AND"
+msgstr "Operator logiczny I"
+
+#. EhmvW
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XMINUSY\n"
+"toolboxitem.text"
+msgid "Subtraction -"
+msgstr "Odejmowanie -"
+
+#. K4HkA
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XOVERY\n"
+"toolboxitem.text"
+msgid "Division (Fraction)"
+msgstr "Dzielenie (ułamek)"
+
+#. cDwBA
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XDIVY\n"
+"toolboxitem.text"
+msgid "Division (÷)"
+msgstr "Dzielenie (dwukropek-kreska)"
+
+#. DaPB4
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XSYMDIVIDEY\n"
+"toolboxitem.text"
+msgid "Division (Slash)"
+msgstr "Dzielenie (kreska ukośna)"
+
+#. aYMG7
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XORY\n"
+"toolboxitem.text"
+msgid "Boolean OR"
+msgstr "Operator logiczny LUB"
+
+#. TRFVW
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_A\n"
+"RID_XCIRCY\n"
+"toolboxitem.text"
+msgid "Concatenate"
+msgstr "Złączenie"
+
+#. Xd2Uh
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XEQY\n"
+"toolboxitem.text"
+msgid "Is Equal"
+msgstr "jest równe"
+
+#. 7tkNX
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XNEQY\n"
+"toolboxitem.text"
+msgid "Is Not Equal"
+msgstr "nie jest równe"
+
+#. GeHmC
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XAPPROXY\n"
+"toolboxitem.text"
+msgid "Is Approximately Equal"
+msgstr "jest w przybliżeniu równe"
+
+#. QDUFe
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XDIVIDESY\n"
+"toolboxitem.text"
+msgid "Divides"
+msgstr "dzieli"
+
+#. cPzok
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XNDIVIDESY\n"
+"toolboxitem.text"
+msgid "Does Not Divide"
+msgstr "nie dzieli"
+
+#. D3qAe
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XLTY\n"
+"toolboxitem.text"
+msgid "Is Less Than"
+msgstr "jest mniejsze niż"
+
+#. qi8DC
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XGTY\n"
+"toolboxitem.text"
+msgid "Is Greater Than"
+msgstr "jest większe niż"
+
+#. MDdH7
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XSIMEQY\n"
+"toolboxitem.text"
+msgid "Is Similar Or Equal"
+msgstr "jest podobne lub równe"
+
+#. RFYsi
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XPARALLELY\n"
+"toolboxitem.text"
+msgid "Is Parallel To"
+msgstr "jest równoległe do"
+
+#. geS6B
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XORTHOY\n"
+"toolboxitem.text"
+msgid "Is Orthogonal To"
+msgstr "jest prostopadłe do"
+
+#. ivnzm
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XLESLANTY\n"
+"toolboxitem.text"
+msgid "Is Less Than Or Equal To"
+msgstr "jest mniejsze lub równe"
+
+#. 2wFiB
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XGESLANTY\n"
+"toolboxitem.text"
+msgid "Is Greater Than Or Equal To"
+msgstr "jest większe lub równe"
+
+#. kRBGk
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XSIMY\n"
+"toolboxitem.text"
+msgid "Is Similar To"
+msgstr "jest podobne do"
+
+#. LiWz3
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XEQUIVY\n"
+"toolboxitem.text"
+msgid "Is Congruent To"
+msgstr "przystaje do"
+
+#. DwWxh
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XLEY\n"
+"toolboxitem.text"
+msgid "Is Less Than Or Equal To"
+msgstr "jest mniejsze lub równe"
+
+#. BFGAL
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XGEY\n"
+"toolboxitem.text"
+msgid "Is Greater Than Or Equal To"
+msgstr "jest większe lub równe"
+
+#. jUurb
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XPROPY\n"
+"toolboxitem.text"
+msgid "Is Proportional To"
+msgstr "jest proporcjonalne do"
+
+#. cDRQE
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XTOWARDY\n"
+"toolboxitem.text"
+msgid "Toward"
+msgstr "dąży do"
+
+#. GFau6
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_DLARROW\n"
+"toolboxitem.text"
+msgid "Double Arrow Left"
+msgstr "podwójna strzałka w lewo"
+
+#. vQCby
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_DLRARROW\n"
+"toolboxitem.text"
+msgid "Double Arrow Left And Right"
+msgstr "podwójna strzałka w lewo i w prawo"
+
+#. A73gj
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_DRARROW\n"
+"toolboxitem.text"
+msgid "Double Arrow Right"
+msgstr "podwójna strzałka w prawo"
+
+#. vaWB2
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XPRECEDESY\n"
+"toolboxitem.text"
+msgid "Precedes"
+msgstr "Poprzedza"
+
+#. Tqg8Y
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XNOTPRECEDESY\n"
+"toolboxitem.text"
+msgid "Not precedes"
+msgstr "Nie poprzedza"
+
+#. xWEJZ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XSUCCEEDSY\n"
+"toolboxitem.text"
+msgid "Succeeds"
+msgstr "Toleruje"
+
+#. A7iD3
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XNOTSUCCEEDSY\n"
+"toolboxitem.text"
+msgid "Not succeeds"
+msgstr "Nie toleruje"
+
+#. NF23m
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XPRECEDESEQUALY\n"
+"toolboxitem.text"
+msgid "Precedes or equal to"
+msgstr "Poprzedza lub równa się"
+
+#. aE3Ew
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XSUCCEEDSEQUALY\n"
+"toolboxitem.text"
+msgid "Succeeds or equal to"
+msgstr "Toleruje lub równa się"
+
+#. v4NAn
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XPRECEDESEQUIVY\n"
+"toolboxitem.text"
+msgid "Precedes or equivalent to"
+msgstr "Poprzedza lub odpowiada"
+
+#. mRBD7
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_B\n"
+"RID_XSUCCEEDSEQUIVY\n"
+"toolboxitem.text"
+msgid "Succeeds or equivalent to"
+msgstr "Toleruje lub odpowiada"
+
+#. tbPSB
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XINY\n"
+"toolboxitem.text"
+msgid "Is In"
+msgstr "zawiera się w"
+
+#. BwFi6
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XNOTINY\n"
+"toolboxitem.text"
+msgid "Is Not In"
+msgstr "nie zawiera się w"
+
+#. acuut
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XOWNSY\n"
+"toolboxitem.text"
+msgid "Owns"
+msgstr "Zawiera"
+
+#. SzVB7
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_EMPTYSET\n"
+"toolboxitem.text"
+msgid "Empty Set"
+msgstr "Zbiór pusty"
+
+#. vmfDE
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XINTERSECTIONY\n"
+"toolboxitem.text"
+msgid "Intersection"
+msgstr "Iloczyn zbiorów"
+
+#. TBDks
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XUNIONY\n"
+"toolboxitem.text"
+msgid "Union"
+msgstr "Suma zbiorów"
+
+#. AWFnQ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XSETMINUSY\n"
+"toolboxitem.text"
+msgid "Difference"
+msgstr "Różnica"
+
+#. mngFp
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XSLASHY\n"
+"toolboxitem.text"
+msgid "Quotient Set"
+msgstr "Zbiór ilorazów"
+
+#. yGfYg
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_ALEPH\n"
+"toolboxitem.text"
+msgid "Aleph"
+msgstr "Alef"
+
+#. SB6jW
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XSUBSETY\n"
+"toolboxitem.text"
+msgid "Subset"
+msgstr "Podzbiór"
+
+#. uyCF7
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XSUBSETEQY\n"
+"toolboxitem.text"
+msgid "Subset Or Equal To"
+msgstr "Podzbiór lub równy"
+
+#. 6Fs2D
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XSUPSETY\n"
+"toolboxitem.text"
+msgid "Superset"
+msgstr "Nadzbiór"
+
+#. tmaAA
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XSUPSETEQY\n"
+"toolboxitem.text"
+msgid "Superset Or Equal To"
+msgstr "Nadzbiór lub równy"
+
+#. BhbR4
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XNSUBSETY\n"
+"toolboxitem.text"
+msgid "Not Subset"
+msgstr "Nie podzbiór"
+
+#. CoCRW
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XNSUBSETEQY\n"
+"toolboxitem.text"
+msgid "Not Subset Or Equal"
+msgstr "Nie podzbiór ani równy"
+
+#. xeBCG
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XNSUPSETY\n"
+"toolboxitem.text"
+msgid "Not Superset"
+msgstr "Nie nadzbiór"
+
+#. fzAr3
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_XNSUPSETEQY\n"
+"toolboxitem.text"
+msgid "Not Superset Or Equal"
+msgstr "Nie nadzbiór ani równy"
+
+#. ewA9M
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_SETN\n"
+"toolboxitem.text"
+msgid "Natural Numbers Set"
+msgstr "Zbiór liczb naturalnych"
+
+#. sLybt
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_SETZ\n"
+"toolboxitem.text"
+msgid "Integers Set"
+msgstr "Zbiór liczb całkowitych"
+
+#. ygMcm
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_SETQ\n"
+"toolboxitem.text"
+msgid "Set of Rational Numbers"
+msgstr "Zbiór liczb wymiernych"
+
+#. uLoEy
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_SETR\n"
+"toolboxitem.text"
+msgid "Real Numbers Set"
+msgstr "Zbiór liczb rzeczywistych"
+
+#. vA2Hy
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_C\n"
+"RID_SETC\n"
+"toolboxitem.text"
+msgid "Complex Numbers Set"
+msgstr "Zbiór liczb zespolonych"
+
+#. dGzXE
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_EX\n"
+"toolboxitem.text"
+msgid "Exponential Function"
+msgstr "Funkcja wykładnicza"
+
+#. gNPAk
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_LNX\n"
+"toolboxitem.text"
+msgid "Natural Logarithm"
+msgstr "Logarytm naturalny"
+
+#. 33srS
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_EXPX\n"
+"toolboxitem.text"
+msgid "Exponential Function"
+msgstr "Funkcja wykładnicza"
+
+#. cdRAp
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_LOGX\n"
+"toolboxitem.text"
+msgid "Logarithm"
+msgstr "Logarytm"
+
+#. bsmc5
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_RSUPX\n"
+"toolboxitem.text"
+msgid "Power"
+msgstr "Potęga"
+
+#. 7CdhV
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_SINX\n"
+"toolboxitem.text"
+msgid "Sine"
+msgstr "Sinus"
+
+#. fGYEo
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_COSX\n"
+"toolboxitem.text"
+msgid "Cosine"
+msgstr "Cosinus"
+
+#. PGxKC
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_TANX\n"
+"toolboxitem.text"
+msgid "Tangent"
+msgstr "Tangens"
+
+#. jiAB7
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_COTX\n"
+"toolboxitem.text"
+msgid "Cotangent"
+msgstr "Cotangens"
+
+#. CKg4G
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_SQRTX\n"
+"toolboxitem.text"
+msgid "Square Root"
+msgstr "Pierwiastek kwadratowy"
+
+#. 8kiDe
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ARCSINX\n"
+"toolboxitem.text"
+msgid "Arcsine"
+msgstr "Arcus sinus"
+
+#. btCSN
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ARCCOSX\n"
+"toolboxitem.text"
+msgid "Arccosine"
+msgstr "Arcus cosinus"
+
+#. wmEpw
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ARCTANX\n"
+"toolboxitem.text"
+msgid "Arctangent"
+msgstr "Arcus tangens"
+
+#. FB87V
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ARCCOTX\n"
+"toolboxitem.text"
+msgid "Arccotangent"
+msgstr "Arcus cotangens"
+
+#. MPMd7
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_NROOTXY\n"
+"toolboxitem.text"
+msgid "N-th Root"
+msgstr "Pierwiastek stopnia"
+
+#. WvsKf
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_SINHX\n"
+"toolboxitem.text"
+msgid "Hyperbolic Sine"
+msgstr "Sinus hiperboliczny"
+
+#. mSwVX
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_COSHX\n"
+"toolboxitem.text"
+msgid "Hyperbolic Cosine"
+msgstr "Cosinus hiperboliczny"
+
+#. C4CUY
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_TANHX\n"
+"toolboxitem.text"
+msgid "Hyperbolic Tangent"
+msgstr "Tangens hiperboliczny"
+
+#. hVqAy
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_COTHX\n"
+"toolboxitem.text"
+msgid "Hyperbolic Cotangent"
+msgstr "Cotangens hiperboliczny"
+
+#. Eh3zC
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ABSX\n"
+"toolboxitem.text"
+msgid "Absolute Value"
+msgstr "Wartość bezwzględna"
+
+#. AAMdB
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ARSINHX\n"
+"toolboxitem.text"
+msgid "Area Hyperbolic Sine"
+msgstr "Area sinus hiperboliczny"
+
+#. d7L6a
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ARCOSHX\n"
+"toolboxitem.text"
+msgid "Area Hyperbolic Cosine"
+msgstr "Area cosinus hiperboliczny"
+
+#. iVvaS
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ARTANHX\n"
+"toolboxitem.text"
+msgid "Area Hyperbolic Tangent"
+msgstr "Area tangens hiperboliczny"
+
+#. DCgLH
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_ARCOTHX\n"
+"toolboxitem.text"
+msgid "Area Hyperbolic Cotangent"
+msgstr "Area cotangens hiperboliczny"
+
+#. yAWty
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_D\n"
+"RID_FACTX\n"
+"toolboxitem.text"
+msgid "Factorial"
+msgstr "Silnia"
+
+#. F8erD
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_LIMX\n"
+"toolboxitem.text"
+msgid "Limes"
+msgstr "Limes"
+
+#. KCPuu
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_SUMX\n"
+"toolboxitem.text"
+msgid "Sum"
+msgstr "Suma"
+
+#. 3id49
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_PRODX\n"
+"toolboxitem.text"
+msgid "Product"
+msgstr "Iloczyn"
+
+#. GCSDf
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_COPRODX\n"
+"toolboxitem.text"
+msgid "Coproduct"
+msgstr "Suma prosta"
+
+#. bEVNZ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_FROMXTOY\n"
+"toolboxitem.text"
+msgid "Upper And Lower Limit"
+msgstr "Dolna i górna granica"
+
+#. Sim6K
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_INTX\n"
+"toolboxitem.text"
+msgid "Integral"
+msgstr "Całka"
+
+#. fUTPc
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_IINTX\n"
+"toolboxitem.text"
+msgid "Double Integral"
+msgstr "Podwójna całka"
+
+#. njacZ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_IIINTX\n"
+"toolboxitem.text"
+msgid "Triple Integral"
+msgstr "Potrójna całka"
+
+#. BNmA5
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_FROMX\n"
+"toolboxitem.text"
+msgid "Lower Limit"
+msgstr "Dolna granica"
+
+#. YgZxQ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_LINTX\n"
+"toolboxitem.text"
+msgid "Curve Integral"
+msgstr "Całka krzywoliniowa"
+
+#. yQweF
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_LLINTX\n"
+"toolboxitem.text"
+msgid "Double Curve Integral"
+msgstr "Podwójna całka krzywoliniowa"
+
+#. h7qMo
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_LLLINTX\n"
+"toolboxitem.text"
+msgid "Triple Curve Integral"
+msgstr "Potrójna całka krzywoliniowa"
+
+#. ZUapd
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_E\n"
+"RID_TOX\n"
+"toolboxitem.text"
+msgid "Upper Limit"
+msgstr "Górna granica"
+
+#. XLE3B
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_ACUTEX\n"
+"toolboxitem.text"
+msgid "Acute Accent"
+msgstr "Symbol akcentu akutowego"
+
+#. BKT3d
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_GRAVEX\n"
+"toolboxitem.text"
+msgid "Grave Accent"
+msgstr "Symbol akcentu gravis"
+
+#. 6Fc3d
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_CHECKX\n"
+"toolboxitem.text"
+msgid "Reverse Circumflex"
+msgstr "Odwrócony daszek"
+
+#. GnqTt
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_BREVEX\n"
+"toolboxitem.text"
+msgid "Breve"
+msgstr "Znak krótkotrwałości"
+
+#. DVWCR
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_CIRCLEX\n"
+"toolboxitem.text"
+msgid "Circle"
+msgstr "Koło"
+
+#. ytTwb
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_VECX\n"
+"toolboxitem.text"
+msgid "Vector Arrow"
+msgstr "Strzałka wektora"
+
+#. roEqn
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_TILDEX\n"
+"toolboxitem.text"
+msgid "Tilde"
+msgstr "Tylda"
+
+#. UNCEA
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_HATX\n"
+"toolboxitem.text"
+msgid "Circumflex"
+msgstr "Daszek"
+
+#. XFGJG
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_BARX\n"
+"toolboxitem.text"
+msgid "Line Above"
+msgstr "Linia nad"
+
+#. CAk3B
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_DOTX\n"
+"toolboxitem.text"
+msgid "Dot"
+msgstr "Kropka"
+
+#. AH3Av
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_WIDEVECX\n"
+"toolboxitem.text"
+msgid "Large Vector Arrow"
+msgstr "Duża strzałka wektora"
+
+#. MAbr6
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_WIDETILDEX\n"
+"toolboxitem.text"
+msgid "Large Tilde"
+msgstr "Duża tylda"
+
+#. 9WZgS
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_WIDEHATX\n"
+"toolboxitem.text"
+msgid "Large Circumflex"
+msgstr "Szeroki daszek"
+
+#. CAiRi
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_DDOTX\n"
+"toolboxitem.text"
+msgid "Double Dot"
+msgstr "Dwie kropki"
+
+#. TdxUR
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_OVERLINEX\n"
+"toolboxitem.text"
+msgid "Line Over"
+msgstr "Linia nad"
+
+#. xpPoP
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_UNDERLINEX\n"
+"toolboxitem.text"
+msgid "Line Below"
+msgstr "Linia pod"
+
+#. 36hwM
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_OVERSTRIKEX\n"
+"toolboxitem.text"
+msgid "Line Through"
+msgstr "Przekreślenie"
+
+#. 5zQSV
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_DDDOTX\n"
+"toolboxitem.text"
+msgid "Triple Dot"
+msgstr "Trzy kropki"
+
+#. 5Fg2W
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_PHANTOMX\n"
+"toolboxitem.text"
+msgid "Transparent"
+msgstr "Przezroczysta czcionka"
+
+#. tUXgb
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_BOLDX\n"
+"toolboxitem.text"
+msgid "Bold Font"
+msgstr "Czcionka pogrubiona"
+
+#. D8vUF
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_ITALX\n"
+"toolboxitem.text"
+msgid "Italic Font"
+msgstr "Kursywa"
+
+#. qHqgZ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_SIZEXY\n"
+"toolboxitem.text"
+msgid "Resize"
+msgstr "Zmień rozmiar"
+
+#. vSg5L
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_F\n"
+"RID_FONTXY\n"
+"toolboxitem.text"
+msgid "Change Font"
+msgstr "Zmień czcionkę"
+
+#. U2Fp5
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LRPARENTX\n"
+"toolboxitem.text"
+msgid "Round Brackets"
+msgstr "Nawiasy okrągłe"
+
+#. hNdyc
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LRBRACKETX\n"
+"toolboxitem.text"
+msgid "Square Brackets"
+msgstr "Nawiasy kwadratowe"
+
+#. mUzQ3
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LRDBRACKETX\n"
+"toolboxitem.text"
+msgid "Double Square Brackets"
+msgstr "Podwójne nawiasy kwadratowe"
+
+#. WAEGF
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LRLINEX\n"
+"toolboxitem.text"
+msgid "Single Lines"
+msgstr "Pojedyncze linie"
+
+#. BqDJP
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LRDLINEX\n"
+"toolboxitem.text"
+msgid "Double Lines"
+msgstr "Podwójne linie"
+
+#. FoAG4
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LRBRACEX\n"
+"toolboxitem.text"
+msgid "Braces"
+msgstr "Nawiasy klamrowe"
+
+#. DuPYB
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LRANGLEX\n"
+"toolboxitem.text"
+msgid "Angle Brackets"
+msgstr "Nawiasy kątowe"
+
+#. C7Gcy
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LMRANGLEXY\n"
+"toolboxitem.text"
+msgid "Operator Brackets"
+msgstr "Nawiasy operatora"
+
+#. dAnhK
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_LRGROUPX\n"
+"toolboxitem.text"
+msgid "Group Brackets"
+msgstr "Nawiasy grupujące"
+
+#. c5xCY
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_SLRPARENTX\n"
+"toolboxitem.text"
+msgid "Round Brackets (Scalable)"
+msgstr "Nawiasy okrągłe (zmieniające rozmiar)"
+
+#. 7o85g
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_SLRBRACKETX\n"
+"toolboxitem.text"
+msgid "Square Brackets (Scalable)"
+msgstr "Nawiasy kwadratowe (zmieniające rozmiar)"
+
+#. xQw9j
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_SLRDBRACKETX\n"
+"toolboxitem.text"
+msgid "Double Square Brackets (Scalable)"
+msgstr "Podwójne nawiasy kwadratowe (zmieniające rozmiar)"
+
+#. Nq2Wq
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_SLRLINEX\n"
+"toolboxitem.text"
+msgid "Single Lines (Scalable)"
+msgstr "Pojedyncze linie (zmieniające rozmiar)"
+
+#. hsM7L
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_SLRDLINEX\n"
+"toolboxitem.text"
+msgid "Double Lines (Scalable)"
+msgstr "Podwójne linie (zmieniające rozmiar)"
+
+#. xjZdX
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_SLRBRACEX\n"
+"toolboxitem.text"
+msgid "Braces (Scalable)"
+msgstr "Nawiasy klamrowe (zmieniające rozmiar)"
+
+#. 3AUeD
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_SLRANGLEX\n"
+"toolboxitem.text"
+msgid "Angle Brackets (Scalable)"
+msgstr "Nawiasy kątowe (zmieniające rozmiar)"
+
+#. gALbw
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_SLMRANGLEXY\n"
+"toolboxitem.text"
+msgid "Operator Brackets (Scalable)"
+msgstr "Nawiasy operatora (zmieniające rozmiar)"
+
+#. DbBdN
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_XOVERBRACEY\n"
+"toolboxitem.text"
+msgid "Braces Top (Scalable)"
+msgstr "Nawiasy klamrowe u góry (zmieniające rozmiar)"
+
+#. zQax3
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_G\n"
+"RID_XUNDERBRACEY\n"
+"toolboxitem.text"
+msgid "Braces Bottom (Scalable)"
+msgstr "Nawiasy klamrowe u dołu (zmieniające rozmiar)"
+
+#. DWUJv
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_LSUPX\n"
+"toolboxitem.text"
+msgid "Superscript Left"
+msgstr "Indeks górny z lewej"
+
+#. Ga3QQ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_CSUPX\n"
+"toolboxitem.text"
+msgid "Superscript Top"
+msgstr "Indeks górny w górze"
+
+#. HwYRw
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_RSUPX\n"
+"toolboxitem.text"
+msgid "Superscript Right"
+msgstr "Indeks górny z prawej"
+
+#. 8ceCD
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_BINOMXY\n"
+"toolboxitem.text"
+msgid "Vertical Stack (2 Elements)"
+msgstr "Rozmieszczenie pionowe (2 elementy)"
+
+#. CCRh8
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_NEWLINE\n"
+"toolboxitem.text"
+msgid "New Line"
+msgstr "Nowy wiersz"
+
+#. bXAXE
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_LSUBX\n"
+"toolboxitem.text"
+msgid "Subscript Left"
+msgstr "Indeks dolny z lewej"
+
+#. zgAjc
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_CSUBX\n"
+"toolboxitem.text"
+msgid "Subscript Bottom"
+msgstr "Indeks dolny w dole"
+
+#. 3FySc
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_RSUBX\n"
+"toolboxitem.text"
+msgid "Subscript Right"
+msgstr "Indeks dolny z prawej"
+
+#. cXnk9
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_STACK\n"
+"toolboxitem.text"
+msgid "Vertical Stack"
+msgstr "Rozmieszczenie pionowe"
+
+#. Bk4Da
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_SBLANK\n"
+"toolboxitem.text"
+msgid "Small Gap"
+msgstr "Mały odstęp"
+
+#. eCxkV
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_ALIGNLX\n"
+"toolboxitem.text"
+msgid "Align Left"
+msgstr "Wyrównaj do lewej"
+
+#. N4AHN
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_ALIGNCX\n"
+"toolboxitem.text"
+msgid "Align Center"
+msgstr "Wyrównaj do środka"
+
+#. FGMBV
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_ALIGNRX\n"
+"toolboxitem.text"
+msgid "Align Right"
+msgstr "Wyrównaj do prawej"
+
+#. 668Y5
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_MATRIX\n"
+"toolboxitem.text"
+msgid "Matrix Stack"
+msgstr "Rozmieszczenie macierzy"
+
+#. pAwkW
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_H\n"
+"RID_BLANK\n"
+"toolboxitem.text"
+msgid "Gap"
+msgstr "Odstęp"
+
+#. DTsHJ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_INFINITY\n"
+"toolboxitem.text"
+msgid "infinite"
+msgstr "nieskończoność"
+
+#. XoDAz
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_PARTIAL\n"
+"toolboxitem.text"
+msgid "Partial"
+msgstr "Pochodna cząstkowa"
+
+#. 4mLVf
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_EXISTS\n"
+"toolboxitem.text"
+msgid "There Exists"
+msgstr "Istnieje"
+
+#. KChUn
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_NOTEXISTS\n"
+"toolboxitem.text"
+msgid "There Not Exists"
+msgstr "Nie istnieje"
+
+#. HYDo7
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_FORALL\n"
+"toolboxitem.text"
+msgid "For All"
+msgstr "Dla wszystkich"
+
+#. rkBGV
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_HBAR\n"
+"toolboxitem.text"
+msgid "h Bar"
+msgstr "h kreślone"
+
+#. Ak3ML
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_LAMBDABAR\n"
+"toolboxitem.text"
+msgid "Lambda Bar"
+msgstr "Lambda kreślona"
+
+#. XmYor
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_RE\n"
+"toolboxitem.text"
+msgid "Real Part"
+msgstr "Część rzeczywista"
+
+#. FEuQG
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_IM\n"
+"toolboxitem.text"
+msgid "Imaginary Part"
+msgstr "Część urojona"
+
+#. hdDbx
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_WP\n"
+"toolboxitem.text"
+msgid "Weierstrass p"
+msgstr "p Weierstrassa"
+
+#. 2QVF4
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_LEFTARROW\n"
+"toolboxitem.text"
+msgid "Left Arrow"
+msgstr "Strzałka w lewo"
+
+#. y9N38
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_RIGHTARROW\n"
+"toolboxitem.text"
+msgid "Right Arrow"
+msgstr "Strzałka w prawo"
+
+#. tAAFG
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_UPARROW\n"
+"toolboxitem.text"
+msgid "Up Arrow"
+msgstr "Strzałka w górę"
+
+#. XYiHP
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_DOWNARROW\n"
+"toolboxitem.text"
+msgid "Down Arrow"
+msgstr "Strzałka w dół"
+
+#. MiteZ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_NABLA\n"
+"toolboxitem.text"
+msgid "Nabla"
+msgstr "Nabla"
+
+#. eW3kJ
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_DOTSLOW\n"
+"toolboxitem.text"
+msgid "Dots At Bottom"
+msgstr "Kropki na dole"
+
+#. ZGBEL
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_DOTSAXIS\n"
+"toolboxitem.text"
+msgid "Dots In Middle"
+msgstr "Kropki w środku"
+
+#. MAiji
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_DOTSVERT\n"
+"toolboxitem.text"
+msgid "Dots Vertically"
+msgstr "Kropki pionowo"
+
+#. QkgKY
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_DOTSUP\n"
+"toolboxitem.text"
+msgid "Dots To Top"
+msgstr "Kropki w górę"
+
+#. EEjq8
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW.TOOLBOX_CAT_I\n"
+"RID_DOTSDOWN\n"
+"toolboxitem.text"
+msgid "Dots to Bottom"
+msgstr "Kropki w dół"
+
+#. PDBRr
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_TOOLBOXWINDOW\n"
+"floatingwindow.text"
+msgid "Elements"
+msgstr "Elementy"

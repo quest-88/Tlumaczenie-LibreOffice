@@ -1,0 +1,1385 @@
+#. extracted from svx/source/engine3d
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2013-05-26 17:09+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1369588170.0\n"
+
+#. cF2LX
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_GEO\n"
+"imagebutton.quickhelptext"
+msgid "Geometry"
+msgstr "Geometria"
+
+#. E7LAq
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_REPRESENTATION\n"
+"imagebutton.quickhelptext"
+msgid "Shading"
+msgstr "Przedstawienie"
+
+#. sELov
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT\n"
+"imagebutton.quickhelptext"
+msgid "Illumination"
+msgstr "Oświetlenie"
+
+#. pEg79
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEXTURE\n"
+"imagebutton.quickhelptext"
+msgid "Textures"
+msgstr "Tekstury"
+
+#. vy5hG
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_MATERIAL\n"
+"imagebutton.quickhelptext"
+msgid "Material"
+msgstr "Materiał"
+
+#. 3BdUH
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_UPDATE\n"
+"imagebutton.quickhelptext"
+msgid "Update"
+msgstr "Aktualizuj"
+
+#. GS3Aq
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_ASSIGN\n"
+"imagebutton.quickhelptext"
+msgid "Assign"
+msgstr "Przypisz"
+
+#. 384jr
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_CHANGE_TO_3D\n"
+"imagebutton.quickhelptext"
+msgid "Convert to 3D"
+msgstr "Konwertuj na 3D"
+
+#. LxK56
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LATHE_OBJ\n"
+"imagebutton.quickhelptext"
+msgid "Convert to Lathe Object"
+msgstr "Konwertuj na obiekt obrotowy"
+
+#. SCdFG
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_PERSPECTIVE\n"
+"imagebutton.quickhelptext"
+msgid "Perspective On/Off"
+msgstr "Włącz/Wyłącz perspektywę"
+
+#. 6jy9J
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_GEOMETRIE\n"
+"fixedline.text"
+msgid "Geometry"
+msgstr "Geometria"
+
+#. dTCvE
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_PERCENT_DIAGONAL\n"
+"fixedtext.text"
+msgid "R~ounded edges"
+msgstr "Za~okrąglone krawędzie"
+
+#. BpQbc
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_BACKSCALE\n"
+"fixedtext.text"
+msgid "~Scaled depth"
+msgstr "~Skalowanie głębi"
+
+#. NDDF6
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_END_ANGLE\n"
+"fixedtext.text"
+msgid "~Rotation angle"
+msgstr "Kąt ob~rotu"
+
+#. 89Wsr
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"MTR_END_ANGLE\n"
+"metricfield.text"
+msgid " degree(s)"
+msgstr " st."
+
+#. E8dCz
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_DEPTH\n"
+"fixedtext.text"
+msgid "~Depth"
+msgstr "~Głębia"
+
+#. gPt7Z
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_SEGMENTS\n"
+"fixedline.text"
+msgid "Segments"
+msgstr "Segmenty"
+
+#. g59Zu
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_HORIZONTAL\n"
+"fixedtext.text"
+msgid "~Horizontal"
+msgstr "~Poziomo"
+
+#. BTUJD
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_VERTICAL\n"
+"fixedtext.text"
+msgid "~Vertical"
+msgstr "~Pionowo"
+
+#. jiaKR
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_NORMALS\n"
+"fixedline.text"
+msgid "Normals"
+msgstr "Normalne"
+
+#. 2tmec
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_NORMALS_OBJ\n"
+"imagebutton.quickhelptext"
+msgid "Object-Specific"
+msgstr "Specyficzny dla obiektu"
+
+#. woyAT
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_NORMALS_FLAT\n"
+"imagebutton.quickhelptext"
+msgid "Flat"
+msgstr "Płaski"
+
+#. tZg3V
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_NORMALS_SPHERE\n"
+"imagebutton.quickhelptext"
+msgid "Spherical"
+msgstr "W kształcie kuli"
+
+#. oXtZb
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_NORMALS_INVERT\n"
+"imagebutton.quickhelptext"
+msgid "Invert Normals"
+msgstr "Odwróć normalne"
+
+#. ToCyA
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TWO_SIDED_LIGHTING\n"
+"imagebutton.quickhelptext"
+msgid "Double-Sided Illumination"
+msgstr "Oświetlenie obustronne"
+
+#. cKXdQ
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_DOUBLE_SIDED\n"
+"imagebutton.quickhelptext"
+msgid "Double-Sided"
+msgstr "Dwustronny"
+
+#. K8Wvw
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_SHADEMODE\n"
+"fixedtext.text"
+msgid "~Mode"
+msgstr "~Tryb"
+
+#. EBZRM
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_SHADEMODE\n"
+"1\n"
+"stringlist.text"
+msgid "Flat"
+msgstr "Płaski"
+
+#. T8u5e
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_SHADEMODE\n"
+"2\n"
+"stringlist.text"
+msgid "Phong"
+msgstr "Phonga"
+
+#. hJgiS
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_SHADEMODE\n"
+"3\n"
+"stringlist.text"
+msgid "Gouraud"
+msgstr "Gourauda"
+
+#. 2fkJC
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_SHADOW\n"
+"fixedline.text"
+msgid "Shadow"
+msgstr "Cień"
+
+#. ZunxZ
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_SHADOW_3D\n"
+"imagebutton.quickhelptext"
+msgid "3D Shadowing On/Off"
+msgstr "Włącz/Wyłącz cień 3D"
+
+#. ygBk2
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_SLANT\n"
+"fixedtext.text"
+msgid "S~urface angle"
+msgstr "Poch~ylenie powierzchni"
+
+#. JFoTZ
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"MTR_SLANT\n"
+"metricfield.text"
+msgid " degree(s)"
+msgstr " st."
+
+#. UGq5A
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_CAMERA\n"
+"fixedline.text"
+msgid "Camera"
+msgstr "Kamera"
+
+#. kWUWd
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_DISTANCE\n"
+"fixedtext.text"
+msgid "~Distance"
+msgstr "O~dległość"
+
+#. EBhED
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_FOCAL_LENGTH\n"
+"fixedtext.text"
+msgid "~Focal length"
+msgstr "~Ogniskowa"
+
+#. YsygL
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_REPRESENTATION\n"
+"fixedline.text"
+msgid "Shading"
+msgstr "Przedstawienie"
+
+#. CZpkE
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_LIGHTSOURCE\n"
+"fixedtext.text"
+msgid "~Light source"
+msgstr "Ź~ródło światła"
+
+#. HbvBP
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_1\n"
+"imagebutton.quickhelptext"
+msgid "Light Source 1"
+msgstr "Źródło światła 1"
+
+#. FrHwp
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_2\n"
+"imagebutton.quickhelptext"
+msgid "Light Source 2"
+msgstr "Źródło światła 2"
+
+#. Ezxu7
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_3\n"
+"imagebutton.quickhelptext"
+msgid "Light Source 3"
+msgstr "Źródło światła 3"
+
+#. BLSCz
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_4\n"
+"imagebutton.quickhelptext"
+msgid "Light Source 4"
+msgstr "Źródło światła 4"
+
+#. AUAEi
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_5\n"
+"imagebutton.quickhelptext"
+msgid "Light Source 5"
+msgstr "Źródło światła 5"
+
+#. CmUVM
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_6\n"
+"imagebutton.quickhelptext"
+msgid "Light Source 6"
+msgstr "Źródło światła 6"
+
+#. DCCXd
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_7\n"
+"imagebutton.quickhelptext"
+msgid "Light Source 7"
+msgstr "Źródło światła 7"
+
+#. JZyAG
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_8\n"
+"imagebutton.quickhelptext"
+msgid "Light Source 8"
+msgstr "Źródło światła 8"
+
+#. 9xBmZ
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_LIGHT_COLOR\n"
+"imagebutton.quickhelptext"
+msgid "Colors Dialog"
+msgstr "Wybierz kolor przez dialog kolorów"
+
+#. XeuaC
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_AMBIENTLIGHT\n"
+"fixedtext.text"
+msgid "~Ambient light"
+msgstr "Świ~atło otaczające"
+
+#. GSg5q
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_AMBIENT_COLOR\n"
+"imagebutton.quickhelptext"
+msgid "Colors Dialog"
+msgstr "Wybierz kolor przez dialog kolorów"
+
+#. aHUBA
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_LIGHT\n"
+"fixedline.text"
+msgid "Illumination"
+msgstr "Oświetlenie"
+
+#. DEzQ2
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_TEX_KIND\n"
+"fixedtext.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. N36p4
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_LUMINANCE\n"
+"imagebutton.quickhelptext"
+msgid "Black & White"
+msgstr "Czarno-biały"
+
+#. Zui7A
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_COLOR\n"
+"imagebutton.quickhelptext"
+msgid "Color"
+msgstr "Kolor"
+
+#. 8y8MQ
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_TEX_MODE\n"
+"fixedtext.text"
+msgid "~Mode"
+msgstr "~Tryb"
+
+#. uHr2o
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_REPLACE\n"
+"imagebutton.quickhelptext"
+msgid "Only Texture"
+msgstr "Tylko tekstura"
+
+#. JLGiy
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_MODULATE\n"
+"imagebutton.quickhelptext"
+msgid "Texture and Shading"
+msgstr "Tekstura i cieniowanie"
+
+#. CCYjV
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_BLEND\n"
+"imagebutton.quickhelptext"
+msgid "Texture, Shadow and Color"
+msgstr "Tekstura, Cieniowanie i Kolor"
+
+#. YBBGg
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_TEX_PROJECTION_X\n"
+"fixedtext.text"
+msgid "~Projection X"
+msgstr "~Projekcja X"
+
+#. 4hsCk
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_OBJECT_X\n"
+"imagebutton.quickhelptext"
+msgid "Object-Specific"
+msgstr "Specyficzny dla obiektu"
+
+#. CFWDD
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_PARALLEL_X\n"
+"imagebutton.quickhelptext"
+msgid "Parallel"
+msgstr "Równolegle"
+
+#. Hj2k5
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_CIRCLE_X\n"
+"imagebutton.quickhelptext"
+msgid "Circular"
+msgstr "W kształcie koła"
+
+#. 8Y4EL
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_TEX_PROJECTION_Y\n"
+"fixedtext.text"
+msgid "P~rojection Y"
+msgstr "P~rojekcja Y"
+
+#. 33raN
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_OBJECT_Y\n"
+"imagebutton.quickhelptext"
+msgid "Object-Specific"
+msgstr "Specyficzny dla obiektu"
+
+#. Erqcp
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_PARALLEL_Y\n"
+"imagebutton.quickhelptext"
+msgid "Parallel"
+msgstr "Równolegle"
+
+#. BNCCT
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_CIRCLE_Y\n"
+"imagebutton.quickhelptext"
+msgid "Circular"
+msgstr "W kształcie koła"
+
+#. QwwHD
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_TEX_FILTER\n"
+"fixedtext.text"
+msgid "~Filtering"
+msgstr "~Filtrowanie"
+
+#. ATmDs
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_TEX_FILTER\n"
+"imagebutton.quickhelptext"
+msgid "Filtering On/Off"
+msgstr "Włącz/Wyłącz filtrowanie"
+
+#. BAWw2
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_TEXTURE\n"
+"fixedline.text"
+msgid "Textures"
+msgstr "Tekstury"
+
+#. KoysB
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_MAT_FAVORITES\n"
+"fixedtext.text"
+msgid "~Favorites"
+msgstr "~Ulubione"
+
+#. C4BB6
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_MAT_FAVORITES\n"
+"1\n"
+"stringlist.text"
+msgid "User-defined"
+msgstr "Użytkownika"
+
+#. CeWVJ
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_MAT_FAVORITES\n"
+"2\n"
+"stringlist.text"
+msgid "Metal"
+msgstr "Metal"
+
+#. ga56m
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_MAT_FAVORITES\n"
+"3\n"
+"stringlist.text"
+msgid "Gold"
+msgstr "Złoto"
+
+#. yfAHU
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_MAT_FAVORITES\n"
+"4\n"
+"stringlist.text"
+msgid "Chrome"
+msgstr "Chrom"
+
+#. DFj8C
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_MAT_FAVORITES\n"
+"5\n"
+"stringlist.text"
+msgid "Plastic"
+msgstr "Plastik"
+
+#. K4Rbu
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D.LB_MAT_FAVORITES\n"
+"6\n"
+"stringlist.text"
+msgid "Wood"
+msgstr "Drewno"
+
+#. FoJe2
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_MAT_COLOR\n"
+"fixedtext.text"
+msgid "~Object color"
+msgstr "K~olor obiektu"
+
+#. EbBTG
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_MAT_COLOR\n"
+"imagebutton.quickhelptext"
+msgid "Colors Dialog"
+msgstr "Wybierz kolor przez dialog kolorów"
+
+#. DNfYi
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_MAT_EMISSION\n"
+"fixedtext.text"
+msgid "~Illumination color"
+msgstr "Kolor ośw~ietlenia"
+
+#. GNu9G
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_EMISSION_COLOR\n"
+"imagebutton.quickhelptext"
+msgid "Colors Dialog"
+msgstr "Wybierz kolor przez dialog kolorów"
+
+#. npULE
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_MAT_SPECULAR\n"
+"fixedline.text"
+msgid "Specular"
+msgstr "Błyszczący punkt"
+
+#. ZDAmT
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_MAT_SPECULAR\n"
+"fixedtext.text"
+msgid "~Color"
+msgstr "~Kolor"
+
+#. 2N3A9
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"BTN_SPECULAR_COLOR\n"
+"imagebutton.quickhelptext"
+msgid "Colors Dialog"
+msgstr "Wybierz kolor przez dialog kolorów"
+
+#. 9Y8Cd
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FT_MAT_SPECULAR_INTENSITY\n"
+"fixedtext.text"
+msgid "I~ntensity"
+msgstr "I~ntensywność"
+
+#. WALCD
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"FL_MATERIAL\n"
+"fixedline.text"
+msgid "Material"
+msgstr "Materiał"
+
+#. AGCEs
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT_3D\n"
+"dockingwindow.text"
+msgid "3D Effects"
+msgstr "Efekty 3D"
+
+#. nB9TT
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT3D_FAVORITE\n"
+"string.text"
+msgid "Favorite"
+msgstr "Ulubione"
+
+#. uBtne
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT3D_FIX_X\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#. mBARq
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT3D_FIX_Y\n"
+"string.text"
+msgid "Y"
+msgstr "Y"
+
+#. Baexz
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT3D_FIX_Z\n"
+"string.text"
+msgid "Z"
+msgstr "Z"
+
+#. dA8vj
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT3D_FIX_R\n"
+"string.text"
+msgid "R:"
+msgstr "R:"
+
+#. 2EbWz
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT3D_FIX_G\n"
+"string.text"
+msgid "G:"
+msgstr "G:"
+
+#. CAUvH
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT3D_FIX_B\n"
+"string.text"
+msgid "B:"
+msgstr "B:"
+
+#. j2ZCU
+#: float3d.src
+msgctxt ""
+"float3d.src\n"
+"RID_SVXFLOAT3D_COLOR_LIGHT_PRE\n"
+"string.text"
+msgid "Color Light Preview"
+msgstr "Podgląd w kolorach światła"
+
+#. eZwBY
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_CREATE_LATHE\n"
+"string.text"
+msgid "Create 3D rotation object"
+msgstr "Utwórz obiekt obrotowy 3D"
+
+#. PHBhp
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_EXCHANGE_PASTE\n"
+"string.text"
+msgid "Insert object(s)"
+msgstr "Wstaw obiekt(y)"
+
+#. rDbB9
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_SEGMENTS\n"
+"string.text"
+msgid "Number of segments"
+msgstr "Liczba segmentów"
+
+#. xZNxu
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_DEEPTH\n"
+"string.text"
+msgid "Object depth"
+msgstr "Głębia obiektu"
+
+#. R8sCu
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_FOCAL\n"
+"string.text"
+msgid "Focal length"
+msgstr "Ogniskowa"
+
+#. kxhga
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_CAMPOS\n"
+"string.text"
+msgid "Camera position"
+msgstr "Pozycja kamery"
+
+#. ACAdX
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_ROTATE\n"
+"string.text"
+msgid "Rotate 3D object"
+msgstr "Obróć obiekt 3D"
+
+#. D4PGp
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_EXTRUDE\n"
+"string.text"
+msgid "Create extrusion object"
+msgstr "Utwórz obiekt z perspektywą"
+
+#. ZRcfc
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_LATHE\n"
+"string.text"
+msgid "Create rotation object"
+msgstr "Utwórz obiekt obrotowy"
+
+#. DmHTs
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_BREAK_LATHE\n"
+"string.text"
+msgid "Split 3D object"
+msgstr "Podziel obiekt 3D"
+
+#. n7tbv
+#: string3d.src
+msgctxt ""
+"string3d.src\n"
+"RID_SVX_3D_UNDO_ATTRIBUTES\n"
+"string.text"
+msgid "3D Attributes"
+msgstr "Atrybuty 3D"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_GEO\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_REPRESENTATION\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEXTURE\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_MATERIAL\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_UPDATE\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_ASSIGN\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_CHANGE_TO_3D\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LATHE_OBJ\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_PERSPECTIVE\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_NORMALS_OBJ\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_NORMALS_FLAT\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_NORMALS_SPHERE\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_NORMALS_INVERT\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TWO_SIDED_LIGHTING\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_DOUBLE_SIDED\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_SHADOW_3D\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_1\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_2\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_3\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_4\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_5\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_6\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_7\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_8\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_LIGHT_COLOR\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_AMBIENT_COLOR\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_LUMINANCE\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_COLOR\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_REPLACE\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_MODULATE\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_BLEND\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_OBJECT_X\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_PARALLEL_X\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_CIRCLE_X\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_OBJECT_Y\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_PARALLEL_Y\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_CIRCLE_Y\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_TEX_FILTER\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_MAT_COLOR\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_EMISSION_COLOR\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "float3d.src\n"
+#~ "RID_SVXFLOAT_3D\n"
+#~ "BTN_SPECULAR_COLOR\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"

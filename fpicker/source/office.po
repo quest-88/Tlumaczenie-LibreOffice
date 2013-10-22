@@ -1,0 +1,464 @@
+#. extracted from fpicker/source/office
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2012-11-21 09:22+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1353489767.0\n"
+
+#. ENBYo
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_AUTO_EXTENSION\n"
+"string.text"
+msgid "~Automatic file name extension"
+msgstr "~Automatyczne rozszerzenie nazwy pliku"
+
+#. np5KJ
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_PASSWORD\n"
+"string.text"
+msgid "Save with pass~word"
+msgstr "Zapisz z ~hasłem"
+
+#. GBWHZ
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_FILTER_OPTIONS\n"
+"string.text"
+msgid "~Edit filter settings"
+msgstr "~Edycja ustawień filtra"
+
+#. tQDHh
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_READONLY\n"
+"string.text"
+msgid "~Read-only"
+msgstr "Tylko ~do odczytu"
+
+#. dJgDF
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_INSERT_AS_LINK\n"
+"string.text"
+msgid "~Link"
+msgstr "~Łącze"
+
+#. bJW8w
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_SHOW_PREVIEW\n"
+"string.text"
+msgid "Pr~eview"
+msgstr "Po~dgląd"
+
+#. KCzgs
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "O~dtwórz"
+
+#. mRTTW
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_VERSION\n"
+"string.text"
+msgid "~Version:"
+msgstr "~Wersja:"
+
+#. D7PY7
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_TEMPLATES\n"
+"string.text"
+msgid "S~tyles:"
+msgstr "S~tyle:"
+
+#. mHcRF
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_IMAGE_TEMPLATE\n"
+"string.text"
+msgid "Style:"
+msgstr "Styl:"
+
+#. Bi4Lw
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "~Zaznaczenie"
+
+#. Sz45t
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FILEPICKER_FILTER_TITLE\n"
+"string.text"
+msgid "File ~type:"
+msgstr "~Typ pliku:"
+
+#. MTzDD
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FOLDERPICKER_DEFAULT_TITLE\n"
+"string.text"
+msgid "Select Path"
+msgstr "Wybierz ścieżkę"
+
+#. QhFiP
+#: OfficeFilePicker.src
+msgctxt ""
+"OfficeFilePicker.src\n"
+"STR_SVT_FOLDERPICKER_DEFAULT_DESCRIPTION\n"
+"string.text"
+msgid "Please select a folder."
+msgstr "Wybierz katalog."
+
+#. Mv3To
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_NEWFOLDER\n"
+"imagebutton.quickhelptext"
+msgid "Create New Folder"
+msgstr "Utwórz nowy katalog"
+
+#. owmdM
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_UP\n"
+"menubutton.quickhelptext"
+msgid "Up One Level"
+msgstr "Katalog wyżej"
+
+#. sZQpn
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_CONNECT_TO_SERVER\n"
+"pushbutton.text"
+msgid "..."
+msgstr "..."
+
+#. EFrCC
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_CONNECT_TO_SERVER\n"
+"pushbutton.quickhelptext"
+msgid "Connect To Server"
+msgstr "Połącz z serwerem"
+
+#. hhZbQ
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"FT_EXPLORERFILE_FILENAME\n"
+"fixedtext.text"
+msgid "File ~name:"
+msgstr "~Nazwa pliku:"
+
+#. JdY4M
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"FT_EXPLORERFILE_FILETYPE\n"
+"fixedtext.text"
+msgid "File ~type:"
+msgstr "~Typ pliku:"
+
+#. sNBZH
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_EXPLORERFILE_READONLY\n"
+"checkbox.text"
+msgid "~Read-only"
+msgstr "Tylko ~do odczytu"
+
+#. EaPgJ
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_EXPLORERFILE_PASSWORD\n"
+"checkbox.text"
+msgid "Save with password"
+msgstr "Zapisz z hasłem"
+
+#. NmSpF
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_AUTO_EXTENSION\n"
+"checkbox.text"
+msgid "~Automatic file name extension"
+msgstr "~Automatyczne rozszerzenie nazwy pliku"
+
+#. wES9o
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"CB_OPTIONS\n"
+"checkbox.text"
+msgid "Edit ~filter settings"
+msgstr "Edycja ustawień ~filtra"
+
+#. et9cV
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"BTN_EXPLORERFILE_OPEN\n"
+"pushbutton.text"
+msgid "~Open"
+msgstr "~Otwórz"
+
+#. 4yLc2
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_OPEN\n"
+"string.text"
+msgid "Open"
+msgstr "Otwórz"
+
+#. PnqcD
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_SAVE\n"
+"string.text"
+msgid "Save as"
+msgstr "Zapisz jako"
+
+#. HAjgA
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_EXPLORERFILE_BUTTONSAVE\n"
+"string.text"
+msgid "~Save"
+msgstr "Zapi~sz"
+
+#. Qmpo7
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PATHNAME\n"
+"string.text"
+msgid "~Path:"
+msgstr "Ścież~ka:"
+
+#. bhbLc
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PATHSELECT\n"
+"string.text"
+msgid "Select path"
+msgstr "Wybierz ścieżkę"
+
+#. UEoz7
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_BUTTONSELECT\n"
+"string.text"
+msgid "~Select"
+msgstr "~Wybierz"
+
+#. e8dzW
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_ACTUALVERSION\n"
+"string.text"
+msgid "Current version"
+msgstr "Bieżąca wersja"
+
+#. VaBuC
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PREVIEW\n"
+"string.text"
+msgid "File Preview"
+msgstr "Podgląd pliku"
+
+#. zGL4D
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_DEFAULT_DIRECTORY\n"
+"string.text"
+msgid "My Documents"
+msgstr "Moje dokumenty"
+
+#. vRFbZ
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_EXPLORERFILE\n"
+"STR_PLACES_TITLE\n"
+"string.text"
+msgid "Places"
+msgstr "Miejsca"
+
+#. BgyRC
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_QUERYFOLDERNAME\n"
+"FT_SVT_QUERYFOLDERNAME_DLG_NAME\n"
+"fixedtext.text"
+msgid "Na~me"
+msgstr "Naz~wa"
+
+#. 6LMGq
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"DLG_FPICKER_QUERYFOLDERNAME\n"
+"FL_SVT_QUERYFOLDERNAME_DLG_NAME\n"
+"fixedline.text"
+msgid "Create new folder"
+msgstr "Utwórz nowy katalog"
+
+#. AJwNA
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"RID_FILEOPEN_NOTEXISTENTFILE\n"
+"string.text"
+msgid ""
+"The file $name$ does not exist.\n"
+"Make sure you have entered the correct file name."
+msgstr ""
+"Plik $name$ nie istnieje.\n"
+"Sprawdź, czy została podana poprawna nazwa pliku."
+
+#. FAQGH
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_FILTERNAME_ALL\n"
+"string.text"
+msgid "All files"
+msgstr "Wszystkie pliki"
+
+#. 5CULo
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid ""
+"A file named \"$filename$\" already exists.\n"
+"\n"
+"Do you want to replace it?"
+msgstr ""
+"Plik o nazwie \"$filename$\" już istnieje.\n"
+"\n"
+"Czy chcesz go zastąpić?"
+
+#. zz8ND
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_NEW_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "Katalog"
+
+#. ArESC
+#: iodlg.src
+msgctxt ""
+"iodlg.src\n"
+"STR_SVT_NOREMOVABLEDEVICE\n"
+"string.text"
+msgid ""
+"No removable storage device detected.\n"
+"Make sure it is plugged in properly and try again."
+msgstr ""
+"Nie wykryto wymiennego urządzenia pamięci masowej.\n"
+"Sprawdź, czy jest odpowiednio podłączone, i spróbuj ponownie."
+
+#~ msgctxt ""
+#~ "iodlg.src\n"
+#~ "DLG_FPICKER_EXPLORERFILE\n"
+#~ "BTN_EXPLORERFILE_NEWFOLDER\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "iodlg.src\n"
+#~ "DLG_FPICKER_EXPLORERFILE\n"
+#~ "BTN_EXPLORERFILE_UP\n"
+#~ "menubutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "iodlg.src\n"
+#~ "RID_FILEOPEN_INVALIDFOLDER\n"
+#~ "string.text"
+#~ msgid "$name$ does not exist."
+#~ msgstr "$name$ nie istnieje."
+
+#~ msgctxt ""
+#~ "iodlg.src\n"
+#~ "STR_SVT_ALLFORMATS\n"
+#~ "string.text"
+#~ msgid "All Formats"
+#~ msgstr "Wszystkie formaty"

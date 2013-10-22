@@ -1,0 +1,1716 @@
+#. extracted from sw/source/ui/index
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2013-05-25 09:50+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1369475427.0\n"
+
+#. 2erYs
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"STR_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Tytuł"
+
+#. cwEur
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"STR_ALPHA\n"
+"string.text"
+msgid "Separator"
+msgstr "Separator"
+
+#. SFyE2
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"STR_LEVEL\n"
+"string.text"
+msgid "Level "
+msgstr "Poziom "
+
+#. F6dwx
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"STR_FILE_NOT_FOUND\n"
+"string.text"
+msgid "The file, \"%1\" in the \"%2\" path could not be found."
+msgstr "Nie znaleziono pliku \"%1\" w ścieżce \"%2\"."
+
+#. CwBsF
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_MULTI_TOX.1\n"
+"TP_TOX_SELECT\n"
+"pageitem.text"
+msgid "Index/Table"
+msgstr "Indeks/Spis"
+
+#. id8qN
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_MULTI_TOX.1\n"
+"TP_TOX_ENTRY\n"
+"pageitem.text"
+msgid "Entries"
+msgstr "Wpisy"
+
+#. EmTTs
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_MULTI_TOX.1\n"
+"TP_TOX_STYLES\n"
+"pageitem.text"
+msgid "Styles"
+msgstr "Style"
+
+#. f5MUf
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_MULTI_TOX.1\n"
+"TP_COLUMN\n"
+"pageitem.text"
+msgid "Columns"
+msgstr "Kolumny"
+
+#. ntamL
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_MULTI_TOX.1\n"
+"TP_BACKGROUND\n"
+"pageitem.text"
+msgid "Background"
+msgstr "Tło"
+
+#. Cd83Z
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_MULTI_TOX\n"
+"ST_USERDEFINEDINDEX\n"
+"string.text"
+msgid "User-Defined Index"
+msgstr "Indeks użytkownika"
+
+#. Rtt3o
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_MULTI_TOX\n"
+"CB_SHOWEXAMPLE\n"
+"checkbox.text"
+msgid "Preview"
+msgstr "Podgląd"
+
+#. btgCM
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_MULTI_TOX\n"
+"tabdialog.text"
+msgid "Insert Index/Table"
+msgstr "Wstaw indeks/spis"
+
+#. vx9KD
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FL_TYPETITLE\n"
+"fixedline.text"
+msgid "Type and title"
+msgstr "Typ i tytuł"
+
+#. sn3m4
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FT_TITLE\n"
+"fixedtext.text"
+msgid "~Title"
+msgstr "~Tytuł"
+
+#. j5SeF
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FT_TYPE\n"
+"fixedtext.text"
+msgid "Type"
+msgstr "Typ"
+
+#. fJjv4
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_TYPE\n"
+"1\n"
+"stringlist.text"
+msgid "Table of Contents"
+msgstr "Spis treści"
+
+#. YAnES
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_TYPE\n"
+"2\n"
+"stringlist.text"
+msgid "Alphabetical Index"
+msgstr "Indeks alfabetyczny"
+
+#. LgXyv
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_TYPE\n"
+"3\n"
+"stringlist.text"
+msgid "Illustration Index"
+msgstr "Indeks ilustracji"
+
+#. 8CGtA
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_TYPE\n"
+"4\n"
+"stringlist.text"
+msgid "Index of Tables"
+msgstr "Indeks tabel"
+
+#. Yddsv
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_TYPE\n"
+"5\n"
+"stringlist.text"
+msgid "User-Defined"
+msgstr "Użytkownika"
+
+#. nM4di
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_TYPE\n"
+"6\n"
+"stringlist.text"
+msgid "Table of Objects"
+msgstr "Spis obiektów"
+
+#. ithXQ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_TYPE\n"
+"7\n"
+"stringlist.text"
+msgid "Bibliography"
+msgstr "Bibliografia"
+
+#. FGKxo
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_READONLY\n"
+"checkbox.text"
+msgid "Protected against manual changes"
+msgstr "Chroniony przed ręcznymi zmianami"
+
+#. 9XGD9
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FL_AREA\n"
+"fixedline.text"
+msgid "Create index/table"
+msgstr "Utwórz indeks/spis treści"
+
+#. he8B2
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FT_AREA\n"
+"fixedtext.text"
+msgid "for"
+msgstr "Dotyczy"
+
+#. nhhNG
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_AREA\n"
+"1\n"
+"stringlist.text"
+msgid "Entire document"
+msgstr "Cały dokument"
+
+#. vu9jS
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_AREA\n"
+"2\n"
+"stringlist.text"
+msgid "Chapter"
+msgstr "Rozdział"
+
+#. VrriB
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FT_LEVEL\n"
+"fixedtext.text"
+msgid "Evaluate up to level"
+msgstr "Uwzględnij poziom"
+
+#. a5cGd
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FL_CREATEFROM\n"
+"fixedline.text"
+msgid "Create from"
+msgstr "Utwórz z"
+
+#. h9vim
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_FROMHEADINGS\n"
+"checkbox.text"
+msgid "Outline"
+msgstr "Konspekt"
+
+#. z2AG9
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_ADDSTYLES\n"
+"checkbox.text"
+msgid "~Additional Styles"
+msgstr "Dod~atkowe style"
+
+#. Cyd2B
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"ST_USER_ADDSTYLE\n"
+"string.text"
+msgid "Styl~es"
+msgstr "~Style"
+
+#. dq3Bu
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_TOXMARKS\n"
+"checkbox.text"
+msgid "Inde~x marks"
+msgstr "Z~naczniki indeksu"
+
+#. EhGgC
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"RB_FROMCAPTIONS\n"
+"radiobutton.text"
+msgid "Captions"
+msgstr "Podpisy"
+
+#. i7hao
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FT_CAPTIONSEQUENCE\n"
+"fixedtext.text"
+msgid "Category"
+msgstr "Kategoria"
+
+#. AF855
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FT_DISPLAYTYPE\n"
+"fixedtext.text"
+msgid "Display"
+msgstr "Wyświetl"
+
+#. mG56w
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_DISPLAYTYPE\n"
+"1\n"
+"stringlist.text"
+msgid "References"
+msgstr "Odwołania"
+
+#. SCqzF
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_DISPLAYTYPE\n"
+"2\n"
+"stringlist.text"
+msgid "Category and Number"
+msgstr "Kategoria i numer"
+
+#. YEXnn
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.LB_DISPLAYTYPE\n"
+"3\n"
+"stringlist.text"
+msgid "Caption Text"
+msgstr "Tekst podpisu"
+
+#. hKfER
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"RB_FROMOBJECTNAMES\n"
+"radiobutton.text"
+msgid "Object names"
+msgstr "Nazwy obiektów"
+
+#. dvGxQ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_COLLECTSAME\n"
+"checkbox.text"
+msgid "Combine identical entries"
+msgstr "Połącz takie same wpisy"
+
+#. DDnaJ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_USEFF\n"
+"checkbox.text"
+msgid "Combine identical entries with p or ~pp"
+msgstr "Połącz takie same wpisy znakiem s lub ~ss"
+
+#. WdFuo
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_USE_DASH\n"
+"checkbox.text"
+msgid "Combine with -"
+msgstr "Połącz przy użyciu znaku -"
+
+#. TGebx
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_CASESENSITIVE\n"
+"checkbox.text"
+msgid "Case sensitive"
+msgstr "Uwzględnij wielkość liter"
+
+#. Ao33i
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_INITIALCAPS\n"
+"checkbox.text"
+msgid "AutoCapitalize entries"
+msgstr "Wpisy automatycznie wielką literą"
+
+#. sGxmJ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_KEYASENTRY\n"
+"checkbox.text"
+msgid "Keys as separate entries"
+msgstr "Klucze jako osobne wpisy"
+
+#. onDUu
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_FROMFILE\n"
+"checkbox.text"
+msgid "~Concordance file"
+msgstr "Plik konkor~dancji"
+
+#. i8FFZ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.MB_AUTOMARK\n"
+"MN_AUTOMARK_OPEN\n"
+"menuitem.text"
+msgid "Open"
+msgstr "Otwórz"
+
+#. DZqKj
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.MB_AUTOMARK\n"
+"MN_AUTOMARK_NEW\n"
+"menuitem.text"
+msgid "~New..."
+msgstr "~Nowy..."
+
+#. vZwRN
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.MB_AUTOMARK\n"
+"MN_AUTOMARK_EDIT\n"
+"menuitem.text"
+msgid "~Edit..."
+msgstr "~Edycja..."
+
+#. uB4B9
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"MB_AUTOMARK\n"
+"menubutton.text"
+msgid "~File"
+msgstr "~Plik"
+
+#. Aux6M
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_FROMTABLES\n"
+"checkbox.text"
+msgid "Tables"
+msgstr "Tabele"
+
+#. jvArg
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_FROMFRAMES\n"
+"checkbox.text"
+msgid "Te~xt frames"
+msgstr "Ramki te~kstowe"
+
+#. 2B4P5
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_FROMGRAPHICS\n"
+"checkbox.text"
+msgid "Graphics"
+msgstr "Grafika"
+
+#. yFXqC
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_FROMOLE\n"
+"checkbox.text"
+msgid "OLE objects"
+msgstr "Obiekty OLE"
+
+#. GBVr9
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_LEVELFROMCHAPTER\n"
+"checkbox.text"
+msgid "Use level from source chapter"
+msgstr "Poziom z rozdziału źródłowego"
+
+#. C2mm7
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FL_IDXOPTIONS\n"
+"fixedline.text"
+msgid "Options"
+msgstr "Opcje"
+
+#. wVwQc
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.RES_SRCTYPES.1\n"
+"1\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Math"
+msgstr "%PRODUCTNAME Math"
+
+#. TqCbA
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.RES_SRCTYPES.1\n"
+"2\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Chart"
+msgstr "%PRODUCTNAME Chart"
+
+#. iotbB
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.RES_SRCTYPES.1\n"
+"3\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Calc"
+msgstr "%PRODUCTNAME Calc"
+
+#. NPimo
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.RES_SRCTYPES.1\n"
+"4\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Draw/%PRODUCTNAME Impress"
+msgstr "%PRODUCTNAME Draw/%PRODUCTNAME Impress"
+
+#. 4SwiQ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT.RES_SRCTYPES.1\n"
+"5\n"
+"itemlist.text"
+msgid "Other OLE Objects"
+msgstr "Inne obiekty OLE"
+
+#. VqDbB
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FL_FROMOBJ\n"
+"fixedline.text"
+msgid "Create from the following objects"
+msgstr "Utwórz z następujących obiektów"
+
+#. bmBdj
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"CB_SEQUENCE\n"
+"checkbox.text"
+msgid "~Number entries"
+msgstr "N~umeruj wpisy"
+
+#. ASDJp
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_SELECT\n"
+"FT_BRACKET\n"
+"fixedtext.text"
+msgid "~Brackets"
+msgstr "~Nawiasy"
+
+#. EgeDB
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"ST_NO_BRACKET\n"
+"string.text"
+msgid "[none]"
+msgstr "[brak]"
+
+#. wGAP6
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"FL_AUTHORITY\n"
+"fixedline.text"
+msgid "Formatting of the entries"
+msgstr "Formatowanie wpisów"
+
+#. tsi6f
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"ST_AUTOMARK_TYPE\n"
+"string.text"
+msgid "Selection file for the alphabetical index (*.sdi)"
+msgstr "Plik wyboru dla indeksu alfabetycznego (*.sdi)"
+
+#. LFzNu
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"FL_SORTOPTIONS\n"
+"fixedline.text"
+msgid "Sort"
+msgstr "Sortuj"
+
+#. EkJdL
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"FT_LANGUAGE\n"
+"fixedtext.text"
+msgid "Language"
+msgstr "Język"
+
+#. Ber7F
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"FT_SORTALG\n"
+"fixedtext.text"
+msgid "Key type"
+msgstr "Typ klucza"
+
+#. 298Kf
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_LEVEL\n"
+"fixedtext.text"
+msgid "~Level"
+msgstr "P~oziom"
+
+#. sx3nJ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"ST_AUTHTYPE\n"
+"string.text"
+msgid "~Type"
+msgstr "~Typ"
+
+#. zsuDK
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_TOKEN\n"
+"fixedtext.text"
+msgid "~Structure"
+msgstr "~Struktura"
+
+#. WApKd
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_ENTRY_NO\n"
+"string.text"
+msgid "E#"
+msgstr "W#"
+
+#. MrBXJ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_ENTRY\n"
+"string.text"
+msgid "E"
+msgstr "E"
+
+#. UCvn2
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_TAB_STOP\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#. GfnjA
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_PAGE_NUMS\n"
+"string.text"
+msgid "#"
+msgstr "#"
+
+#. CBeBD
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_CHAPTER_INFO\n"
+"string.text"
+msgid "CI"
+msgstr "IR"
+
+#. NDD6Y
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_LINK_START\n"
+"string.text"
+msgid "LS"
+msgstr "PH"
+
+#. D5hcQ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_LINK_END\n"
+"string.text"
+msgid "LE"
+msgstr "KH"
+
+#. vpXWF
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_AUTHORITY\n"
+"string.text"
+msgid "A"
+msgstr "A"
+
+#. FuzYr
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_ENTRY_NO\n"
+"string.text"
+msgid "Chapter number"
+msgstr "Numer rozdziału"
+
+#. isSqG
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_ENTRY\n"
+"string.text"
+msgid "Entry"
+msgstr "Wpis"
+
+#. a7V9F
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_TAB_STOP\n"
+"string.text"
+msgid "Tab stop"
+msgstr "Tabulator"
+
+#. kpveE
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. kz5Fp
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_PAGE_NUMS\n"
+"string.text"
+msgid "Page number"
+msgstr "Numer strony"
+
+#. NbFA2
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_CHAPTER_INFO\n"
+"string.text"
+msgid "Chapter info"
+msgstr "Informacje o rozdziale"
+
+#. FbFzR
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_LINK_START\n"
+"string.text"
+msgid "Hyperlink start"
+msgstr "Początek hiperłącza"
+
+#. BR373
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_LINK_END\n"
+"string.text"
+msgid "Hyperlink end"
+msgstr "Koniec hiperłącza"
+
+#. Gb4ZG
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_TOKEN_HELP_AUTHORITY\n"
+"string.text"
+msgid "Bibliography entry: "
+msgstr "Pozycja bibliograficzna: "
+
+#. e4AFK
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.WIN_TOKEN\n"
+"STR_CHARSTYLE\n"
+"string.text"
+msgid "Character Style: "
+msgstr "Styl znaku: "
+
+#. T8yzi
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_ALL_LEVELS\n"
+"pushbutton.text"
+msgid "~All"
+msgstr "W~szystko"
+
+#. A5EAx
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_ENTRYNO\n"
+"pushbutton.text"
+msgid "Chapter no."
+msgstr "Nr rozdziału"
+
+#. U5StP
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_ENTRY\n"
+"pushbutton.text"
+msgid "Entry text"
+msgstr "Tekst wpisu"
+
+#. LyzSm
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_CHAPTERINFO\n"
+"pushbutton.text"
+msgid "~Chapter info"
+msgstr "R~ozdział"
+
+#. oGFAM
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_PAGENO\n"
+"pushbutton.text"
+msgid "Page no."
+msgstr "Nr strony"
+
+#. uWYTA
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_TAB\n"
+"pushbutton.text"
+msgid "Tab stop"
+msgstr "Tabulator"
+
+#. 98FDR
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_HYPERLINK\n"
+"pushbutton.text"
+msgid "H~yperlink"
+msgstr "~Hiperłącze"
+
+#. ffe3y
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_AUTHINSERT\n"
+"pushbutton.text"
+msgid "~Insert"
+msgstr "W~staw"
+
+#. 7u7PU
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_AUTHREMOVE\n"
+"pushbutton.text"
+msgid "~Remove"
+msgstr "~Usuń"
+
+#. UfV4j
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_CHARSTYLE\n"
+"fixedtext.text"
+msgid "Character Style"
+msgstr "Styl znaku"
+
+#. yX8Nh
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"PB_EDITSTYLE\n"
+"pushbutton.text"
+msgid "~Edit..."
+msgstr "~Edycja..."
+
+#. nBCu5
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_FILLCHAR\n"
+"fixedtext.text"
+msgid "Fill character"
+msgstr "Znak-wypełniacz"
+
+#. 6X2At
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_CHAPTERENTRY\n"
+"fixedtext.text"
+msgid "Chapter entry"
+msgstr "Wpis rozdziału"
+
+#. RQBoe
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.LB_CHAPTERENTRY\n"
+"1\n"
+"stringlist.text"
+msgid "Number range only"
+msgstr "Tylko sekwencja"
+
+#. DKzBg
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.LB_CHAPTERENTRY\n"
+"2\n"
+"stringlist.text"
+msgid "Description only"
+msgstr "Tylko opis"
+
+#. ke8HJ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.LB_CHAPTERENTRY\n"
+"3\n"
+"stringlist.text"
+msgid "Number range and description"
+msgstr "Sekwencja i opis"
+
+#. EwED8
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_ENTRY_NO\n"
+"fixedtext.text"
+msgid "Format"
+msgstr "Format"
+
+#. etDCb
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.LB_ENTRY_NO\n"
+"1\n"
+"stringlist.text"
+msgid "Number"
+msgstr "Liczba"
+
+#. ETich
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY.LB_ENTRY_NO\n"
+"2\n"
+"stringlist.text"
+msgid "Number without separator"
+msgstr "Liczba bez separatora"
+
+#. CUqEB
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_LEVEL_OL\n"
+"fixedtext.text"
+msgid "Evaluate up to level"
+msgstr "Uwzględnij poziom"
+
+#. jDRjY
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_TABPOS\n"
+"fixedtext.text"
+msgid "Tab stop position"
+msgstr "Pozycja tabulatora"
+
+#. fhQoX
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"CB_AUTORIGHT\n"
+"checkbox.text"
+msgid "Align right"
+msgstr "Wyrównaj do prawej"
+
+#. dPFbq
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FL_ENTRY\n"
+"fixedline.text"
+msgid "Structure and Formatting"
+msgstr "Struktura i formatowanie"
+
+#. G47AG
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"CB_RELTOSTYLE\n"
+"checkbox.text"
+msgid "Tab position relati~ve to Paragraph Style indent"
+msgstr "Pozycja tabulatora w~zględem wcięcia ze stylu akapitu"
+
+#. Ff7rD
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FT_MAIN_ENTRY_STYLE\n"
+"fixedtext.text"
+msgid "Character Style for main entries"
+msgstr "Styl znaku wpisów głównych"
+
+#. gUf4x
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"CB_ALPHADELIM\n"
+"checkbox.text"
+msgid "Alphabetical delimiter"
+msgstr "Separator alfabetyczny"
+
+#. 8nnHN
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"CB_COMMASEPARATED\n"
+"checkbox.text"
+msgid "Key separated by commas"
+msgstr "Klucz rozdzielony przecinkami"
+
+#. Cv4ki
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FL_FORMAT\n"
+"fixedline.text"
+msgid "Format"
+msgstr "Format"
+
+#. Yf9GN
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"RB_DOCPOS\n"
+"radiobutton.text"
+msgid "Document ~position "
+msgstr "~Pozycja w dokumencie "
+
+#. pWN3F
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"RB_SORTCONTENT\n"
+"radiobutton.text"
+msgid "~Content"
+msgstr "~Zawartość"
+
+#. w2HqD
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FL_SORTING\n"
+"fixedline.text"
+msgid "Sort by"
+msgstr "Sortuj wg"
+
+#. HBfKS
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"RB_SORTUP1\n"
+"imageradiobutton.quickhelptext"
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#. SBqTy
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"RB_SORTDOWN1\n"
+"imageradiobutton.quickhelptext"
+msgid "Descending"
+msgstr "Malejąco"
+
+#. G7mek
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"RB_SORTUP2\n"
+"imageradiobutton.quickhelptext"
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#. V7o5e
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"RB_SORTDOWN2\n"
+"imageradiobutton.quickhelptext"
+msgid "Descending"
+msgstr "Malejąco"
+
+#. rvAdF
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"RB_SORTUP3\n"
+"imageradiobutton.quickhelptext"
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#. UdnZ3
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"RB_SORTDOWN3\n"
+"imageradiobutton.quickhelptext"
+msgid "Descending"
+msgstr "Malejąco"
+
+#. iphfG
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"FL_SORTKEY\n"
+"fixedline.text"
+msgid "Sort keys"
+msgstr "Klucz sortowania"
+
+#. dTjiU
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"STR_NOSORTKEY\n"
+"string.text"
+msgid "<None>"
+msgstr "<Brak>"
+
+#. sTDxe
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"STR_NO_CHAR_STYLE\n"
+"string.text"
+msgid "<None>"
+msgstr "<Brak>"
+
+#. H782N
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_ENTRY\n"
+"STR_DELIM\n"
+"string.text"
+msgid "S"
+msgstr "S"
+
+#. QE3N4
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_STYLES\n"
+"FT_LEVEL\n"
+"fixedtext.text"
+msgid "~Levels"
+msgstr "P~oziomy"
+
+#. DcZwV
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_STYLES\n"
+"FT_TEMPLATE\n"
+"fixedtext.text"
+msgid "Paragraph ~Styles"
+msgstr "~Style akapitów"
+
+#. Ur9en
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_STYLES\n"
+"BT_STD\n"
+"pushbutton.text"
+msgid "~Default"
+msgstr "~Domyślnie"
+
+#. rwFDU
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_STYLES\n"
+"BT_EDIT_STYLE\n"
+"pushbutton.text"
+msgid "~Edit"
+msgstr "~Edycja"
+
+#. 2Lfhh
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"TP_TOX_STYLES\n"
+"FL_FORMAT\n"
+"fixedline.text"
+msgid "Assignment"
+msgstr "Przypisanie"
+
+#. iBPmz
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_ADD_IDX_STYLES\n"
+"PB_LEFT\n"
+"imagebutton.quickhelptext"
+msgid "Left"
+msgstr "Lewy"
+
+#. aL3ZS
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_ADD_IDX_STYLES\n"
+"PB_RIGHT\n"
+"imagebutton.quickhelptext"
+msgid "Right"
+msgstr "Prawy"
+
+#. aWAVd
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_ADD_IDX_STYLES\n"
+"FL_STYLES\n"
+"fixedline.text"
+msgid "Styl~es"
+msgstr "~Style"
+
+#. u6cgQ
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_ADD_IDX_STYLES\n"
+"ST_HB_FIRST\n"
+"string.text"
+msgid "Not applied"
+msgstr "Nieprzypisany"
+
+#. xXhCD
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_ADD_IDX_STYLES\n"
+"modaldialog.text"
+msgid "Assign Styles"
+msgstr "Przypisz style"
+
+#. QwuJG
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_SEARCH\n"
+"string.text"
+msgid "Search term"
+msgstr "Szukana fraza"
+
+#. mDdPS
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_ALTERNATIVE\n"
+"string.text"
+msgid "Alternative entry"
+msgstr "Wpis alternatywny"
+
+#. kzBFF
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_PRIMKEY\n"
+"string.text"
+msgid "1st key"
+msgstr "Pierwszy klucz"
+
+#. vHJsD
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_SECKEY\n"
+"string.text"
+msgid "2nd key"
+msgstr "Drugi klucz"
+
+#. EjFdz
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_COMMENT\n"
+"string.text"
+msgid "Comment"
+msgstr "Komentarz"
+
+#. g6dU5
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_CASESENSITIVE\n"
+"string.text"
+msgid "Match case"
+msgstr "Uwzględniaj wielkość liter"
+
+#. Q7v83
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_WORDONLY\n"
+"string.text"
+msgid "Word only"
+msgstr "Całe wyrazy"
+
+#. CG5hT
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_TRUE\n"
+"string.text"
+msgid "Yes"
+msgstr "Tak"
+
+#. CyxLh
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK.BB_ENTRIES\n"
+"ST_FALSE\n"
+"string.text"
+msgid "No"
+msgstr "Nie"
+
+#. iCGG4
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK\n"
+"FL_ENTRIES\n"
+"fixedline.text"
+msgid "Entries"
+msgstr "Wpisy"
+
+#. u8fAy
+#: cnttab.src
+msgctxt ""
+"cnttab.src\n"
+"DLG_CREATE_AUTOMARK\n"
+"modaldialog.text"
+msgid "Edit Concordance File"
+msgstr "Edycja pliku konkordancji"
+
+#. oG3XD
+#: idxmrk.src
+msgctxt ""
+"idxmrk.src\n"
+"STR_IDXMRK_EDIT\n"
+"string.text"
+msgid "Edit Index Entry"
+msgstr "Edycja wpisu indeksu"
+
+#. GukAE
+#: idxmrk.src
+msgctxt ""
+"idxmrk.src\n"
+"STR_IDXMRK_INSERT\n"
+"string.text"
+msgid "Insert Index Entry"
+msgstr "Wstaw wpis indeksu"
+
+#. mPxnC
+#: idxmrk.src
+msgctxt ""
+"idxmrk.src\n"
+"DLG_CHANGE_AUTH_ENTRY\n"
+"querybox.text"
+msgid "The document already contains the bibliography entry but with different data. Do you want to adjust the existing entries?"
+msgstr ""
+"Dokument zawiera już pozycję bibliograficzną, ale z innymi danymi. Dopasować "
+"istniejące wpisy?"
+
+#. Cf4rS
+#: multmrk.src
+msgctxt ""
+"multmrk.src\n"
+"DLG_MULTMRK\n"
+"FL_TOX\n"
+"fixedline.text"
+msgid "Selection"
+msgstr "Zaznaczenie"
+
+#. pTV35
+#: multmrk.src
+msgctxt ""
+"multmrk.src\n"
+"DLG_MULTMRK\n"
+"FT_ENTRY\n"
+"fixedtext.text"
+msgid "Index"
+msgstr "Indeks"
+
+#. qxwDy
+#: multmrk.src
+msgctxt ""
+"multmrk.src\n"
+"DLG_MULTMRK\n"
+"FT_TOX\n"
+"fixedtext.text"
+msgid "Entry"
+msgstr "Wpis"
+
+#. ZkAfF
+#: multmrk.src
+msgctxt ""
+"multmrk.src\n"
+"DLG_MULTMRK\n"
+"modaldialog.text"
+msgid "Index Markings"
+msgstr "Znaczniki indeksu"
+
+#~ msgctxt ""
+#~ "cnttab.src\n"
+#~ "TP_TOX_ENTRY\n"
+#~ "RB_SORTUP1\n"
+#~ "imageradiobutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "cnttab.src\n"
+#~ "TP_TOX_ENTRY\n"
+#~ "RB_SORTDOWN1\n"
+#~ "imageradiobutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "cnttab.src\n"
+#~ "TP_TOX_ENTRY\n"
+#~ "RB_SORTUP2\n"
+#~ "imageradiobutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "cnttab.src\n"
+#~ "TP_TOX_ENTRY\n"
+#~ "RB_SORTDOWN2\n"
+#~ "imageradiobutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "cnttab.src\n"
+#~ "TP_TOX_ENTRY\n"
+#~ "RB_SORTUP3\n"
+#~ "imageradiobutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "cnttab.src\n"
+#~ "TP_TOX_ENTRY\n"
+#~ "RB_SORTDOWN3\n"
+#~ "imageradiobutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "cnttab.src\n"
+#~ "DLG_ADD_IDX_STYLES\n"
+#~ "PB_LEFT\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "cnttab.src\n"
+#~ "DLG_ADD_IDX_STYLES\n"
+#~ "PB_RIGHT\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt ""
+#~ "idxmrk.src\n"
+#~ "DLG_NEW_USER_IDX\n"
+#~ "FL_NAME\n"
+#~ "fixedline.text"
+#~ msgid "New user index"
+#~ msgstr "Nowy indeks użytkownika"
+
+#~ msgctxt ""
+#~ "idxmrk.src\n"
+#~ "DLG_NEW_USER_IDX\n"
+#~ "FT_NAME\n"
+#~ "fixedtext.text"
+#~ msgid "~Name"
+#~ msgstr "~Nazwa"
+
+#~ msgctxt ""
+#~ "idxmrk.src\n"
+#~ "DLG_NEW_USER_IDX\n"
+#~ "modaldialog.text"
+#~ msgid "Create New User-defined Index"
+#~ msgstr "Utwórz nowy indeks użytkownika"
+
+#~ msgctxt ""
+#~ "idxmrk.src\n"
+#~ "DLG_CREATE_AUTH_ENTRY\n"
+#~ "FL_ENTRIES\n"
+#~ "fixedline.text"
+#~ msgid "Entry data"
+#~ msgstr "Dane wpisu"
+
+#~ msgctxt ""
+#~ "idxmrk.src\n"
+#~ "DLG_CREATE_AUTH_ENTRY\n"
+#~ "modaldialog.text"
+#~ msgid "Define Bibliography Entry"
+#~ msgstr "Definiuj pozycję bibliograficzną"

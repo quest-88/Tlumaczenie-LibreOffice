@@ -1,0 +1,175 @@
+#. extracted from sc/source/ui/formdlg
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2011-04-06 01:34+0200\n"
+"Last-Translator: marcinz <marcinzb@interia.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#. jRc3m
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"1\n"
+"stringlist.text"
+msgid "Last Used"
+msgstr "Ostatnio użyte"
+
+#. tMJHC
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"2\n"
+"stringlist.text"
+msgid "All"
+msgstr "Wszystko"
+
+#. FvYBo
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"3\n"
+"stringlist.text"
+msgid "Database"
+msgstr "Baza danych"
+
+#. uCVKq
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"4\n"
+"stringlist.text"
+msgid "Date&Time"
+msgstr "Data i godzina"
+
+#. z6Kg8
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"5\n"
+"stringlist.text"
+msgid "Financial"
+msgstr "Finanse"
+
+#. qNSNF
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"6\n"
+"stringlist.text"
+msgid "Information"
+msgstr "Informacja"
+
+#. LD82A
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"7\n"
+"stringlist.text"
+msgid "Logical"
+msgstr "Logiczne"
+
+#. 7qoz2
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"8\n"
+"stringlist.text"
+msgid "Mathematical"
+msgstr "Matematyka"
+
+#. ecEbR
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"9\n"
+"stringlist.text"
+msgid "Array"
+msgstr "Macierz"
+
+#. wANG3
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"10\n"
+"stringlist.text"
+msgid "Statistical"
+msgstr "Statystyka"
+
+#. H6ttf
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"11\n"
+"stringlist.text"
+msgid "Spreadsheet"
+msgstr "Arkusz kalkulacyjny"
+
+#. oDdsp
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"12\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Tekst"
+
+#. UuoyD
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX.CB_CAT\n"
+"13\n"
+"stringlist.text"
+msgid "Add-in"
+msgstr "Dodatek"
+
+#. HogqR
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX\n"
+"IMB_INSERT\n"
+"imagebutton.quickhelptext"
+msgid "Insert Function into calculation sheet"
+msgstr "Wstaw funkcję do arkusza"
+
+#. 3uJiN
+#: dwfunctr.src
+msgctxt ""
+"dwfunctr.src\n"
+"FID_FUNCTION_BOX\n"
+"dockingwindow.text"
+msgid "Functions"
+msgstr "Funkcje"
+
+#~ msgctxt ""
+#~ "dwfunctr.src\n"
+#~ "FID_FUNCTION_BOX\n"
+#~ "IMB_INSERT\n"
+#~ "imagebutton.text"
+#~ msgid "-"
+#~ msgstr "-"

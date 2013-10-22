@@ -1,0 +1,291 @@
+#. extracted from sc/source/ui/styleui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=Lib"
+"reOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:06+0200\n"
+"PO-Revision-Date: 2013-05-10 15:51+0000\n"
+"Last-Translator: Konrad <raknor@wp.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1368201078.0\n"
+
+#. PvL3Q
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER\n"
+"Cell Styles\n"
+"sfxstylefamilyitem.text"
+msgid "Cell Styles"
+msgstr "Style komórki"
+
+#. Kpoqj
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER.Cell Styles\n"
+"1\n"
+"filterlist.text"
+msgid "All Styles"
+msgstr "Wszystkie Style"
+
+#. D8poY
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER.Cell Styles\n"
+"2\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Ukryte style"
+
+#. VRMUe
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER.Cell Styles\n"
+"3\n"
+"filterlist.text"
+msgid "Applied Styles"
+msgstr "Stosowane Style"
+
+#. y7yv4
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER.Cell Styles\n"
+"4\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "Własne Style"
+
+#. JfRG5
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER\n"
+"Page Styles\n"
+"sfxstylefamilyitem.text"
+msgid "Page Styles"
+msgstr "Style strony"
+
+#. EvCUG
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER.Page Styles\n"
+"1\n"
+"filterlist.text"
+msgid "All Styles"
+msgstr "Wszystkie Style"
+
+#. EKoko
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER.Page Styles\n"
+"2\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Ukryte style"
+
+#. iXyw2
+#: scstyles.src
+msgctxt ""
+"scstyles.src\n"
+"DLG_STYLE_DESIGNER.Page Styles\n"
+"3\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "Własne Style"
+
+#. UAg7g
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR.1\n"
+"TP_NUMBER\n"
+"pageitem.text"
+msgid "Numbers"
+msgstr "Liczby"
+
+#. Qvs8T
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR.1\n"
+"TP_FONT\n"
+"pageitem.text"
+msgid "Font"
+msgstr "Czcionka"
+
+#. qKb3d
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR.1\n"
+"TP_FONTEFF\n"
+"pageitem.text"
+msgid "Font Effects"
+msgstr "Efekty czcionki"
+
+#. WcBut
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR.1\n"
+"TP_ALIGNMENT\n"
+"pageitem.text"
+msgid "Alignment"
+msgstr "Wyrównanie"
+
+#. BMdNE
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR.1\n"
+"TP_ASIAN\n"
+"pageitem.text"
+msgid "Asian Typography"
+msgstr "Typografia azjatycka"
+
+#. D8xok
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR.1\n"
+"TP_BORDER\n"
+"pageitem.text"
+msgid "Borders"
+msgstr "Krawędzie"
+
+#. FqQSy
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR.1\n"
+"TP_BACKGROUND\n"
+"pageitem.text"
+msgid "Background"
+msgstr "Tło"
+
+#. Tijwu
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR.1\n"
+"TP_PROTECTION\n"
+"pageitem.text"
+msgid "Cell Protection"
+msgstr "Ochrona komórek"
+
+#. vDYVA
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAR\n"
+"tabdialog.text"
+msgid "Cell Style"
+msgstr "Styl komórki"
+
+#. EyqJJ
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAGE.1\n"
+"TP_PAGE_STD\n"
+"pageitem.text"
+msgid "Page"
+msgstr "Strona"
+
+#. FiXA5
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAGE.1\n"
+"TP_BORDER\n"
+"pageitem.text"
+msgid "Borders"
+msgstr "Krawędzie"
+
+#. N4Ent
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAGE.1\n"
+"TP_BACKGROUND\n"
+"pageitem.text"
+msgid "Background"
+msgstr "Tło"
+
+#. fSJd4
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAGE.1\n"
+"TP_PAGE_HEADER\n"
+"pageitem.text"
+msgid "Header"
+msgstr "Główka"
+
+#. rKyyX
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAGE.1\n"
+"TP_PAGE_FOOTER\n"
+"pageitem.text"
+msgid "Footer"
+msgstr "Stopka"
+
+#. EGGGY
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAGE.1\n"
+"TP_TABLE\n"
+"pageitem.text"
+msgid "Sheet"
+msgstr "Arkusz"
+
+#. c3BRu
+#: styledlg.src
+msgctxt ""
+"styledlg.src\n"
+"RID_SCDLG_STYLES_PAGE\n"
+"tabdialog.text"
+msgid "Page Style"
+msgstr "Styl strony"
+
+#~ msgctxt ""
+#~ "scstyles.src\n"
+#~ "DLG_STYLE_DESIGNER.Cell Styles\n"
+#~ "2\n"
+#~ "filterlist.text"
+#~ msgid "Applied Styles"
+#~ msgstr "Stosowane Style"
+
+#~ msgctxt ""
+#~ "scstyles.src\n"
+#~ "DLG_STYLE_DESIGNER.Cell Styles\n"
+#~ "3\n"
+#~ "filterlist.text"
+#~ msgid "Custom Styles"
+#~ msgstr "Własne Style"
+
+#~ msgctxt ""
+#~ "scstyles.src\n"
+#~ "DLG_STYLE_DESIGNER.Page Styles\n"
+#~ "2\n"
+#~ "filterlist.text"
+#~ msgid "Custom Styles"
+#~ msgstr "Własne Style"
